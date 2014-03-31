@@ -58,3 +58,6 @@ docs/_build/
 fixtures/*.tsv
 fixtures/*.csv
 fixtures/*.json
+
+# Local configurations
+conf/octavo.yaml
