@@ -53,3 +53,8 @@ docs/_build/
 
 # OS X
 .DS_Store
+
+# Fixtures - ignore anything but .zip or .tgz
+fixtures/*.tsv
+fixtures/*.csv
+fixtures/*.json
