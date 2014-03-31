@@ -1,0 +1,1597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[qqkX8sMrWqlyBbkJzzGQ0A]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  <reviews start="201" end="226" total="226">
+    <review>
+  <id>762961209</id>
+    <book>
+  <id type="integer">17286922</id>
+  <isbn>1250036100</isbn>
+  <isbn13>9781250036100</isbn13>
+  <text_reviews_count type="integer">59</text_reviews_count>
+  <title>Dying Is My Business</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1375931569m/17286922.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1375931569s/17286922.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/17286922-dying-is-my-business</link>
+  <num_pages>384</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>St. Martin's Griffin</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.69</average_rating>
+  <ratings_count>160</ratings_count>
+  <description>Given his line of work in the employ of a psychotic Brooklyn crime boss, Trent finds himself on the wrong end of too many bullets. Yet each time he’s killed, he wakes a few minutes later completely healed of his wounds but with no memory of his past identity. What’s worse, each time he cheats death someone else dies in his place.&lt;br&gt;&lt;br&gt;Sent to steal an antique box from some squatters in an abandoned warehouse near the West Side Highway, Trent soon finds himself stumbling into an age-old struggle between the forces of good and evil, revealing a secret world where dangerous magic turns people into inhuman monstrosities, where impossible creatures hide in plain sight, and where the line between the living and the dead is never quite clear. And when the mysterious box is opened, he discovers he has only twenty-four hours to save New York City from certain destruction.</description>
+<authors>
+  <author>
+    <id>1137883</id>
+    <name>Nicholas Kaufmann</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1358117886p5/1137883.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1358117886p2/1137883.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1137883.Nicholas_Kaufmann]]></link>
+    <average_rating>3.79</average_rating>
+    <ratings_count>425</ratings_count>
+    <text_reviews_count>127</text_reviews_count>
+  </author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Nov 12 04:51:25 -0800 2013</date_added>
+  <date_updated>Tue Nov 12 04:51:25 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/762961209]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/762961209]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>726177349</id>
+    <book>
+  <id type="integer">17278772</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">22</text_reviews_count>
+  <title>Two Scoops of Django: Best Practices for Django 1.5</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1358953257m/17278772.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1358953257s/17278772.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/17278772-two-scoops-of-django</link>
+  <num_pages>277</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Cartwheel Web</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.31</average_rating>
+  <ratings_count>98</ratings_count>
+  <description>We'll introduce you to various tips, tricks, patterns, code snippets, and techniques that we've picked up over the years.&lt;br&gt;&lt;br&gt;This book is great for:&lt;br&gt;&lt;br&gt;Beginners who have just finished the Django tutorial.&lt;br&gt;&lt;br&gt;Developers with intermediate knowledge of Django who want to improve their Django projects.</description>
+<authors>
+  <author>
+    <id>6077346</id>
+    <name>Daniel Greenfield</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/6077346.Daniel_Greenfield]]></link>
+    <average_rating>4.34</average_rating>
+    <ratings_count>108</ratings_count>
+    <text_reviews_count>24</text_reviews_count>
+  </author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Sep 23 05:30:23 -0700 2013</date_added>
+  <date_updated>Mon Sep 23 05:30:23 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/726177349]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/726177349]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>702310681</id>
+    <book>
+  <id type="integer">62812</id>
+  <isbn>0099282895</isbn>
+  <isbn13>9780099282891</isbn13>
+  <text_reviews_count type="integer">68</text_reviews_count>
+  <title>Runaway Horses</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/62812.Runaway_Horses</link>
+  <num_pages>432</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage Classics</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.15</average_rating>
+  <ratings_count>1792</ratings_count>
+  <description>Isao is a young, engaging patriot, and a fanatical believer in the ancient samurai ethos. He turns terrorist, organising a violent plot against the new industrialists, who he believes are threatening the integrity of Japan and usurping the Emperor’s rightful power. As the conspiracy unfolds and unravels, Mishima brilliantly chronicles the conflicts of a decade that saw the fabric of Japanese life torn apart.</description>
+<authors>
+  <author>
+    <id>35258</id>
+    <name>Yukio Mishima</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1213653898p5/35258.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1213653898p2/35258.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/35258.Yukio_Mishima]]></link>
+    <average_rating>3.95</average_rating>
+    <ratings_count>35243</ratings_count>
+    <text_reviews_count>2319</text_reviews_count>
+  </author>
+</authors>
+  <published>1999</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Aug 23 17:46:45 -0700 2013</date_added>
+  <date_updated>Fri Aug 23 17:46:45 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/702310681]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/702310681]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>702310476</id>
+    <book>
+  <id type="integer">12749</id>
+  <isbn>0142437964</isbn>
+  <isbn13>9780142437964</isbn13>
+  <text_reviews_count type="integer">905</text_reviews_count>
+  <title>Swann's Way (In Search of Lost Time, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1269255643m/12749.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1269255643s/12749.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/12749.Swann_s_Way</link>
+  <num_pages>468</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Classics</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.13</average_rating>
+  <ratings_count>16713</ratings_count>
+  <description>Marcel Proust's &lt;em&gt;In Search of Lost Time&lt;/em&gt; is one of the most entertaining reading experiences in any language and arguably the finest novel of the twentieth century. But since its original prewar translation there has been no completely new version in English. Now, Penguin Classics brings Proust's masterpiece to new audiences throughout the world, beginning with Lydia Davis's internationally acclaimed translation of the first volume, &lt;em&gt;Swann's Way&lt;/em&gt;.</description>
+<authors>
+  <author>
+    <id>233619</id>
+    <name>Marcel Proust</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1392271688p5/233619.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1392271688p2/233619.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/233619.Marcel_Proust]]></link>
+    <average_rating>4.23</average_rating>
+    <ratings_count>41050</ratings_count>
+    <text_reviews_count>3197</text_reviews_count>
+  </author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Aug 23 17:46:24 -0700 2013</date_added>
+  <date_updated>Fri Aug 23 17:46:24 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/702310476]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/702310476]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>702310346</id>
+    <book>
+  <id type="integer">5988623</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <title>A Stable for Nightmares or Weird Tales</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/5988623-a-stable-for-nightmares-or-weird-tales</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>3.25</average_rating>
+  <ratings_count>28</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>26930</id>
+    <name>Joseph Sheridan Le Fanu</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1206504583p5/26930.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1206504583p2/26930.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/26930.Joseph_Sheridan_Le_Fanu]]></link>
+    <average_rating>3.83</average_rating>
+    <ratings_count>22970</ratings_count>
+    <text_reviews_count>1633</text_reviews_count>
+  </author>
+</authors>
+  <published/>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Aug 23 17:46:08 -0700 2013</date_added>
+  <date_updated>Fri Aug 23 17:46:08 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/702310346]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/702310346]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>702305446</id>
+    <book>
+  <id type="integer">11289</id>
+  <isbn>0553572989</isbn>
+  <isbn13>9780553572988</isbn13>
+  <text_reviews_count type="integer">458</text_reviews_count>
+  <title>The Rise of Endymion (Hyperion Cantos, #4)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1329609799m/11289.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1329609799s/11289.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/11289.The_Rise_of_Endymion</link>
+  <num_pages>709</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Spectra</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.12</average_rating>
+  <ratings_count>17697</ratings_count>
+  <description>The time of reckoning has arrived. As a final genocidal Crusade threatens to enslave humanity forever, a new messiah has come of age. She is Aenea and she has undergone a strange apprenticeship to those known as the Others. Now her protector, Raul Endymion, one-time shepherd and convicted murderer, must help her deliver her startling message to her growing army of disciples. &lt;br&gt;&lt;br&gt;But first they must embark on a final spectacular mission to discover the underlying meaning of the universe itself. They have been followed on their journey by the mysterious Shrike--monster, angel, killing machine--who is about to reveal the long-held secret of its origin and purpose. And on the planet of Hyperion, where the story first began, the final revelation will be delivered--an apocalyptic message that unlocks the secrets of existence and the fate of humankind in the galaxy.</description>
+<authors>
+  <author>
+    <id>2687</id>
+    <name>Dan Simmons</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1202439650p5/2687.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1202439650p2/2687.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2687.Dan_Simmons]]></link>
+    <average_rating>4.00</average_rating>
+    <ratings_count>232541</ratings_count>
+    <text_reviews_count>12951</text_reviews_count>
+  </author>
+</authors>
+  <published>1998</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Aug 23 17:37:37 -0700 2013</date_added>
+  <date_updated>Fri Aug 23 17:37:37 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/702305446]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/702305446]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>702305433</id>
+    <book>
+  <id type="integer">3977</id>
+  <isbn>0553572946</isbn>
+  <isbn13>9780553572940</isbn13>
+  <text_reviews_count type="integer">421</text_reviews_count>
+  <title>Endymion (Hyperion Cantos, #3)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1329611385m/3977.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1329611385s/3977.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/3977.Endymion</link>
+  <num_pages>563</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Bantam Spectra</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.10</average_rating>
+  <ratings_count>16524</ratings_count>
+  <description>Dan Simmons returns to the Hugo Award-winning universe of his spectacular bestsellers Hyperion and The Fall of Hyperion. This is the story of love, memory, triumph, and terror--likely to be one of the most eagerly-awaited SF events of the year!&lt;br&gt;&lt;br&gt;&lt;em&gt;From the back cover:&lt;/em&gt;&lt;br&gt;It is 274 years after the Fall and the universe is in chaos.  Raul Endymion, one time shepherd and convicted murderer, is chosen as a pawn in a cosmic game whose outcome will determine the fate of humanity.  Selected as a bodyguard to the next messiah, Endymion will cross time, space, and the very fabric of reality as her protector, lover, and finally disciple.  At the same time, the enigmatic Shrike - part monster, part killing machine, part avenging angel - has also followed the girl into the 32nd century.  Yet it is Endymion who has been chosen to rescue Aenea, against all odds.  How will her message change the universe - if she is willing to speak it...and if humankind is prepared to hear it?</description>
+<authors>
+  <author>
+    <id>2687</id>
+    <name>Dan Simmons</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1202439650p5/2687.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1202439650p2/2687.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2687.Dan_Simmons]]></link>
+    <average_rating>4.00</average_rating>
+    <ratings_count>232541</ratings_count>
+    <text_reviews_count>12951</text_reviews_count>
+  </author>
+</authors>
+  <published>1997</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Aug 23 17:37:34 -0700 2013</date_added>
+  <date_updated>Fri Aug 23 17:37:34 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/702305433]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/702305433]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>702304807</id>
+    <book>
+  <id type="integer">4443485</id>
+  <isbn>0316118400</isbn>
+  <isbn13>9780316118408</isbn13>
+  <text_reviews_count type="integer">152</text_reviews_count>
+  <title>The Flavor Bible: The Essential Guide to Culinary Creativity, Based on the Wisdom of America's Most Imaginative Chefs</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/4443485-the-flavor-bible</link>
+  <num_pages>392</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.30</average_rating>
+  <ratings_count>3209</ratings_count>
+  <description>&lt;strong&gt;Winner of the 2009 James Beard Book Award for Best Book: Reference and Scholarship&lt;/strong&gt;&lt;br&gt;&lt;br&gt;Great cooking goes beyond following a recipe--it's knowing how to season ingredients to coax the greatest possible flavor from them. Drawing on dozens of leading chefs' combined experience in top restaurants across the country, Karen Page and Andrew Dornenburg present the definitive guide to creating "deliciousness" in any dish. Thousands of ingredient entries, organized alphabetically and cross-referenced, provide a treasure trove of spectacular flavor combinations. Readers will learn to work more intuitively and effectively with ingredients; experiment with temperature and texture; excite the nose and palate with herbs, spices, and other seasonings; and balance the sensual, emotional, and spiritual elements of an extraordinary meal.Seasoned with tips, anecdotes, and signature dishes from America's most imaginative chefs, THE FLAVOR BIBLE is an essential reference for every kitchen.</description>
+<authors>
+  <author>
+    <id>4674</id>
+    <name>Karen Page</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1312316103p5/4674.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1312316103p2/4674.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/4674.Karen_Page]]></link>
+    <average_rating>4.28</average_rating>
+    <ratings_count>4382</ratings_count>
+    <text_reviews_count>245</text_reviews_count>
+  </author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Aug 23 17:36:32 -0700 2013</date_added>
+  <date_updated>Fri Aug 23 17:36:32 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/702304807]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/702304807]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>702303670</id>
+    <book>
+  <id type="integer">65692</id>
+  <isbn>059600768X</isbn>
+  <isbn13>9780596007683</isbn13>
+  <text_reviews_count type="integer">454</text_reviews_count>
+  <title>Just a Geek: Unflinchingly honest tales of the search for life, love, and fulfillment beyond the Starship Enterprise</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/65692.Just_a_Geek</link>
+  <num_pages>267</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.99</average_rating>
+  <ratings_count>3585</ratings_count>
+  <description>Wil Wheaton has never been one to take the conventional path to success. Despite early stardom through his childhood role in the motion picture "Stand By Me," and growing up on television as Wesley Crusher on "Star Trek: The Next Generation," Wil left Hollywood in pursuit of happiness, purpose, and a viable means of paying the bills. In the oddest of places, Topeka, Kansas, Wil discovered that despite his claims to fame, he was at heart "Just a Geek." In this bestselling book, Wil shares his deeply personal and difficult journey to find himself. You'll understand the rigors, and joys, of Wil's rediscovering of himself, as he comes to terms with what it means to be famous, or, ironically, famous for once having been famous. Writing with honesty and disarming humanity, Wil touches on the frustrations associated with his acting career, his inability to distance himself from Ensign Crusher in the public's eyes, the launch of his incredibly successful web site, wilwheaton.net, and the joy he's found in writing. Through all of this, Wil shares the ups and downs he encountered along the journey, along with the support and love he discovered from his friends and family. The stories in "Just a Geek" include:&lt;br&gt;&lt;br&gt;Wil's plunge from teen star to struggling actor Discovering the joys of HTML, blogging, Linux, and web design The struggle between Wesley Crusher, Starfleet ensign, and Wil Wheaton, author and blogger Gut-wrenching reactions to the 9-11 disaster Moving tales of Wil's relationships with his wife, step-children, and extended family The transition from a B-list actor to an A-list author&lt;br&gt;&lt;br&gt;Wil Wheaton--celebrity, blogger, and geek--writes for the geek in all of us. Engaging, witty, and pleasantly self-deprecating, "Just a Geek" will surprise you and make you laugh.</description>
+<authors>
+  <author>
+    <id>37075</id>
+    <name>Wil Wheaton</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1356706649p5/37075.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1356706649p2/37075.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/37075.Wil_Wheaton]]></link>
+    <average_rating>4.03</average_rating>
+    <ratings_count>8987</ratings_count>
+    <text_reviews_count>1757</text_reviews_count>
+  </author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Aug 23 17:34:36 -0700 2013</date_added>
+  <date_updated>Fri Aug 23 17:34:36 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/702303670]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/702303670]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>541334390</id>
+    <book>
+  <id type="integer">8506</id>
+  <isbn nil="true"/>
+  <isbn13>9780195181302</isbn13>
+  <text_reviews_count type="integer">103</text_reviews_count>
+  <title>Thomas Jefferson</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/8506.Thomas_Jefferson</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.94</average_rating>
+  <ratings_count>1641</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>2969409</id>
+    <name>R.B. Bernstein</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2969409.R_B_Bernstein]]></link>
+    <average_rating>4.00</average_rating>
+    <ratings_count>1462</ratings_count>
+    <text_reviews_count>66</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Feb 20 04:12:19 -0800 2013</date_added>
+  <date_updated>Wed Feb 20 04:12:19 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/541334390]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/541334390]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>541324211</id>
+    <book>
+  <id type="integer">52354</id>
+  <isbn>0131873725</isbn>
+  <isbn13>9780131873728</isbn13>
+  <text_reviews_count type="integer">12</text_reviews_count>
+  <title>Firms of Endearment: How World-Class Companies Profit from Passion and Purpose</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/52354.Firms_of_Endearment</link>
+  <num_pages>284</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Wharton School Publishing</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.99</average_rating>
+  <ratings_count>81</ratings_count>
+  <description>&lt;p&gt;Love, Joy, Authenticity, and Soul:&lt;/p&gt;&lt;p&gt;Building Winning Businesses in the&lt;/p&gt;&lt;p&gt;New Age of Transcendence&lt;/p&gt;&lt;p&gt;• Why today’s most humane companies are blowing away the S&amp;amp;P 500 averages&lt;/p&gt;&lt;p&gt;• Increasing “share of heart”: delivering the emotional, experiential, and social value your stakeholders are demanding&lt;/p&gt;&lt;p&gt;• 30 powerful case studies, including CarMax®, Timberland™, Jordan’s Furniture, Trader Joe’s, Wegmans, and Toyota™&lt;/p&gt;&lt;p&gt;Today’s best companies get it. From Costco® to Commerce Bank, Wegmans to Whole Foods®: they’re becoming the ultimate value creators. They’re generating every form of value that matters: emotional, experiential, social, and financial. And they’re doing it for all their stakeholders. Not because it’s “politically correct”: because it’s the only path to long-term competitive advantage.&lt;/p&gt;&lt;p&gt;These are the Firms of Endearment. Companies people love doing business with. Love partnering with. Love working for. Love investing in. Companies for whom “loyalty” isn’t just real: it’s palpable, and driving unbeatable advantages in everything from marketing to recruitment.&lt;/p&gt;&lt;p&gt;You need to become one of those companies. This book will show you how. You’ll find specific, practical guidance on transforming every relationship you have: with customers, associates, partners, investors, and society. If you want to be great–truly great–this is your blueprint.&lt;/p&gt;&lt;p&gt;We’re entering an Age of Transcendence, as people increasingly search for higher meaning in their lives, not just more possessions. This is transforming the marketplace, the workplace, the very soul of capitalism. Increasingly, today’s most successful companies are bringing love, joy, authenticity, empathy, and soulfulness into their businesses: they are delivering emotional, experiential, and social value—not just profits.&lt;/p&gt;&lt;p&gt;Firms of Endearment illuminates this, the most fundamental transformation in capitalism since Adam Smith. It’s not about “corporate social responsibility”: it’s about building companies that can sustain success in a radically new era. It’s about great companies like IDEO and IKEA®, Commerce Bank and Costco®, Wegmans and Whole Foods®: how they earn the powerful loyalty and affection that enables truly breathtaking performance.&lt;/p&gt;&lt;p&gt;This book is about gaining “share of heart,” not just share of wallet. It’s about aligning stakeholders’ interests, not just juggling them. It’s about building companies that leave the world a better place. Most of all, it’s about why you must do all this, or risk being left in the dust... and how to get there from wherever you are now.&lt;/p&gt;&lt;p&gt;Foreword xv&lt;/p&gt;&lt;p&gt;Prologue A Whole New World xxi&lt;/p&gt;&lt;p&gt;Chapter 1 It’s Not Share of Wallet Anymore; It’s Share of Heart 1&lt;/p&gt;&lt;p&gt;Chapter 2 New Age, New Rules, New Capitalism 23&lt;/p&gt;&lt;p&gt;Chapter 3 The Chaotic Interregnum 49&lt;/p&gt;&lt;p&gt;Chapter 4 Employees—The Decline and Fall of Human Resources 65&lt;/p&gt;&lt;p&gt;Chapter 5 Customers—The Power of Love 97&lt;/p&gt;&lt;p&gt;Chapter 6 Investors—Reaping What FoEs Sow 125&lt;/p&gt;&lt;p&gt;Chapter 7 Partners—Elegant Harmonies 145&lt;/p&gt;&lt;p&gt;Chapter 8 Society—The Ultimate Stakeholder 171&lt;/p&gt;&lt;p&gt;Chapter 9 Culture—The Secret Ingredient 197&lt;/p&gt;&lt;p&gt;Chapter 10 Lessons Learned 235&lt;/p&gt;&lt;p&gt;Chapter 11 Crossing Over to the Other Side 253&lt;/p&gt;&lt;p&gt;Acknowledgments 273&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+<authors>
+  <author>
+    <id>29573</id>
+    <name>Rajendra S. Sisodia</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/29573.Rajendra_S_Sisodia]]></link>
+    <average_rating>3.92</average_rating>
+    <ratings_count>98</ratings_count>
+    <text_reviews_count>13</text_reviews_count>
+  </author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Feb 20 03:44:21 -0800 2013</date_added>
+  <date_updated>Wed Feb 20 03:44:21 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/541324211]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/541324211]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>357939106</id>
+    <book>
+  <id type="integer">32475</id>
+  <isbn>1400082463</isbn>
+  <isbn13>9781400082469</isbn13>
+  <text_reviews_count type="integer">151</text_reviews_count>
+  <title>Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/32475.Dreaming_in_Code</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.60</average_rating>
+  <ratings_count>1079</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>18257</id>
+    <name>Scott Rosenberg</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18257.Scott_Rosenberg]]></link>
+    <average_rating>3.59</average_rating>
+    <ratings_count>1204</ratings_count>
+    <text_reviews_count>191</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Jun 29 06:01:16 -0700 2012</date_added>
+  <date_updated>Fri Jun 29 06:01:16 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/357939106]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/357939106]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>352697748</id>
+    <book>
+  <id type="integer">12963396</id>
+  <isbn>1400069483</isbn>
+  <isbn13>9781400069484</isbn13>
+  <text_reviews_count type="integer">654</text_reviews_count>
+  <title>Mission to Paris (Night Soldiers, #12)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/12963396-mission-to-paris</link>
+  <num_pages>255</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Random House</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.48</average_rating>
+  <ratings_count>3049</ratings_count>
+  <description>It is the late summer of 1938, Europe is about to explode, the Hollywood film star Fredric Stahl is on his way to Paris to make a movie for Paramount France. The Nazis know he’s coming—a secret bureau within the Reich Foreign Ministry has for years been waging political warfare against France, using bribery, intimidation, and corrupt newspapers to weaken French morale and degrade France’s will to defend herself.&lt;br&gt;  &lt;br&gt; For their purposes, Fredric Stahl is a perfect agent of influence, and they attack him. What they don’t know is that Stahl, horrified by the Nazi war on Jews and intellectuals, has become part of an informal spy service being run out of the American embassy in Paris.&lt;br&gt;  &lt;br&gt; From Alan Furst, the bestselling author, often praised as the best spy novelist ever, comes a novel that’s truly hard to put down. &lt;em&gt;Mission to Paris&lt;/em&gt; includes beautifully drawn scenes of romance and intimacy, and the novel is alive with extraordinary characters: the German Baroness von Reschke, a famous hostess deeply involved in Nazi clandestine operations; the assassins Herbert and Lothar; the Russian film actress and spy Olga Orlova; the Hungarian diplomat and spy, Count Janos Polanyi; along with the French cast of Stahl’s movie, German film producers, and the magnetic women in Stahl’s life, the socialite Kiki de Saint-Ange and the émigré Renate Steiner.&lt;br&gt;  &lt;br&gt; But always at the center of the novel is the city of Paris, the heart and soul of Europe—its alleys and bistros, hotels grand and anonymous, and the Parisians, living every night as though it was their last. As always, Alan Furst brings to life both a dark time in history and the passion of the human hearts that fought to survive it.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Advance praise for &lt;em&gt;Mission to Paris&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt; &lt;/strong&gt;&lt;br&gt; “The writing in &lt;em&gt;Mission to Paris,&lt;/em&gt; sentence after sentence, page after page, is dazzling. If you are a John le Carré fan, this is definitely a novel for you.”—James Patterson&lt;br&gt;  &lt;br&gt; “I am a huge fan of Alan Furst. Furst is the best in the business—the most talented espionage novelist of our generation.”—Vince Flynn&lt;br&gt; &lt;br&gt;&lt;strong&gt;Praise for Alan Furst&lt;/strong&gt;&lt;br&gt;  &lt;br&gt; “Unfolds like a vivid dream . . . One couldn’t ask for a more engrossing novel.”&lt;em&gt;—The Wall Street Journal, &lt;/em&gt;about&lt;em&gt; Spies of the Balkans&lt;/em&gt;&lt;br&gt;&lt;em&gt; &lt;/em&gt;&lt;br&gt; “Though set in a specific place and time, Furst’s books are like Chopin’s nocturnes: timeless, transcendent, universal. One does not so much read them as fall under their spell.”—&lt;em&gt;Los Angeles Times,&lt;/em&gt; about&lt;em&gt; The Spies of Warsaw&lt;/em&gt;&lt;br&gt;  &lt;br&gt; “Alan Furst’s novels swing a beam into the shadows at the edges of the great events leading to World War II. Readers come knowing he’ll deliver effortless narrative.”—&lt;em&gt;USA Today,&lt;/em&gt; about &lt;em&gt;The Foreign Correspondent&lt;/em&gt;&lt;br&gt;  &lt;br&gt; “Positively bristles with plot, characters and atmosphere . . . &lt;em&gt;Dark Voyage&lt;/em&gt; has the ingredients of several genres—the mystery, the historical novel, the espionage thriller, the romance—but it rises above all of them.”—&lt;em&gt;The Washington Post,&lt;/em&gt; about&lt;em&gt; Dark Voyage&lt;/em&gt;&lt;br&gt;  &lt;br&gt; “No other espionage writer touches [Furst’s] stylish forays into Budapest and Berlin, Moscow and Paris. No other writer today captures so well the terror and absurdity of the spy, the shabby tension and ennui of émigré communities at the time. His characters are hopeless, lethal, charming. His voice is, above all, knowing.”—&lt;em&gt;Boston Sunday Globe,&lt;/em&gt; about &lt;em&gt;Blood of Victory&lt;/em&gt;</description>
+<authors>
+  <author>
+    <id>49941</id>
+    <name>Alan Furst</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1226085973p5/49941.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1226085973p2/49941.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/49941.Alan_Furst]]></link>
+    <average_rating>3.90</average_rating>
+    <ratings_count>28112</ratings_count>
+    <text_reviews_count>3137</text_reviews_count>
+  </author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 21 06:47:30 -0700 2012</date_added>
+  <date_updated>Thu Jun 21 06:47:30 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/352697748]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/352697748]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>352697401</id>
+    <book>
+  <id type="integer">1251715</id>
+  <isbn>158017471X</isbn>
+  <isbn13>9781580174718</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <title>Home Sausage Making: How-To Techniques for Making and Enjoying 100 Sausages at Home</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328745424m/1251715.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328745424s/1251715.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/1251715.Home_Sausage_Making</link>
+  <num_pages>283</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Storey Publishing LLC</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>37</ratings_count>
+  <description>Sausage as the ingredient of the year in 2000! Who would have thought that Bon Appetit would make such a choice? But sausage it was. Maybe it was an increased interest in Mexican and other ethnic home-cooking; or the addition of new flavors such as apple, pesto, sun-dried tomato, and jalapeno pepper; or the development of leaner, healthier versions of old favorites (low-fat, turkey, hot Italian sausages anyone?). Whatever the reasons, sausage is hot and sales are growing. The National Hot Dog &amp;amp; Sausage Council expects sales to grow to $11.7 billion by 2008. So why not try your hand at making your own sausages?Home Sausage Making, with 95,000 copies in print, is the classic in the field. Now repackaged in a smaller, friendlier trim size for a new generation of sausage lovers, and completely revised and updated to comply with current USDA safety standards, this new edition features 150 recipes. Included in the lineup are 100 recipes for sausages (cased and uncased) and 50 recipes for cooking with sausage, all written for contemporary tastes and cooking styles. There are instructions for making sausages with beef and pork, fish and shellfish, chicken and turkey, and game meats. Ethnic favorites include German specialties such as Bratwurst, Mettwurst, and Vienna Sausage; Italian Cotechino and Luganega; Polish Fresh and Smoked Kielbasa; and Spanish-Style Chorizo, Potatis Korv (Swedish Potato Sausage), Kosher Salami, and Czech Yirtrnicky. On top of all the meat varieties, there is an entirely new section on vegetarian sausage options.'</description>
+<authors>
+  <author>
+    <id>604162</id>
+    <name>Susan Mahnke Peery</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/604162.Susan_Mahnke_Peery]]></link>
+    <average_rating>3.88</average_rating>
+    <ratings_count>41</ratings_count>
+    <text_reviews_count>6</text_reviews_count>
+  </author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 21 06:46:43 -0700 2012</date_added>
+  <date_updated>Thu Jun 21 06:46:43 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/352697401]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/352697401]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>352695839</id>
+    <book>
+  <id type="integer">8201080</id>
+  <isbn>0307269930</isbn>
+  <isbn13>9780307269935</isbn13>
+  <text_reviews_count type="integer">197</text_reviews_count>
+  <title>The Master Switch: The Rise and Fall of Information Empires</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1320518400m/8201080.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1320518400s/8201080.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/8201080-the-master-switch</link>
+  <num_pages>384</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Knopf</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.05</average_rating>
+  <ratings_count>1628</ratings_count>
+  <description>In this age of an open Internet, it is easy to forget that every American information industry, beginning with the telephone, has eventually been taken captive by some ruthless monopoly or cartel. With all our media now traveling a single network, an unprecedented potential is building for centralized control over what Americans see and hear. Could history repeat itself with the next industrial consolidation? Could the Internet—the entire flow of American information—come to be ruled by one corporate leviathan in possession of “the master switch”? That is the big question of Tim Wu’s pathbreaking book.&lt;br&gt;&lt;br&gt;As Wu’s sweeping history shows, each of the new media of the twentieth century—radio, telephone, television, and film—was born free and open. Each invited unrestricted use and enterprising experiment until some would-be mogul battled his way to total domination. Here are stories of an uncommon will to power, the power over information: Adolph Zukor, who took a technology once used as commonly as YouTube is today and made it the exclusive prerogative of a kingdom called Hollywood . . . NBC’s founder, David Sarnoff, who, to save his broadcast empire from disruptive visionaries, bullied one inventor (of electronic television) into alcoholic despair and another (this one of FM radio, and his boyhood friend) into suicide . . . And foremost, Theodore Vail, founder of the Bell System, the greatest information empire of all time, and a capitalist whose faith in Soviet-style central planning set the course of every information industry thereafter.&lt;br&gt;&lt;br&gt;Explaining how invention begets industry and industry begets empire—a progress often blessed by government, typically with stifling consequences for free expression and technical innovation alike—Wu identifies a time-honored pattern in the maneuvers of today’s great information powers: Apple, Google, and an eerily resurgent AT&amp;amp;T. A battle royal looms for the Internet’s future, and with almost every aspect of our lives now dependent on that network, this is one war we dare not tune out.&lt;br&gt;&lt;br&gt;Part industrial exposé, part meditation on what freedom requires in the information age, &lt;em&gt;The Master Switch&lt;/em&gt; is a stirring illumination of a drama that has played out over decades in the shadows of our national life and now culminates with terrifying implications for our future.</description>
+<authors>
+  <author>
+    <id>303279</id>
+    <name>Tim Wu</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1290062566p5/303279.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1290062566p2/303279.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/303279.Tim_Wu]]></link>
+    <average_rating>4.00</average_rating>
+    <ratings_count>1816</ratings_count>
+    <text_reviews_count>236</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 21 06:43:56 -0700 2012</date_added>
+  <date_updated>Thu Jun 21 06:43:56 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/352695839]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/352695839]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>310769365</id>
+    <book>
+  <id type="integer">6539577</id>
+  <isbn>006178267X</isbn>
+  <isbn13>9780061782671</isbn13>
+  <text_reviews_count type="integer">14</text_reviews_count>
+  <title>Terminal Man</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/6539577-terminal-man</link>
+  <num_pages>352</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harper</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.30</average_rating>
+  <ratings_count>14762</ratings_count>
+  <description>Harry Benson is prone to violent, uncontrollable seizures and is under police guard after attacking two people. Dr. Roger McPherson, head of the prestigious Neuropsychiatric Research Unit at University Hospital in Los Angeles, is convinced he can cure Benson through a procedure called Stage Three. During this highly specialized experimental surgery, electrodes will be placed in the patient's brain, sending monitored, soothing pulses to its pleasure canyons. But though the operation is a success, there is an unforeseen development. Benson learns how to control the pulses and is increasing their frequency. He escapes—a homicidal maniac loose in the city—and nothing will stop his murderous rampages or impede his deadly agenda . . .</description>
+<authors>
+  <author>
+    <id>5194</id>
+    <name>Michael Crichton</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1359042651p5/5194.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1359042651p2/5194.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/5194.Michael_Crichton]]></link>
+    <average_rating>3.69</average_rating>
+    <ratings_count>1279563</ratings_count>
+    <text_reviews_count>27767</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 11 17:12:05 -0700 2012</date_added>
+  <date_updated>Wed Apr 11 17:12:05 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/310769365]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/310769365]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>310769257</id>
+    <book>
+  <id type="integer">56503</id>
+  <isbn>0618717609</isbn>
+  <isbn13>9780618717606</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <title>Rebuilt: My Journey Back to the Hearing World</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/56503.Rebuilt</link>
+  <num_pages>240</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Mariner Books</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.70</average_rating>
+  <ratings_count>135</ratings_count>
+  <description>&lt;p&gt;Michael Chorost became a cyborg on October 1, 2001, the day his new ear was booted up. Born hard of hearing in 1964, he went completely deaf in his thirties. Rather than live in silence, he chose to have a computer surgically embedded in his skull to artificially restore his hearing. &lt;br&gt;This is the story of Chorost s journey -- from deafness to hearing, from human to cyborg -- and how it transformed him. The melding of silicon and flesh has long been the stuff of science fiction. But as Chorost reveals in this witty, poignant, and illuminating memoir, fantasy is now giving way to reality. &lt;/p&gt;&lt;br&gt;&lt;p&gt;Chorost found his new body mystifyingly mechanical: kitchen magnets stuck to his head, and he could plug himself directly into a CD player. His hearing was routinely upgraded with new software. All this forced him to confront complex questions about humans in the machine age: When the senses become programmable, can we trust what they tell us about the world? Will cochlear implants destroy the signing deaf community? And above all, are cyborgs still human? &lt;/p&gt;&lt;br&gt;&lt;p&gt;A brilliant dispatch from the technological frontier, Rebuilt is also an ode to sound. Whether Chorost is adjusting his software in a desperate attempt to make the world sound "right" again, exploring the neurobiology of the ear, or &lt;br&gt;reflecting on the simple pleasure of his mother s voice, he invites us to think about what we hear -- and how we experience the world -- in an altogether new way. &lt;/p&gt;&lt;br&gt;&lt;p&gt;Brimming with insight and written with dry, self-deprecating humor, this quirky coming-of-age story unveils, in a way no other book has, the magnificent possibilities of a new technological era. &lt;/p&gt;</description>
+<authors>
+  <author>
+    <id>31954</id>
+    <name>Michael Chorost</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/31954.Michael_Chorost]]></link>
+    <average_rating>3.75</average_rating>
+    <ratings_count>220</ratings_count>
+    <text_reviews_count>44</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 11 17:11:52 -0700 2012</date_added>
+  <date_updated>Wed Apr 11 17:11:52 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/310769257]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/310769257]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>309872906</id>
+    <book>
+  <id type="integer">8100267</id>
+  <isbn>141699176X</isbn>
+  <isbn13>9781416991762</isbn13>
+  <text_reviews_count type="integer">1481</text_reviews_count>
+  <title>Pathfinder (Pathfinder, #1)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/8100267-pathfinder</link>
+  <num_pages>657</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Simon Pulse</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.97</average_rating>
+  <ratings_count>10932</ratings_count>
+  <description>A powerful secret. A dangerous path. &lt;p&gt;Rigg is well trained at keeping secrets. Only his father knows the truth about Rigg's strange talent for seeing the paths of people's pasts. But when his father dies, Rigg is stunned to learn just how many secrets Father had kept from &lt;em&gt;him&lt;/em&gt;--secrets about Rigg's own past, his identity, and his destiny. And when Rigg discovers that he has the power not only to see the past, but also to change it, his future suddenly becomes anything but certain. &lt;/p&gt;&lt;p&gt;Rigg’s birthright sets him on a path that leaves him caught between two factions, one that wants him crowned and one that wants him dead. He will be forced to question everything he thinks he knows, choose who to trust, and push the limits of his talent…or forfeit control of his destiny.&lt;/p&gt;</description>
+<authors>
+  <author>
+    <id>589</id>
+    <name>Orson Scott Card</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1294099952p5/589.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1294099952p2/589.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/589.Orson_Scott_Card]]></link>
+    <average_rating>4.03</average_rating>
+    <ratings_count>1348354</ratings_count>
+    <text_reviews_count>65305</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Apr 10 06:30:52 -0700 2012</date_added>
+  <date_updated>Tue Apr 10 06:30:52 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/309872906]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/309872906]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>309870318</id>
+    <book>
+  <id type="integer">6732019</id>
+  <isbn>0307463745</isbn>
+  <isbn13>9780307463746</isbn13>
+  <text_reviews_count type="integer">1559</text_reviews_count>
+  <title>Rework</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/6732019-rework</link>
+  <num_pages>279</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Crown Business</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>27275</ratings_count>
+  <description>Most business books give you the same old advice: Write a business plan, study the competition, seek investors, yadda yadda. If you're looking for a book like that, put this one back on the shelf.&lt;br&gt;&lt;br&gt;&lt;em&gt;Rework &lt;/em&gt;shows you a better, faster, easier way to succeed in business. Read it and you'll know why plans are actually harmful, why you don't need outside investors, and why you're better off ignoring the competition. The truth is, you need less than you think. You don't need to be a workaholic. You don't need to staff up. You don't need to waste time on paperwork or meetings. You don't even need an office. Those are all just excuses. &lt;br&gt;&lt;br&gt; What you really need to do is stop talking and start working. This book shows you the way. You'll learn how to be more productive, how to get exposure without breaking the bank, and tons more counterintuitive ideas that will inspire and provoke you.&lt;br&gt;&lt;br&gt;With its straightforward language and easy-is-better approach, &lt;em&gt;Rework &lt;/em&gt;is the perfect playbook for anyone who’s ever dreamed of doing it on their own. Hardcore entrepreneurs, small-business owners, people stuck in day jobs they hate, victims of "downsizing," and artists who don’t want to starve anymore will all find valuable guidance in these pages.</description>
+<authors>
+  <author>
+    <id>60619</id>
+    <name>Jason Fried</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1284934282p5/60619.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1284934282p2/60619.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/60619.Jason_Fried]]></link>
+    <average_rating>3.98</average_rating>
+    <ratings_count>28636</ratings_count>
+    <text_reviews_count>1872</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Apr 10 06:25:20 -0700 2012</date_added>
+  <date_updated>Tue Apr 10 06:25:20 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/309870318]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/309870318]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>309870241</id>
+    <book>
+  <id type="integer">11238922</id>
+  <isbn>1451636008</isbn>
+  <isbn13>9781451636000</isbn13>
+  <text_reviews_count type="integer">81</text_reviews_count>
+  <title>Public Parts: How Sharing in the Digital Age is Revolutionizing Life, Business, and Society</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/11238922-public-parts</link>
+  <num_pages>272</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Simon &amp; Schuster Adult Publishing Group</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>552</ratings_count>
+  <description>A visionary and optimistic thinker examines the tension between privacy and publicness that is transforming how we form communities, create identities, do business, and live our lives.Thanks to the internet, we now live--more and more--in public. More than 750 million people (and half of all Americans) use Facebook, where we share a billion times a day. The collective voice of Twitter echoes instantly 100 million times daily, from Tahrir Square to the Mall of America, on subjects that range from democratic reform to unfolding natural disasters to celebrity gossip. New tools let us share our photos, videos, purchases, knowledge, friendships, locations, and lives.Yet change brings fear, and many people--nostalgic for a more homogeneous mass culture and provoked by well-meaning advocates for privacy--despair that the internet and how we share there is making us dumber, crasser, distracted, and vulnerable to threats of all kinds. But not Jeff Jarvis.In this shibboleth-destroying book, "Public Parts "argues persuasively and personally that the internet and our new sense of publicness are, in fact, doing the opposite. Jarvis travels back in time to show the amazing parallels of fear and resistance that met the advent of other innovations such as the camera and the printing press. The internet, he argues, will change business, society, and life as profoundly as Gutenberg's invention, shifting power from old institutions to us all.Based on extensive interviews, "Public Parts "introduces us to the men and women building a new industry based on sharing. Some of them have become household names--Facebook's Mark Zuckerberg, Google's Eric Schmidt, and Twitter's Evan Williams. Others may soon be recognized as the industrialists, philosophers, and designers of our future. Jarvis explores the promising ways in which the internet and publicness allow us to collaborate, think, ways--how we manufacture and market, buy and sell, organize and govern, teach and learn. He also examines the necessity as well as the limits of privacy in an effort to understand and thus protect it. This new and open era has already profoundly disrupted economies, industries, laws, ethics, childhood, and many other facets of our daily lives. But the change has just begun. The shape of the future is not assured. The amazing new tools of publicness can be used to good ends and bad. The choices--and the responsibilities--lie with us. Jarvis makes an urgent case that the future of the internet--what one technologist calls "the eighth continent"--requires as much protection as the physical space we share, the air we breathe, and the rights we afford one another. It is a space of the public, for the public, and by the public. It needs protection and respect from all of us. As Secretary of State Hillary Clinton said in the wake of the uprisings in the Middle East, "If people around the world are going to come together every day online and have a safe and productive experience, we need a shared vision to guide us." Jeff Jarvis has that vision and will be that guide.</description>
+<authors>
+  <author>
+    <id>2111906</id>
+    <name>Jeff Jarvis</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1313232668p5/2111906.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1313232668p2/2111906.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2111906.Jeff_Jarvis]]></link>
+    <average_rating>3.75</average_rating>
+    <ratings_count>4119</ratings_count>
+    <text_reviews_count>449</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Apr 10 06:25:10 -0700 2012</date_added>
+  <date_updated>Tue Apr 10 06:25:10 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/309870241]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/309870241]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>309870110</id>
+    <book>
+  <id type="integer">7745031</id>
+  <isbn>0399156828</isbn>
+  <isbn13>9780399156823</isbn13>
+  <text_reviews_count type="integer">726</text_reviews_count>
+  <title>Zero History (Blue Ant, #3)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1282769471m/7745031.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1282769471s/7745031.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/7745031-zero-history</link>
+  <num_pages>404</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Putnam Adult</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.90</average_rating>
+  <ratings_count>7396</ratings_count>
+  <description>&lt;strong&gt;The iconic visionary returns with his first new novel since the &lt;em&gt;New York Times&lt;/em&gt; bestseller &lt;em&gt;Spook Country&lt;/em&gt;.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;Whatever you do, because you are an artist, will bring you to the next thing of your own...&lt;/em&gt;&lt;br&gt;&lt;br&gt; When she sang for The Curfew, Hollis Henry's face was known worldwide. She still runs into people who remember the poster. Unfortunately, in the post-crash economy, cult memorabilia doesn't pay the rent, and right now she's a journalist in need of a job. The last person she wants to work for is Hubertus Bigend, twisted genius of global marketing; but there's no way to tell an entity like Bigend that you want nothing more to do with him. That simply brings you more firmly to his attention.&lt;br&gt;&lt;br&gt; Milgrim is clean, drug-free for the first time in a decade. It took eight months in a clinic in Basel. Fifteen complete changes of his blood. Bigend paid for all that. Milgrim's idiomatic Russian is superb, and he notices things. Meanwhile no one notices Milgrim. That makes him worth every penny, though it cost Bigend more than his cartel-grade custom-armored truck.&lt;br&gt;&lt;br&gt; The culture of the military has trickled down to the street- Bigend knows that, and he'll find a way to take a cut. What surprises him though is that someone else seems to be on top of that situation in a way that Bigend associates only with himself. Bigend loves staring into the abyss of the global market; he's just not used to it staring back.&lt;br&gt;&lt;br&gt; Watch a Video</description>
+<authors>
+  <author>
+    <id>9226</id>
+    <name>William Gibson</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1373826214p5/9226.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1373826214p2/9226.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/9226.William_Gibson]]></link>
+    <average_rating>3.83</average_rating>
+    <ratings_count>306465</ratings_count>
+    <text_reviews_count>10719</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Apr 10 06:24:51 -0700 2012</date_added>
+  <date_updated>Tue Apr 10 06:24:51 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/309870110]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/309870110]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>309868398</id>
+    <book>
+  <id type="integer">13167219</id>
+  <isbn>1250007305</isbn>
+  <isbn13>9781250007308</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Zero Day</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/13167219-zero-day</link>
+  <num_pages>336</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>St. Martin's Griffin</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.45</average_rating>
+  <ratings_count>1921</ratings_count>
+  <description>Over the Atlantic, an airliner’s controls suddenly stop reacting. In Japan, an oil tanker runs aground when its navigational system fails. And in America, a nuclear power plant nearly becomes the next Chernobyl.&lt;br&gt;&lt;br&gt;At first, these computer failures seem unrelated. But Jeff Aiken, a former government analyst who saw the mistakes made before 9/11, fears that there may be a more serious attack coming. And he soon realizes that there isn’t much time if he hopes to stop an international disaster.</description>
+<authors>
+  <author>
+    <id>3075959</id>
+    <name>Mark Russinovich</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1306459777p5/3075959.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1306459777p2/3075959.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3075959.Mark_Russinovich]]></link>
+    <average_rating>3.56</average_rating>
+    <ratings_count>2727</ratings_count>
+    <text_reviews_count>399</text_reviews_count>
+  </author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Apr 10 06:21:13 -0700 2012</date_added>
+  <date_updated>Mon May 14 15:04:22 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/309868398]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/309868398]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>309859107</id>
+    <book>
+  <id type="integer">7775851</id>
+  <isbn>0743270762</isbn>
+  <isbn13>9780743270762</isbn13>
+  <text_reviews_count type="integer">124</text_reviews_count>
+  <title>The Gun</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/7775851-the-gun</link>
+  <num_pages>496</num_pages>
+  <format>Hardcover</format>
+  <edition_information>1st</edition_information>
+  <publisher>Simon &amp; Schuster (NY)</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.95</average_rating>
+  <ratings_count>793</ratings_count>
+  <description>At a secret arms-design contest in Stalin’s USSR, army technicians submitted a stubby rifle with a curved magazine. Dubbed the AK-47, it was selected as the Eastern Bloc’s standard arm. Scoffed at in the Pentagon as crude, it was in fact a breakthrough—a compact automatic that could be mastered by anyone, last decades in the field, &amp;amp; rarely jam. Manufactured by tens of millions in planned economies, it became 1st an instrument of repression &amp;amp; then the most lethal weapon of the Cold War. Soon it was in the hands of terrorists. In an examination of modern conflict &amp;amp; official folly, C.J. Chivers mixes historical research, investigative reporting &amp;amp; battlefield reportage to illuminate the origins of the world’s most abundant firearm &amp;amp; consequences of its spread. The result, a tour de force of history &amp;amp; storytelling, sweeps thru the miniaturization &amp;amp; distribution of automatic firepower &amp;amp; puts an iconic object in fuller context. &lt;em&gt;The Gun&lt;/em&gt; dismantles myths as it moves from the naïve optimism of the Industrial Revolution thru the treacherous milieu of the USSR to the inside records of the Taliban. Chivers tells of the 19th-century inventor in Indianapolis who designs a Civil War killing machine, insisting efficient slaughter will save lives. A German attaché who observes British machine guns killing Islamic warriors along the Nile advises his government to amass weapons that would later flatten British ranks in WWI. A locksmith acquires an AK-47 to help wrest Hungary from the Kremlin’s yoke, beginning a journey to the gallows. The Pentagon suppresses the results of firing tests on severed human heads that might have prevented faulty rifles from being rushed to GIs in Vietnam. In Africa, a millennial madman arms abducted children &amp;amp; turns them on their neighbors. &lt;em&gt;The Gun&lt;/em&gt; builds to a terrifying sequence, in which a young man who confronts a trio of assassins is shattered by 23 bullets at close range. The man survives to ask questions that Chivers examines with rigor. Throughout, &lt;em&gt;The Gun&lt;/em&gt; animates unforgettable characters—inventors, salesmen, heroes, megalomaniacs, racists, dictators, gunrunners, terrorists, child soldiers, government careerists &amp;amp; fools. Drawing from years of research, interviews &amp;amp; declassified records revealed for the 1st time, he presents a rich human account of an evolution in the experience of war.</description>
+<authors>
+  <author>
+    <id>3390633</id>
+    <name>C.J. Chivers</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3390633.C_J_Chivers]]></link>
+    <average_rating>3.96</average_rating>
+    <ratings_count>865</ratings_count>
+    <text_reviews_count>152</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Apr 10 05:58:10 -0700 2012</date_added>
+  <date_updated>Tue Apr 10 05:58:10 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/309859107]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/309859107]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>300947566</id>
+    <book>
+  <id type="integer">22322</id>
+  <isbn>0399154302</isbn>
+  <isbn13>9780399154300</isbn13>
+  <text_reviews_count type="integer">1054</text_reviews_count>
+  <title>Spook Country (Blue Ant, #2)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/22322.Spook_Country</link>
+  <num_pages>371</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Putnam Adult</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.60</average_rating>
+  <ratings_count>11356</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>9226</id>
+    <name>William Gibson</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1373826214p5/9226.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1373826214p2/9226.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/9226.William_Gibson]]></link>
+    <average_rating>3.83</average_rating>
+    <ratings_count>306465</ratings_count>
+    <text_reviews_count>10719</text_reviews_count>
+  </author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Mar 26 06:20:53 -0700 2012</date_added>
+  <date_updated>Tue Apr 10 06:24:06 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/300947566]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/300947566]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>300947000</id>
+    <book>
+  <id type="integer">9449985</id>
+  <isbn>006171951X</isbn>
+  <isbn13>9780061719516</isbn13>
+  <text_reviews_count type="integer">210</text_reviews_count>
+  <title>The Clockwork Universe: Isaac Newton, the Royal Society, and the Birth of the Modern World</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328825442m/9449985.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328825442s/9449985.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/9449985-the-clockwork-universe</link>
+  <num_pages>378</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harper</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.88</average_rating>
+  <ratings_count>1536</ratings_count>
+  <description>&lt;em&gt;The Clockwork Universe&lt;/em&gt; is the story of a band of men who lived in a world of dirt and disease but pictured a universe that ran like a perfect machine. A meld of history and science, this book is a group portrait of some of the greatest minds who ever lived as they wrestled with nature’s most sweeping mysteries. The answers they uncovered still hold the key to how we understand the world.&lt;br&gt;&lt;br&gt;At the end of the seventeenth century—an age of religious wars, plague, and the Great Fire of London—when most people saw the world as falling apart, these earliest scientists saw a world of perfect order. They declared that, chaotic as it looked, the universe was in fact as intricate and perfectly regulated as a clock. This was the tail end of Shakespeare’s century, when the natural land the supernatural still twined around each other. Disease was a punishment ordained by God, astronomy had not yet broken free from astrology, and the sky was filled with omens. It was a time when little was known and everything was new. These brilliant, ambitious, curious men believed in angels, alchemy, and the devil, and they also believed that the universe followed precise, mathematical laws—-a contradiction that tormented them and changed the course of history.&lt;br&gt;&lt;br&gt;&lt;em&gt;The Clockwork Universe&lt;/em&gt; is the fascinating and compelling story of the bewildered geniuses of the Royal Society, the men who made the modern world.</description>
+<authors>
+  <author>
+    <id>11059</id>
+    <name>Edward Dolnick</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/m_200x266-e1021c586c5c6da845174faa816a3406.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/m_50x66-e89fc14c32a41c0eb4298dfafe929b65.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/11059.Edward_Dolnick]]></link>
+    <average_rating>3.80</average_rating>
+    <ratings_count>4434</ratings_count>
+    <text_reviews_count>727</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Mar 26 06:19:37 -0700 2012</date_added>
+  <date_updated>Tue Apr 10 06:04:57 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/300947000]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/300947000]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>300946913</id>
+    <book>
+  <id type="integer">771</id>
+  <isbn>0375708111</isbn>
+  <isbn13>9780375708114</isbn13>
+  <text_reviews_count type="integer">1004</text_reviews_count>
+  <title>The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/771.The_Elegant_Universe</link>
+  <num_pages>425</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.05</average_rating>
+  <ratings_count>37033</ratings_count>
+  <description>&lt;strong&gt;A fascinating and thought-provoking journey through the mysteries of space, time, and matter.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;With a new preface (not in any other edition) that will review the enormous public reception of the relatively obscure string theory—made possible by this book and an increased number of adherents amongst physicists—&lt;em&gt;The Elegant Universe&lt;/em&gt; "sets a standard that will be hard to beat" (&lt;em&gt;New York Times Book Review&lt;/em&gt;). Brian Greene, one of the world's leading string theorists, peels away the layers of mystery surrounding string theory to reveal a universe that consists of eleven dimensions, where the fabric of space tears and repairs itself, and all matter—from the smallest quarks to the most gargantuan supernovas—is generated by the vibrations of microscopically tiny loops of energy.    &lt;/p&gt;&lt;p&gt;Today physicists and mathematicians throughout the world are feverishly working on one of the most ambitious theories ever proposed: superstring theory. String theory, as it is often called, is the key to the Unified Field Theory that eluded Einstein for more than thirty years. Finally, the century-old antagonism between the large and the small-General Relativity and Quantum Theory-is resolved. String theory proclaims that all of the wondrous happenings in the universe, from the frantic dancing of subatomic quarks to the majestic swirling of heavenly galaxies, are reflections of one grand physical principle and manifestations of one single entity: microscopically tiny vibrating loops of energy, a billionth of a billionth the size of an atom. In this brilliantly articulated and refreshingly clear book, Greene relates the scientific story and the human struggle behind twentieth-century physics' search for a theory of everything.     &lt;/p&gt;&lt;p&gt;Through the masterful use of metaphor and analogy, &lt;em&gt;The Elegant Universe&lt;/em&gt; makes some of the most sophisticated concepts ever contemplated viscerally accessible and thoroughly entertaining, bringing us closer than ever to understanding how the universe works.&lt;/p&gt;</description>
+<authors>
+  <author>
+    <id>509</id>
+    <name>Brian Greene</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1227070497p5/509.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1227070497p2/509.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/509.Brian_Greene]]></link>
+    <average_rating>4.07</average_rating>
+    <ratings_count>58267</ratings_count>
+    <text_reviews_count>2199</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Mar 26 06:19:28 -0700 2012</date_added>
+  <date_updated>Tue Apr 10 06:03:03 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/300946913]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/300946913]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

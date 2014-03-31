@@ -1,0 +1,3060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[qqkX8sMrWqlyBbkJzzGQ0A]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  <reviews start="201" end="249" total="249">
+    <review>
+  <id>892309984</id>
+    <book>
+  <id type="integer">10637510</id>
+  <isbn>0803737416</isbn>
+  <isbn13>9780803737419</isbn13>
+  <text_reviews_count type="integer">258</text_reviews_count>
+  <title>First Kill (The Slayer Chronicles, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1314048263m/10637510.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1314048263s/10637510.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/10637510-first-kill</link>
+  <num_pages>320</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton Juvenile</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>2738</ratings_count>
+  <description>The summer before ninth grade, when Joss sets off to meet his uncle and hunt down the beast that murdered his younger sister three years earlier, he learns he is destined to join the Slayer Society.</description>
+<authors>
+  <author>
+    <id>293603</id>
+    <name>Heather Brewer</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1386124828p5/293603.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1386124828p2/293603.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/293603.Heather_Brewer]]></link>
+    <average_rating>4.15</average_rating>
+    <ratings_count>80320</ratings_count>
+    <text_reviews_count>6483</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri May 04 00:00:00 -0700 2012</read_at>
+  <date_added>Wed Mar 26 06:53:47 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:47 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309984]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309984]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309976</id>
+    <book>
+  <id type="integer">3188580</id>
+  <isbn>0803730020</isbn>
+  <isbn13>9780803730021</isbn13>
+  <text_reviews_count type="integer">1754</text_reviews_count>
+  <title>Impossible (Impossible, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1391412266m/3188580.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1391412266s/3188580.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/3188580-impossible</link>
+  <num_pages>376</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dial</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.67</average_rating>
+  <ratings_count>13038</ratings_count>
+  <description>Lucy is seventeen when she discovers that she is the latest recipient of a generations-old family curse that requires her to complete three seemingly impossible tasks or risk falling into madness and passing the curse on to the next generation. Unlike her ancestors, though, Lucy has family, friends, and other modern resources to help her out. But will it be enough to conquer this age-old evil? &lt;br&gt;&lt;br&gt;A beautifully wrought modern fairy tale from master storyteller and award-winning author Nancy Werlin. Inspired by the classic folk ballad "Scarborough Fair," this is a wonderfully riveting and haunting novel of suspense, romance, and fantasy.</description>
+<authors>
+  <author>
+    <id>63983</id>
+    <name>Nancy Werlin</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1213649469p5/63983.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1213649469p2/63983.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/63983.Nancy_Werlin]]></link>
+    <average_rating>3.68</average_rating>
+    <ratings_count>28106</ratings_count>
+    <text_reviews_count>4233</text_reviews_count>
+  </author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:47 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:47 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309976]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309976]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309971</id>
+    <book>
+  <id type="integer">110535</id>
+  <isbn>0803730012</isbn>
+  <isbn13>9780803730014</isbn13>
+  <text_reviews_count type="integer">694</text_reviews_count>
+  <title>The Rules of Survival</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1319276230m/110535.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1319276230s/110535.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/110535.The_Rules_of_Survival</link>
+  <num_pages>272</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dial</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>7080</ratings_count>
+  <description>&lt;strong&gt;This National Book Award Finalist is a thought-provoking exploration of emotional abuse, self-reliance and the nature of evil. A heart-wrenching portrait of family crisis, this is perfect for fans of Laurie Halse Anderson’s &lt;em&gt;Speak &lt;/em&gt;and Jay Asher’s &lt;em&gt;Thirteen Reasons Why&lt;/em&gt;.&lt;/strong&gt;&lt;br&gt;  &lt;br&gt; For Matt and his sisters, life with their cruel, physically abusive mother is a day-to-day struggle for survival. But then Matt witnesses a man named Murdoch coming to a child’s rescue in a convenience store; and for the first time, he feels a glimmer of hope. Then, amazingly, Murdoch begins dating Matt’s mother. Life is suddenly almost good. But the relief lasts only a short time. When Murdoch inevitable breaks up with their mother, Matt knows that he’ll need to take some action. Can he call upon Murdoch to be his hero? Or will Matt have to take measures into his own hands?&lt;br&gt;  &lt;br&gt; A gripping, powerful novel that will stay with you long after you’ve read it. Nancy Werlin, the &lt;em&gt;New York Times&lt;/em&gt; Bestselling author of &lt;em&gt;Impossible&lt;/em&gt;, shows why she is a master of her genre.&lt;br&gt;  &lt;br&gt;  &lt;br&gt; �[A] dark but hopeful tale, with pacing and suspense guaranteed to leave readers breathlessly turning the pages.”—&lt;em&gt;Booklist&lt;/em&gt; (starred review)&lt;br&gt;  &lt;br&gt; �Beautifully framed as a letter from Matthew to his younger sister, the suspense is paced to keep Matthew’s survival and personal revelations chock-full of dramatic tension. Bring tissues.”—&lt;em&gt;Kirkus&lt;/em&gt; (starred review)&lt;br&gt;  &lt;br&gt; �Grace and insight.”—&lt;em&gt;School Library Journal&lt;/em&gt; (starred review)&lt;br&gt;  &lt;br&gt; National Book Award Finalist&lt;br&gt; LA Times Book Prize Finalist&lt;br&gt; ALA Best Books of the Year&lt;br&gt; ALA Quick Pick&lt;br&gt;  </description>
+<authors>
+  <author>
+    <id>63983</id>
+    <name>Nancy Werlin</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1213649469p5/63983.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1213649469p2/63983.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/63983.Nancy_Werlin]]></link>
+    <average_rating>3.68</average_rating>
+    <ratings_count>28106</ratings_count>
+    <text_reviews_count>4233</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Nov 09 00:00:00 -0800 2011</read_at>
+  <date_added>Wed Mar 26 06:53:46 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:46 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Hmmm... this kid grew up with one sick and twisted mom.  The story was riveting and terribly sad.  Werlin does a great job of describing what it would be like to live in constant fear from the person who is supposed to look out for you the most.  Her writing seems a little forced to me--esp Matthew'...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309971]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309971]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309967</id>
+    <book>
+  <id type="integer">6708137</id>
+  <isbn>0802720749</isbn>
+  <isbn13>9780802720740</isbn13>
+  <text_reviews_count type="integer">231</text_reviews_count>
+  <title>Hearts at Stake (The Drake Chronicles, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1340849993m/6708137.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1340849993s/6708137.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/6708137-hearts-at-stake</link>
+  <num_pages>248</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Walker &amp; Company</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>11622</ratings_count>
+  <description>On Solange’s sixteenth birthday, she is going to wake up dead. As if that’s not bad enough, she also has to outwit her seven overprotective older brothers, avoid the politics involved with being the only daughter born to an ancient vampire dynasty, and elude Kieran Black—agent of an anti-vampire league who is searching for his father’s killer and is intent on staking Solange and her entire family.&lt;br&gt;&lt;br&gt;     Luckily she has her own secret weapon—her human best friend Lucy—who is willing to defend Solange’s right to a normal life, whether she’s being smothered by her well-intentioned brothers or abducted by a power-hungry queen. Two unlikely alliances are formed in a race to save Solange’s eternal life—Lucy and Solange’s brother Nicholas, and Solange and Kieran Black—in a dual romance that is guaranteed to jump start any romance-lover’s heart.&lt;br&gt;&lt;br&gt;     Even fans of the genre who’ve seen it all will find a fresh read with kick-butt characters and family dynamics that ring true for all brothers and sisters—vampire or otherwise.</description>
+<authors>
+  <author>
+    <id>3020684</id>
+    <name>Alyxandra Harvey</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1317331711p5/3020684.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1317331711p2/3020684.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3020684.Alyxandra_Harvey]]></link>
+    <average_rating>4.11</average_rating>
+    <ratings_count>45738</ratings_count>
+    <text_reviews_count>3880</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Apr 08 00:00:00 -0700 2011</date_added>
+  <date_updated>Wed Mar 26 06:53:46 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I liked this book a lot.  Harvey based the story on Snow White and the 7 Dwarves, except it's about a family of vampires who get it passed down genetically on their 16th birthday.  Solange has 7 older brothers, who are incredibly hot, and also very  protective of her.  There's a lot of stuff going on...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309967]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309967]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309930</id>
+    <book>
+  <id type="integer">954674</id>
+  <isbn>0765319853</isbn>
+  <isbn13>9780765319852</isbn13>
+  <text_reviews_count type="integer">3477</text_reviews_count>
+  <title>Little Brother (Little Brother, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1349673129m/954674.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1349673129s/954674.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/954674.Little_Brother</link>
+  <num_pages>382</num_pages>
+  <format>Hardcover</format>
+  <edition_information>Tor</edition_information>
+  <publisher>Tor Teen</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.95</average_rating>
+  <ratings_count>24154</ratings_count>
+  <description>Marcus aka “w1n5t0n,” is only seventeen years old, but he figures he already knows how the system works–and how to work the system. Smart, fast, and wise to the ways of the networked world, he has no trouble outwitting his high school’s intrusive but clumsy surveillance systems.&lt;br&gt;&lt;br&gt;But his whole world changes when he and his friends find themselves caught in the aftermath of a major terrorist attack on San Francisco. In the wrong place at the wrong time, Marcus and his crew are apprehended by the Department of Homeland Security and whisked away to a secret prison where they’re mercilessly interrogated for days.&lt;br&gt;&lt;br&gt;When the DHS finally releases them, his injured best friend Darryl does not come out. The city has become a police state where every citizen is treated like a potential terrorist. He knows that no one will believe his story, which leaves him only one option: "M1k3y" will take down the DHS himself.</description>
+<authors>
+  <author>
+    <id>12581</id>
+    <name>Cory Doctorow</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1361468756p5/12581.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1361468756p2/12581.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/12581.Cory_Doctorow]]></link>
+    <average_rating>3.79</average_rating>
+    <ratings_count>72585</ratings_count>
+    <text_reviews_count>10019</text_reviews_count>
+  </author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Jan 12 00:00:00 -0800 2008</read_at>
+  <date_added>Wed Mar 26 06:53:43 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:43 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book has been hailed as one of the most important books of 2008.  I'm glad I read it, but I didn't really enjoy it.  <br /><br />Little Brother basically explores the idea of homeland security getting even more tight--of the NSA spying in US citizens and tracking our every move.  The story follows Marcus w...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309930]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309930]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309915</id>
+    <book>
+  <id type="integer">9713071</id>
+  <isbn>0763656526</isbn>
+  <isbn13>9780763656522</isbn13>
+  <text_reviews_count type="integer">666</text_reviews_count>
+  <title>Angel Burn (Angel, #1)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/9713071-angel-burn</link>
+  <num_pages>449</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.94</average_rating>
+  <ratings_count>19376</ratings_count>
+  <description>&lt;strong&gt;They're out for your soul.&lt;br&gt;And they don't have heaven in mind...&lt;/strong&gt;&lt;br&gt;&lt;br&gt;Willow knows she's different from other girls, and not just because she loves tinkering with cars.  Willow has a gift.  She can look into the future and know people's dreams and hopes, their sorrows and regrets, just by touching them.  she has no idea where this power comes from.  But the assassin, Alex, does.  Gorgeous, mysterious Alex knows more about Willow than Willow herself does.  He knows that her powers link to dark and dangerous forces and that he's one of the few humans left who can fight them.  When Alex finds himself falling in love with his sworn enemy, he discovers that nothing is as it seems, least of all good and evil.</description>
+<authors>
+  <author>
+    <id>3465557</id>
+    <name>L.A. Weatherly</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1371565685p5/3465557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1371565685p2/3465557.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3465557.L_A_Weatherly]]></link>
+    <average_rating>4.01</average_rating>
+    <ratings_count>29617</ratings_count>
+    <text_reviews_count>2765</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:42 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:42 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[In Weatherly's world, angels are aliens who appear to people and suck the life force out of them.  They are beautiful parasites, and most of the ones we encounter are pure evil.  This book started out great.  I couldn't wait to pick up the story of Alex, and Angel Killer, and Willow, a girl with a m...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309915]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309915]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309904</id>
+    <book>
+  <id type="integer">346282</id>
+  <isbn>0763629065</isbn>
+  <isbn13>9780763629069</isbn13>
+  <text_reviews_count type="integer">58</text_reviews_count>
+  <title>The Restless Dead: Ten Original Stories of the Supernatural</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1320431210m/346282.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1320431210s/346282.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/346282.The_Restless_Dead</link>
+  <num_pages>272</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Candlewick Press</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.51</average_rating>
+  <ratings_count>382</ratings_count>
+  <description>&lt;strong&gt;Ten extraordinary authors spin hair-raising original tales collected by the anthologist of GOTHIC!&lt;/strong&gt;&lt;br&gt;&lt;br&gt;With scary stories by: M. T. Anderson, Holly Black, Libba Bray, Herbie Brennan, Nancy Etchemendy, Annette Curtis Klause, Kelly Link, Deborah Noyes, Marcus Sedgwick, and Chris Wooding&lt;br&gt;&lt;br&gt;Enter the murky world of the undead. From a beyond-the-grave stalker to prankster devil worshippers, from a childish ghost of the future to a vampire lover with bloody ties to the past, the characters in these ten original stories will send shivers down your spine. Why do we fear the undead? Find out in this spooky companion volume to GOTHIC! TEN ORIGINAL DARK TAKES, and enjoy another graveyard walk in the company of ten contemporary masters of horror and suspense.</description>
+<authors>
+  <author>
+    <id>140686</id>
+    <name>Deborah Noyes</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1366349245p5/140686.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1366349245p2/140686.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/140686.Deborah_Noyes]]></link>
+    <average_rating>3.46</average_rating>
+    <ratings_count>1790</ratings_count>
+    <text_reviews_count>424</text_reviews_count>
+  </author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 03 00:00:00 -0800 2010</date_added>
+  <date_updated>Wed Mar 26 06:53:41 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309904]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309904]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309898</id>
+    <book>
+  <id type="integer">295117</id>
+  <isbn>0763626139</isbn>
+  <isbn13>9780763626136</isbn13>
+  <text_reviews_count type="integer">264</text_reviews_count>
+  <title>Vegan, Virgin, Valentine (V Valentine, #1)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/295117.Vegan_Virgin_Valentine</link>
+  <num_pages>228</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Candlewick Press</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.62</average_rating>
+  <ratings_count>3504</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>27621</id>
+    <name>Carolyn Mackler</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1246243509p5/27621.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1246243509p2/27621.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/27621.Carolyn_Mackler]]></link>
+    <average_rating>3.63</average_rating>
+    <ratings_count>49178</ratings_count>
+    <text_reviews_count>6411</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Aug 02 00:00:00 -0700 2010</read_at>
+  <date_added>Mon Aug 02 00:00:00 -0700 2010</date_added>
+  <date_updated>Wed Mar 26 06:53:40 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Mara is an overachiever who is about to graduate from high school and head off to Yale.  Half way through her senior year, her niece (a junior) comes to live with Mara and her parents.  "V", as she calls herself, seems to be Mara's opposite:  she hooks up with boys she barely knows, smokes pot, and...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309898]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309898]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309894</id>
+    <book>
+  <id type="integer">253106</id>
+  <isbn>0763620912</isbn>
+  <isbn13>9780763620912</isbn13>
+  <text_reviews_count type="integer">983</text_reviews_count>
+  <title>The Earth, My Butt, and Other Big Round Things</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/253106.The_Earth_My_Butt_and_Other_Big_Round_Things</link>
+  <num_pages>244</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Candlewick Press</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.74</average_rating>
+  <ratings_count>14780</ratings_count>
+  <description>"The heroine's transformation into someone who finds her own style and speaks her own mind is believable -- and worthy of applause." -- PUBLISHERS WEEKLY &lt;br&gt;Fifteen-year-old Virginia Shreves has a larger-than-average body and a plus-size inferiority complex, especially when she compares herself to her slim, brilliant, picture-perfect family. But that's before a shocking phone call -- and a horrifying allegation -- about her rugby-star brother changes everything. With irreverent humor and surprising gravity, Carolyn Mackler creates an endearingly blunt heroine who speaks to every teen who struggles with family expectations, and proves that the most impressive achievement is to be true to yourself.</description>
+<authors>
+  <author>
+    <id>27621</id>
+    <name>Carolyn Mackler</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1246243509p5/27621.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1246243509p2/27621.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/27621.Carolyn_Mackler]]></link>
+    <average_rating>3.63</average_rating>
+    <ratings_count>49178</ratings_count>
+    <text_reviews_count>6411</text_reviews_count>
+  </author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:40 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:40 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is a pretty good story of how a 15-year-old girl's worldview crumbles when her "perfect" older brother date rapes a girl in college.  I ended up feeling frustrated, though, that she never really confronts her other family members for their issues.]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309894]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309894]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309870</id>
+    <book>
+  <id type="integer">24768</id>
+  <isbn>0689865392</isbn>
+  <isbn13>9780689865398</isbn13>
+  <text_reviews_count type="integer">6550</text_reviews_count>
+  <title>Pretties (Uglies, #2)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/24768.Pretties</link>
+  <num_pages>370</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>138192</ratings_count>
+  <description>&lt;strong&gt;Gorgeous. Popular. Perfect. Perfectly wrong.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;Tally has finally become pretty. Now her looks are beyond perfect, her clothes are awesome, her boyfriend is totally hot, and she's completely popular. It's everything she's ever wanted.&lt;br&gt;&lt;br&gt;But beneath all the fun -- the nonstop parties, the high-tech luxury, the total freedom -- is a nagging sense that something's wrong. Something important. Then a message from Tally's ugly past arrives. Reading it, Tally remembers what's wrong with pretty life, and the fun stops cold.&lt;br&gt;&lt;br&gt;Now she has to choose between fighting to forget what she knows and fighting for her life -- because the authorities don't intend to let anyone with this information survive.</description>
+<authors>
+  <author>
+    <id>13957</id>
+    <name>Scott Westerfeld</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199748511p5/13957.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199748511p2/13957.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/13957.Scott_Westerfeld]]></link>
+    <average_rating>3.85</average_rating>
+    <ratings_count>759578</ratings_count>
+    <text_reviews_count>51434</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Jan 12 00:00:00 -0800 2007</read_at>
+  <date_added>Tue Sep 02 00:00:00 -0700 2008</date_added>
+  <date_updated>Wed Mar 26 06:53:38 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book bugged me the most in the trilogy, because it takes place mostly in New Pretty Town where everyone acts and talks like Paris Hilton.  What annoyed me the most was the valley-girl language they used.  But, annoyances aside, it still was a good book.  Tally and her friends make real changes...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309870]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309870]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309855</id>
+    <book>
+  <id type="integer">22628</id>
+  <isbn>0671027344</isbn>
+  <isbn13>9780671027346</isbn13>
+  <text_reviews_count type="integer">26404</text_reviews_count>
+  <title>The Perks of Being a Wallflower</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1363910637m/22628.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1363910637s/22628.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower</link>
+  <num_pages>213</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>MTV Books and Pocket Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.19</average_rating>
+  <ratings_count>447816</ratings_count>
+  <description>Charlie is a freshman.&lt;br&gt;&lt;br&gt;And while he's not the biggest geek in the school, he is by no means popular. Shy, introspective, intelligent beyond his years yet socially awkward, he is a wallflower, caught between trying to live his life and trying to run from it.&lt;br&gt;&lt;br&gt;Charlie is attempting to navigate his way through uncharted territory: the world of first dates and mix tapes, family dramas and new friends; the world of sex, drugs, and &lt;em&gt;The Rocky Horror Picture Show&lt;/em&gt;, when all one requires is that perfect song on that perfect drive to feel infinite. But he can't stay on the sideline forever. Standing on the fringes of life offers a unique perspective. But there comes a time to see what it looks like from the dance floor.&lt;br&gt;&lt;br&gt;&lt;em&gt;The Perks of Being a Wallflower&lt;/em&gt; is a deeply affecting coming-of-age story that will spirit you back to those wild and poignant roller-coaster days known as growing up.</description>
+<authors>
+  <author>
+    <id>12898</id>
+    <name>Stephen Chbosky</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199070302p5/12898.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1199070302p2/12898.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/12898.Stephen_Chbosky]]></link>
+    <average_rating>4.19</average_rating>
+    <ratings_count>448811</ratings_count>
+    <text_reviews_count>30144</text_reviews_count>
+  </author>
+</authors>
+  <published>1999</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:37 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:37 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I still don't know how I feel about this book. The sex and drug use got to me. But I think it also has good lessons on making your voice heard. Poor Charlie really had some issues to work on, and his journey was believable. It was tragic and hopeful at the same time.]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309855]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309855]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309854</id>
+    <book>
+  <id type="integer">1220721</id>
+  <isbn>0670018449</isbn>
+  <isbn13>9780670018444</isbn13>
+  <text_reviews_count type="integer">285</text_reviews_count>
+  <title>What I Was</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/1220721.What_I_Was</link>
+  <num_pages>224</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Viking Adult</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.48</average_rating>
+  <ratings_count>2297</ratings_count>
+  <description>&lt;strong&gt;A piercing, magical story about a life-altering friendship&lt;/strong&gt; &lt;br&gt;&lt;br&gt; Toward the end of his life, H looks back on the relationship that has shaped and obsessed him for nearly a century. It began many years earlier at St. Oswald's, a dismal boarding school on the coast of England, where the young H came face- to-face with an almost unbearably beautiful boy living by himself at the edge of the sea. &lt;br&gt;&lt;br&gt; At first, the mysterious Finn appears to have no past his home is an ancient fisherman's hut with a woodstove, a case of books, striped blankets, and a cat. &lt;br&gt;&lt;br&gt; H insinuates his way into Finn's life, stalking him with perfect patience until an unlikely friendship is kindled; a confused idyll of devotion and longing set against a background of blazing wood fires and fishing expeditions. &lt;br&gt;&lt;br&gt; Their friendship deepens, offering H both the freedom and the human connection that has always eluded him. But in a world of conformity, can one eccentric idyll be allowed to survive?</description>
+<authors>
+  <author>
+    <id>93575</id>
+    <name>Meg Rosoff</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1215206380p5/93575.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1215206380p2/93575.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/93575.Meg_Rosoff]]></link>
+    <average_rating>3.52</average_rating>
+    <ratings_count>27631</ratings_count>
+    <text_reviews_count>4242</text_reviews_count>
+  </author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu May 07 00:00:00 -0700 2009</read_at>
+  <date_added>Sun Jun 07 00:00:00 -0700 2009</date_added>
+  <date_updated>Wed Mar 26 06:53:36 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The main character of What I Was is a 16-year-old student at a boy's school in England.  He has already been kicked out of 2 schools, for bad behavior and grades. But even this is due to a blandness about him.  He narrates the story beginning the year at a new place, St. Oswald's school, where he e...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309854]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309854]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309785</id>
+    <book>
+  <id type="integer">9943270</id>
+  <isbn>0547628382</isbn>
+  <isbn13>9780547628387</isbn13>
+  <text_reviews_count type="integer">1235</text_reviews_count>
+  <title>Dark Triumph (His Fair Assassin, #2)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1346852168m/9943270.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1346852168s/9943270.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/9943270-dark-triumph</link>
+  <num_pages>385</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Houghton Mifflin Books for Children</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>7213</ratings_count>
+  <description>&lt;p&gt;When Sybella arrived at the doorstep of St Mortain half mad with grief and despair the convent were only too happy to offer her refuge - but at a price. The sisters of this convent serve Death, and with Sybella naturally skilled in both the arts of death and seduction, she could become one of their most dangerous weapons.&lt;/p&gt;&lt;p&gt;But her assassin's skills are little comfort when the convent returns her to the life that nearly drove her mad. Her father's rage and brutality are terrifying, and her brother's love is equally monstrous. But when Sybella discovers an unexpected ally she discovers that a daughter of Death may find something other than vengeance to live for...&lt;/p&gt;</description>
+<authors>
+  <author>
+    <id>6914204</id>
+    <name>Robin LaFevers</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/6914204.Robin_LaFevers]]></link>
+    <average_rating>4.01</average_rating>
+    <ratings_count>37549</ratings_count>
+    <text_reviews_count>5482</text_reviews_count>
+  </author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 26 06:53:32 -0700 2014</read_at>
+  <date_added>Fri Apr 12 00:00:00 -0700 2013</date_added>
+  <date_updated>Wed Mar 26 06:53:32 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309785]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309785]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309767</id>
+    <book>
+  <id type="integer">8795669</id>
+  <isbn>0547232535</isbn>
+  <isbn13>9780547232539</isbn13>
+  <text_reviews_count type="integer">92</text_reviews_count>
+  <title>The Cellar</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1286416655m/8795669.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1286416655s/8795669.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/8795669-the-cellar</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HMH Books for Young Readers</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.09</average_rating>
+  <ratings_count>179</ratings_count>
+  <description>Meredith Willis is suspicious of Adrien, the new guy next door. When she dares to sneak a look into the windows of his house, she sees something in the cellar that makes her believe that Adrien might be more than just a creep—he may be an actual monster. But her sister, Heather, doesn’t share Meredith’s repulsion. Heather believes Adrien is the only guy who really understands her. In fact, she may be falling in love with him. When Adrien and Heather are cast as the leads in the school production of &lt;em&gt;Romeo and Juliet&lt;/em&gt;, to Heather, it feels like fate. To Meredith, it feels like a bad omen. But if she tries to tear the couple apart, she could end up in the last place she’d ever want to be: the cellar. Can Meredith convince her sister that she’s dating the living dead before it’s too late for both of them?</description>
+<authors>
+  <author>
+    <id>2897845</id>
+    <name>A.J. Whitten</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2897845.A_J_Whitten]]></link>
+    <average_rating>3.20</average_rating>
+    <ratings_count>265</ratings_count>
+    <text_reviews_count>122</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:30 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:30 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309767]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309767]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309755</id>
+    <book>
+  <id type="integer">13453104</id>
+  <isbn>0545417791</isbn>
+  <isbn13>9780545417792</isbn13>
+  <text_reviews_count type="integer">395</text_reviews_count>
+  <title>The Summer Prince</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1347724491m/13453104.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1347724491s/13453104.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/13453104-the-summer-prince</link>
+  <num_pages>289</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Arthur A. Levine</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.55</average_rating>
+  <ratings_count>1956</ratings_count>
+  <description>A heart-stopping story of love, death, technology, and art set amid the tropics of a futuristic Brazil.&lt;br&gt;&lt;br&gt;The lush city of Palmares Três shimmers with tech and tradition, with screaming gossip casters and practiced politicians. In the midst of this vibrant metropolis, June Costa creates art that’s sure to make her legendary. But her dreams of fame become something more when she meets Enki, the bold new Summer King. The whole city falls in love with him (including June’s best friend, Gil). But June sees more to Enki than amber eyes and a lethal samba. She sees a fellow artist.&lt;br&gt;&lt;br&gt;Together, June and Enki will stage explosive, dramatic projects that Palmares Três will never forget. They will add fuel to a growing rebellion against the government’s strict limits on new tech. And June will fall deeply, unfortunately in love with Enki. Because like all Summer Kings before him, Enki is destined to die.&lt;br&gt;&lt;br&gt;Pulsing with the beat of futuristic Brazil, burning with the passions of its characters, and overflowing with ideas, this fiery novel will leave you eager for more from Alaya Dawn Johnson.</description>
+<authors>
+  <author>
+    <id>546427</id>
+    <name>Alaya Dawn Johnson</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1272485915p5/546427.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1272485915p2/546427.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/546427.Alaya_Dawn_Johnson]]></link>
+    <average_rating>3.77</average_rating>
+    <ratings_count>12085</ratings_count>
+    <text_reviews_count>2153</text_reviews_count>
+  </author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:30 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:30 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This was an interesting look at a futuristic Brazil, the power of art and beauty, and what it's like to be an angry/scared teenager. We find out right away that their government, devoid of almost all men due to their poor historical track record, kills its elected king every few years. June falls...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309755]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309755]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309650</id>
+    <book>
+  <id type="integer">139418</id>
+  <isbn>0440213460</isbn>
+  <isbn13>9780440213468</isbn13>
+  <text_reviews_count type="integer">729</text_reviews_count>
+  <title>The Silver Kiss</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/139418.The_Silver_Kiss</link>
+  <num_pages>198</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Laurel Leaf Books</publisher>
+  <publication_day/>
+  <publication_year>1992</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.62</average_rating>
+  <ratings_count>11176</ratings_count>
+  <description>Zoe is wary when, in the dead of night, the beautiful yet frightening Simon comes to her house. Simon seems to understand the pain of loneliness and death and Zoe's brooding thoughts of her dying mother.&lt;br&gt;Simon is one of the undead, a vampire, seeking revenge for the gruesome death of his mother three hundred years before. Does Simon dare ask Zoe to help free him from this lifeless chase and its insufferable loneliness?</description>
+<authors>
+  <author>
+    <id>5833</id>
+    <name>Annette Curtis Klause</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1209043403p5/5833.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1209043403p2/5833.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/5833.Annette_Curtis_Klause]]></link>
+    <average_rating>3.72</average_rating>
+    <ratings_count>40115</ratings_count>
+    <text_reviews_count>2839</text_reviews_count>
+  </author>
+</authors>
+  <published>1992</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Dec 02 00:00:00 -0800 2011</date_added>
+  <date_updated>Wed Mar 26 06:53:21 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is a hard book to rate.  It seemed a little bit dated to me, but in some ways that was charming.  <br />Zoe's mother is dying and her father is always at the hospital.  It feels like he is pushing Zoe away just when she needs him the most.  To add to all that, Zoe's best friend, Lorraine, is moving.  Z...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309650]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309650]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309551</id>
+    <book>
+  <id type="integer">69477</id>
+  <isbn>0435122118</isbn>
+  <isbn13>9780435122119</isbn13>
+  <text_reviews_count type="integer">569</text_reviews_count>
+  <title>Z for Zachariah</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/69477.Z_for_Zachariah</link>
+  <num_pages>249</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>25</publication_day>
+  <publication_year>1976</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.62</average_rating>
+  <ratings_count>6484</ratings_count>
+  <description>A gripping, thought-provoking story about life after a nuclear holocaust, by a Newbery Medalist.&lt;br&gt;Ann Burden is sixteen years old and completely alone. The world as she once knew it is gone, ravaged by a nuclear war that has taken everyone from her. For the past year, she has lived in a remote valley with no evidence of any other survivors. &lt;br&gt;&lt;br&gt;But the smoke from a distant campfire shatters Ann's solitude. Someone else is still alive and making his way toward the valley. Who is this man? What does he want? Can he be trusted? Both excited and terrified, Ann soon realizes there may be worse things than being the last person on Earth.</description>
+<authors>
+  <author>
+    <id>6412</id>
+    <name>Robert C. O&apos;Brien</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1310061502p5/6412.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1310061502p2/6412.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/6412.Robert_C_O_Brien]]></link>
+    <average_rating>4.07</average_rating>
+    <ratings_count>109309</ratings_count>
+    <text_reviews_count>2870</text_reviews_count>
+  </author>
+</authors>
+  <published>1976</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 08 00:00:00 -0800 2012</read_at>
+  <date_added>Fri Jun 08 00:00:00 -0700 2012</date_added>
+  <date_updated>Wed Mar 26 06:53:14 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is an intense story of Ann, a 16-year-old who has miraculously survived a nuclear apocalypse.  A stranger shows up by her home, and changes her life.  My sense of justice was so outraged with the end of this book that I have been rewriting it in my mind ever since!  But I couldn't stop listenin...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309551]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309551]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309545</id>
+    <book>
+  <id type="integer">968951</id>
+  <isbn>0399237836</isbn>
+  <isbn13>9780399237836</isbn13>
+  <text_reviews_count type="integer">60</text_reviews_count>
+  <title>Where I Want to Be</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/968951.Where_I_Want_to_Be</link>
+  <num_pages>160</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Putnam Juvenile</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.35</average_rating>
+  <ratings_count>310</ratings_count>
+  <description>Once, Jane was the big sister, teaching Lily to play make believe and protecting her from thunderstorms. But then Lily grew up. She started making friends and dating boys, while Jane wanted to go on playing make believe forever. For Jane, the line between fantasy and reality had always blurred, whereas Lily lived for a future bright with expectation and change. Inevitably, the sisters found a gulf widening between them-Lily reveling in her newfound love, while Jane could only watch, frustrated, from the sidelines. How had her little sister managed to eclipse her?&lt;br&gt; Then tragedy struck. But the story was not over. . . .&lt;br&gt; Adele Griffin has crafted a spellbinding book, told in the alternating voices of two very different sisters dwelling on opposite sides of life and death, who are bravely trying to overcome the void and bring light to each other.&lt;br&gt;&lt;br&gt;</description>
+<authors>
+  <author>
+    <id>311468</id>
+    <name>Adele Griffin</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1361935934p5/311468.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1361935934p2/311468.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/311468.Adele_Griffin]]></link>
+    <average_rating>3.44</average_rating>
+    <ratings_count>5579</ratings_count>
+    <text_reviews_count>1379</text_reviews_count>
+  </author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:14 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:14 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I listened to this book on CD.  It takes place in alternating chapters, each one narrated by a different sister.  Jane has recently died in a terrible accident and it takes awhile to understand that her chapters are written in the present tense, as she recreates daily the "perfect day", visiting th...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309545]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309545]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309536</id>
+    <book>
+  <id type="integer">114982</id>
+  <isbn>0394895894</isbn>
+  <isbn13>9780394895895</isbn13>
+  <text_reviews_count type="integer">598</text_reviews_count>
+  <title>The Ruby in the Smoke (Sally Lockhart, #1)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/114982.The_Ruby_in_the_Smoke</link>
+  <num_pages>240</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Laurel Leaf Library</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>1988</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.74</average_rating>
+  <ratings_count>13000</ratings_count>
+  <description>Sally is sixteen and uncommonly pretty. Her knowledge of English literature, French, history, art and music is non-existent, but she has a thorough grounding in military tactics, can run a business, ride like a Cossack and shoot straight with a pistol.&lt;br&gt;&lt;br&gt;When her dear father is drowned in suspicious circumstances in the South China Sea, Sally is left to fend for herself, an orphan and alone in the smoky fog of Victorian London. Though she doesn't know it, Sally is already in terrible danger. Soon the mystery and the danger will deepen - and at the rotten heart of it all lies the deadly secret of the ruby in the smoke...</description>
+<authors>
+  <author>
+    <id>3618</id>
+    <name>Philip Pullman</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1365040302p5/3618.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1365040302p2/3618.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3618.Philip_Pullman]]></link>
+    <average_rating>3.94</average_rating>
+    <ratings_count>1068301</ratings_count>
+    <text_reviews_count>28223</text_reviews_count>
+  </author>
+</authors>
+  <published>1988</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Jan 05 00:00:00 -0800 2010</read_at>
+  <date_added>Wed Mar 26 06:53:13 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:13 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This story takes place in Victorian England, and the protagonist, Sally Lockheart, is a distinctly modern young woman.   16-year-old Sally knows that something mysterious surrounds her father's death at sea.  She receives a note from a friend of her father, warning her of the Seven Blessings.  When s...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309536]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309536]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309532</id>
+    <book>
+  <id type="integer">17182126</id>
+  <isbn>0385743564</isbn>
+  <isbn13>9780385743563</isbn13>
+  <text_reviews_count type="integer">1581</text_reviews_count>
+  <title>Steelheart (Reckoners, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1357576738m/17182126.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1357576738s/17182126.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/17182126-steelheart</link>
+  <num_pages>386</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Delacorte Press</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.12</average_rating>
+  <ratings_count>24484</ratings_count>
+  <description>&lt;em&gt;There are no heroes.&lt;/em&gt;&lt;br&gt;&lt;br&gt;Ten years ago, Calamity came. It was a burst in the sky that gave ordinary men and women extraordinary powers. The awed public started calling them Epics.&lt;br&gt;&lt;br&gt;But Epics are no friend of man. With incredible gifts came the desire to rule. And to rule man you must crush his wills. &lt;br&gt;&lt;br&gt;Nobody fights the Epics... nobody but the Reckoners. A shadowy group of ordinary humans, they spend their lives studying Epics, finding their weaknesses, and then assassinating them.&lt;br&gt;&lt;br&gt;And David wants in. He wants Steelheart—the Epic who is said to be invincible. The Epic who killed David's father. For years, like the Reckoners, David's been studying, and planning—and he has something they need. Not an object, but an experience. &lt;br&gt;&lt;br&gt;He's seen Steelheart bleed. And he wants revenge.</description>
+<authors>
+  <author>
+    <id>38550</id>
+    <name>Brandon Sanderson</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1394044556p5/38550.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1394044556p2/38550.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/38550.Brandon_Sanderson]]></link>
+    <average_rating>4.33</average_rating>
+    <ratings_count>623595</ratings_count>
+    <text_reviews_count>44480</text_reviews_count>
+  </author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 26 06:53:13 -0700 2014</read_at>
+  <date_added>Fri Apr 12 00:00:00 -0700 2013</date_added>
+  <date_updated>Wed Mar 26 06:53:13 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309532]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309532]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309529</id>
+    <book>
+  <id type="integer">7631105</id>
+  <isbn>0385738757</isbn>
+  <isbn13>9780385738750</isbn13>
+  <text_reviews_count type="integer">7103</text_reviews_count>
+  <title>The Scorch Trials (Maze Runner, #2)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/7631105-the-scorch-trials</link>
+  <num_pages>360</num_pages>
+  <format>Hardcover</format>
+  <edition_information>1st Edition</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>113163</ratings_count>
+  <description>Solving the Maze was supposed to be the end. No more puzzles. No more variables. And no more running. Thomas was sure that escape meant he and the Gladers would get their lives back. But no one really knew what sort of life they were going back to.&lt;br&gt;&lt;br&gt;In the Maze, life was easy. They had food, and shelter, and safety... until Teresa triggered the end. In the world outside the Maze, however, the end was triggered long ago.&lt;br&gt;&lt;br&gt;Burned by sun flares and baked by a new, brutal climate, the earth is a wasteland. Government has disintegrated—and with it, order—and now Cranks, people covered in festering wounds and driven to murderous insanity by the infectious disease known as the Flare, roam the crumbling cities hunting for their next victim... and meal.&lt;br&gt;&lt;br&gt;The Gladers are far from finished with running. Instead of freedom, they find themselves faced with another trial. They must cross the Scorch, the most burned-out section of the world, and arrive at a safe haven in two weeks. And WICKED has made sure to adjust the variables and stack the odds against them.&lt;br&gt;&lt;br&gt;Thomas can only wonder—does he hold the secret of freedom somewhere in his mind? Or will he forever be at the mercy of WICKED?</description>
+<authors>
+  <author>
+    <id>348878</id>
+    <name>James Dashner</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1204922790p5/348878.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1204922790p2/348878.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/348878.James_Dashner]]></link>
+    <average_rating>3.94</average_rating>
+    <ratings_count>404513</ratings_count>
+    <text_reviews_count>38891</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Oct 10 00:00:00 -0700 2010</date_added>
+  <date_updated>Wed Mar 26 06:53:13 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I'm still unsure about this book.  I think I have to read the 3rd one and hope there is an overall vision here!  It reminded me even more of The Plan, and how we knew things before we were born that we forgot...  I did not like Thomas' constant questioning of the meaning of the trials, and it was ha...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309529]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309529]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309520</id>
+    <book>
+  <id type="integer">5819551</id>
+  <isbn>0385734263</isbn>
+  <isbn13>9780385734264</isbn13>
+  <text_reviews_count type="integer">312</text_reviews_count>
+  <title>The Treasure Map of Boys: Noel, Jackson, Finn, Hutch, Gideon—and me, Ruby Oliver  (Ruby Oliver, #3)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/5819551-the-treasure-map-of-boys</link>
+  <num_pages>248</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Delacorte Press Books for Young Readers</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>4092</ratings_count>
+  <description>Ruby is back at Tate Prep, and it's her thirty-seventh week in the state of Noboyfriend. Her panic attacks are bad, her love life is even worse, and what's more: &lt;br&gt;Noel is writing her notes, Jackson is giving her frogs, Gideon is helping her cook, and Finn is making her brownies. Rumors are flying, and Ruby's already-sucky reputation is heading downhill. &lt;br&gt;Not only that, she's also: running a bake sale, learning the secrets of heavymetal therapy, encountering some seriously smelly feet, defending the rights of pygmy goats, and bodyguarding Noel from unwanted advances. &lt;br&gt;In this companion novel to "The Boyfriend List "and "The Boy Book, "Ruby struggles to secure some sort of mental health, to understand what constitutes a real friendship, and to find true love--if such a thing exists.</description>
+<authors>
+  <author>
+    <id>173491</id>
+    <name>E. Lockhart</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1267209040p5/173491.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1267209040p2/173491.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/173491.E_Lockhart]]></link>
+    <average_rating>3.73</average_rating>
+    <ratings_count>57623</ratings_count>
+    <text_reviews_count>6648</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Mar 07 00:00:00 -0800 2010</read_at>
+  <date_added>Wed Mar 26 06:53:12 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:12 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309520]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309520]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309497</id>
+    <book>
+  <id type="integer">11387515</id>
+  <isbn>0375869026</isbn>
+  <isbn13>9780375869020</isbn13>
+  <text_reviews_count type="integer">14539</text_reviews_count>
+  <title>Wonder</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1366213431m/11387515.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1366213431s/11387515.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/11387515-wonder</link>
+  <num_pages>315</num_pages>
+  <format>Hardcover</format>
+  <edition_information>Books for Young Readers</edition_information>
+  <publisher>Knopf</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.41</average_rating>
+  <ratings_count>84119</ratings_count>
+  <description>&lt;strong&gt;I won't describe what I look like. Whatever you're thinking, it's probably worse.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;August (Auggie) Pullman was born with a facial deformity that prevented him from going to a mainstream school—until now. He's about to start 5th grade at Beecher Prep, and if you've ever been the new kid then you know how hard that can be. The thing is Auggie's just an ordinary kid, with an extraordinary face. But can he convince his new classmates that he's just like them, despite appearances?&lt;br&gt;&lt;br&gt;R. J. Palacio has written a spare, warm, uplifting story that will have readers laughing one minute and wiping away tears the next. With wonderfully realistic family interactions (flawed, but loving), lively school scenes, and short chapters, &lt;em&gt;Wonder&lt;/em&gt; is accessible to readers of all levels.</description>
+<authors>
+  <author>
+    <id>4859212</id>
+    <name>R.J. Palacio</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1351246501p5/4859212.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1351246501p2/4859212.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/4859212.R_J_Palacio]]></link>
+    <average_rating>4.41</average_rating>
+    <ratings_count>84152</ratings_count>
+    <text_reviews_count>15377</text_reviews_count>
+  </author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="childrens-books" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:10 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:10 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The main character of Wonder is August, a kid with severe deformity in his face.  He has been homeschooled through 4th grade, but starts going to a private school at the beginning of middle school.<br /><br />I thought this book portrayed realistically (for the most part) the cruelty of kids.  August was ignor...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309497]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309497]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309481</id>
+    <book>
+  <id type="integer">1840934</id>
+  <isbn>0375846891</isbn>
+  <isbn13>9780375846892</isbn13>
+  <text_reviews_count type="integer">137</text_reviews_count>
+  <title>My Swordhand is Singing (My Swordhand is Singing, #1)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/1840934.My_Swordhand_is_Singing</link>
+  <num_pages>224</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Wendy Lamb Books</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.66</average_rating>
+  <ratings_count>1324</ratings_count>
+  <description>WHEN TOMAS AND HIS SON, Peter, settle in Chust as woodcutters, Tomas digs a channel of fast-flowing waters around their hut, so they have their own little island kingdom. Peter doesn't understand why his father has done this, nor why his father carries a long, battered box, whose mysterious contents he is forbidden to know.&lt;br&gt;&lt;br&gt;But Tomas is a man with a past: a past that is tracking him with deadly intent, and when the dead of Chust begin to rise from their graves, both father and son must face a soulless enemy and a terrifying destiny.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;From the Hardcover edition.&lt;/em&gt;</description>
+<authors>
+  <author>
+    <id>110234</id>
+    <name>Marcus Sedgwick</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1298204345p5/110234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1298204345p2/110234.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/110234.Marcus_Sedgwick]]></link>
+    <average_rating>3.66</average_rating>
+    <ratings_count>13458</ratings_count>
+    <text_reviews_count>2515</text_reviews_count>
+  </author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 11 00:00:00 -0800 2010</read_at>
+  <date_added>Wed Mar 26 06:53:09 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:09 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[More gothic horror for the season!  Plus, it's short enough to finish today...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309481]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309481]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309476</id>
+    <book>
+  <id type="integer">113436</id>
+  <isbn>0375826696</isbn>
+  <isbn13>9780375826696</isbn13>
+  <text_reviews_count type="integer">11761</text_reviews_count>
+  <title>Eragon (The Inheritance Cycle, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1366212852m/113436.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1366212852s/113436.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/113436.Eragon</link>
+  <num_pages>503</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day/>
+  <publication_year>2005</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.76</average_rating>
+  <ratings_count>635053</ratings_count>
+  <description>One boy . . .&lt;br&gt;&lt;br&gt;One dragon . . .&lt;br&gt;&lt;br&gt;A world of adventure.&lt;br&gt;&lt;br&gt;When Eragon finds a polished blue stone in the forest, he thinks it is the lucky discovery of a poor farm boy; perhaps it will buy his family meat for the winter. But when the stone brings a dragon hatchling, Eragon soon realizes he has stumbled upon a legacy nearly as old as the Empire itself. &lt;br&gt;&lt;br&gt;Overnight his simple life is shattered, and he is thrust into a perilous new world of destiny, magic, and power. With only an ancient sword and the advice of an old storyteller for guidance, Eragon and the fledgling dragon must navigate the dangerous terrain and dark enemies of an Empire ruled by a king whose evil knows no bounds.&lt;br&gt;&lt;br&gt;Can Eragon take up the mantle of the legendary Dragon Riders? The fate of the Empire may rest in his hands.</description>
+<authors>
+  <author>
+    <id>8349</id>
+    <name>Christopher Paolini</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1309147382p5/8349.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1309147382p2/8349.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/8349.Christopher_Paolini]]></link>
+    <average_rating>3.84</average_rating>
+    <ratings_count>1045604</ratings_count>
+    <text_reviews_count>33390</text_reviews_count>
+  </author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+      <shelf name="childrens-books" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Jan 10 00:00:00 -0800 2007</read_at>
+  <date_added>Tue Sep 02 00:00:00 -0700 2008</date_added>
+  <date_updated>Wed Mar 26 06:53:08 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I thought this book was pretty good.  I like the fantasy world that Eragon lives in and I especially like his relationship with his dragon.  I found it a little boring in some places and of course, the end is totally unsatisfying (since it's a part 1), but I did enjoy the story quite a lot.]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309476]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309476]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309429</id>
+    <book>
+  <id type="integer">7728889</id>
+  <isbn>031612611X</isbn>
+  <isbn13>9780316126113</isbn13>
+  <text_reviews_count type="integer">3350</text_reviews_count>
+  <title>The Diviners (The Diviners, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1336424966m/7728889.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1336424966s/7728889.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/7728889-the-diviners</link>
+  <num_pages>578</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown Books for Young Readers</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.98</average_rating>
+  <ratings_count>19667</ratings_count>
+  <description>Evie O’Neill has been exiled from her boring old hometown and shipped off to the bustling streets of New York City—and she is pos-i-tute-ly ecstatic. It’s 1926, and New York is filled with speakeasies, Ziegfeld girls, and rakish pickpockets. The only catch is that she has to live with her uncle Will and his unhealthy obsession with the occult.&lt;br&gt;&lt;br&gt;Evie worries he’ll discover her darkest secret: a supernatural power that has only brought her trouble so far. But when the police find a murdered girl branded with a cryptic symbol and Will is called to the scene, Evie realizes her gift could help catch a serial killer.&lt;br&gt;&lt;br&gt;As Evie jumps headlong into a dance with a murderer, other stories unfold in the city that never sleeps. A young man named Memphis is caught between two worlds. A chorus girl named Theta is running from her past. A student named Jericho hides a shocking secret. And unknown to all, something dark and evil has awakened.</description>
+<authors>
+  <author>
+    <id>2526</id>
+    <name>Libba Bray</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1206563678p5/2526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1206563678p2/2526.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2526.Libba_Bray]]></link>
+    <average_rating>3.82</average_rating>
+    <ratings_count>312823</ratings_count>
+    <text_reviews_count>26587</text_reviews_count>
+  </author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Jul 12 00:00:00 -0700 2012</read_at>
+  <date_added>Tue Apr 10 00:00:00 -0700 2012</date_added>
+  <date_updated>Wed Mar 26 06:53:06 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I found this book a bit too long. I liked the premise and the setting. The author incorporated a lot of cool slang from the 1920's, an era I don't know much about. But the main characters didn't seem very well-drawn. The main mystery was very dark and creepy, and it kept me suitably freaked out....]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309429]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309429]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309420</id>
+    <book>
+  <id type="integer">2508164</id>
+  <isbn>0316113573</isbn>
+  <isbn13>9780316113571</isbn13>
+  <text_reviews_count type="integer">836</text_reviews_count>
+  <title>Ghostgirl (Ghostgirl, #1)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/2508164.Ghostgirl</link>
+  <num_pages>328</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.31</average_rating>
+  <ratings_count>9423</ratings_count>
+  <description>&lt;em&gt;Now I lay me down to sleep,&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;I pray the Lord my soul to keep.&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;And if I should die before I awake,&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;I pray the popular attend my wake.&lt;/em&gt;&lt;br&gt;&lt;br&gt;Charlotte Usher feels practically invisible at school, and then one day she really is invisible. Even worse: she's dead. And all because she choked on a gummy bear. But being dead doesn't stop Charlotte from wanting to be popular; it just makes her more creative about achieving her goal. &lt;br&gt;&lt;br&gt;If you thought high school was a matter of life or death, wait till you see just how true that is. In this satirical, yet heartfelt novel, Hurley explores the invisibility we all feel at some times and the lengths we'll go to be seen. &lt;br&gt;&lt;br&gt;&lt;strong&gt;
+  &lt;u&gt;Praise for &lt;/u&gt;
+&lt;/strong&gt;&lt;strong&gt;
+  &lt;u&gt;
+    &lt;em&gt;ghostgirl:&lt;/em&gt;
+  &lt;/u&gt;
+&lt;/strong&gt;&lt;br&gt;&lt;br&gt;* Polished dark-and-deadpan humor, it's a natural fit with Gen Y, too." &lt;em&gt;--Publishers Weekly&lt;/em&gt; (starred review)&lt;br&gt;&lt;br&gt;* "[Tonya] beats out witty teen-speak like a punk-band drummer, keeping the narrative fast-paced and fun yet thought-provokingly heartwarming. Goofy, ghastly, intelligent, electrifying." &lt;em&gt;--Kirkus&lt;/em&gt; (starred review)&lt;br&gt;&lt;br&gt;*"Tim Burton and Edgar Allan Poe devotees will die for this fantastic, phantasmal read." &lt;em&gt;--School Library Journal&lt;/em&gt; (starred review)&lt;br&gt;&lt;br&gt;* "Readers with a taste for black humor and satire will feast on Hurley's crisp, wise dialogue. Anticipate a well deserved cult following." --&lt;em&gt;VOYA&lt;/em&gt; (starred review)&lt;br&gt;&lt;br&gt;"Written with deadpan wit...this is a 'Wonderful Life'-like tale." -&lt;em&gt;New York Post&lt;/em&gt;&lt;br&gt;&lt;br&gt;"A sincere (and humorous) exploration of how we all feel invisible at one time or another...perfect read." -&lt;em&gt;CosmoGirl&lt;/em&gt;</description>
+<authors>
+  <author>
+    <id>1112218</id>
+    <name>Tonya Hurley</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1247239569p5/1112218.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1247239569p2/1112218.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1112218.Tonya_Hurley]]></link>
+    <average_rating>3.45</average_rating>
+    <ratings_count>17801</ratings_count>
+    <text_reviews_count>1669</text_reviews_count>
+  </author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:05 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:05 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The main character in this book, Charlotte Usher, really got on my nerves.  She is supposed to.  She's a shallow nerd who is obsessed with becoming popular.  The summer before senior year, she spends all of her time stalking the popular kids, planning to enter into the world of popularity by attract...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309420]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309420]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309417</id>
+    <book>
+  <id type="integer">9415966</id>
+  <isbn>0316098256</isbn>
+  <isbn13>9780316098250</isbn13>
+  <text_reviews_count type="integer">524</text_reviews_count>
+  <title>Spoiled (Spoiled, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327879074m/9415966.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327879074s/9415966.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/9415966-spoiled</link>
+  <num_pages>368</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Poppy</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.59</average_rating>
+  <ratings_count>3022</ratings_count>
+  <description>&lt;em&gt;You say Spoiled like it's a bad thing.&lt;/em&gt;&lt;br&gt;&lt;br&gt;Sixteen-year-old Molly Dix has just discovered that her biological father is Brick Berlin, world-famous movie star and red-carpet regular. Intrigued (and a little) terrified by her Hollywood lineage, Molly moves to Los Angeles and plunges headfirst into the deep of Beverly Hills celebrity life. Just as Molly thinks her life couldn't get any stranger, she meets Brooke Berlin, her gorgeous, spoiled half sister, who welcomes Molly to la-la land with a smothering dose "sisterly love"...but in this town, nothing is ever what it seems. &lt;br&gt;&lt;br&gt;Set against a world of Redbull-fuelled stylists, tiny tanned girls, popped-collar guys, and Blackberry-wielding publicists, Spoiled is a sparkling debut from the writers behind the viciously funny celebrity blog GoFugYourself.com.</description>
+<authors>
+  <author>
+    <id>1141204</id>
+    <name>Heather Cocks</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/f_200x266-b99540df8c97ddfd3e621751f7699070.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/f_50x66-e0ba3b90c110cd67123d6a850d85373e.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1141204.Heather_Cocks]]></link>
+    <average_rating>3.62</average_rating>
+    <ratings_count>4010</ratings_count>
+    <text_reviews_count>737</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="ya-readers" />
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jul 07 00:00:00 -0700 2011</date_added>
+  <date_updated>Wed Mar 26 06:53:05 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      Really fluffy and fun!
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309417]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309417]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309409</id>
+    <book>
+  <id type="integer">6304335</id>
+  <isbn>0316042676</isbn>
+  <isbn13>9780316042673</isbn13>
+  <text_reviews_count type="integer">14902</text_reviews_count>
+  <title>Beautiful Creatures (Caster Chronicles, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327873282m/6304335.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327873282s/6304335.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/6304335-beautiful-creatures</link>
+  <num_pages>563</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.77</average_rating>
+  <ratings_count>229733</ratings_count>
+  <description>&lt;em&gt;Is falling in love the beginning . . . or the end?&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;In Ethan Wate's hometown there lies the darkest of secrets . . .&lt;/strong&gt;&lt;br&gt;&lt;br&gt;There is a girl. Slowly, she pulled the hood from her head . . . Green eyes, black hair. &lt;strong&gt;Lena Duchannes.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;There is a curse. On the Sixteenth Moon, the Sixteenth Year, the Book will take what it's been promised. &lt;strong&gt;And no one can stop it.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;In the end, there is a grave.&lt;br&gt;&lt;br&gt;Lena and Ethan become bound together by a deep, powerful love. But Lena is cursed and on her sixteenth birthday, her fate will be decided. &lt;strong&gt;Ethan never even saw it coming.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;(This is an alternate cover for ISBN: 9780141326085.)</description>
+<authors>
+  <author>
+    <id>2895706</id>
+    <name>Kami Garcia</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1354259991p5/2895706.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1354259991p2/2895706.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2895706.Kami_Garcia]]></link>
+    <average_rating>3.85</average_rating>
+    <ratings_count>405876</ratings_count>
+    <text_reviews_count>31854</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:04 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:04 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book was pretty good.  The authors do a great job of setting up the southern gothic kind of feel, and I mostly liked the characters and believed them to be realistic.  But I wanted to smack Lena for whining way too much.  She is a "caster", approaching her 16th birthday, when she'll either be c...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309409]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309409]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309405</id>
+    <book>
+  <id type="integer">6316171</id>
+  <isbn>0316041440</isbn>
+  <isbn13>9780316041447</isbn13>
+  <text_reviews_count type="integer">2154</text_reviews_count>
+  <title>Hate List</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/6316171-hate-list</link>
+  <num_pages>405</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown Books for Young Readers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>21341</ratings_count>
+  <description>Five months ago, Valerie Leftman's boyfriend, Nick, opened fire on their school cafeteria. Shot trying to stop him, Valerie inadvertently saved the life of a classmate, but was implicated in the shootings because of the list she helped create. A list of people and things she and Nick hated. The list he used to pick his targets.&lt;br&gt;&lt;br&gt;Now, after a summer of seclusion, Val is forced to confront her guilt as she returns to school to complete her senior year. Haunted by the memory of the boyfriend she still loves and navigating rocky relationships with her family, former friends and the girl whose life she saved, Val must come to grips with the tragedy that took place and her role in it, in order to make amends and move on with her life.</description>
+<authors>
+  <author>
+    <id>432859</id>
+    <name>Jennifer Brown</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1253828305p5/432859.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1253828305p2/432859.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/432859.Jennifer_Brown]]></link>
+    <average_rating>4.01</average_rating>
+    <ratings_count>27982</ratings_count>
+    <text_reviews_count>3642</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:04 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:04 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The premise for the book was interesting and sad.  There's a high school shooting, and the girlfriend of the shooter tells her side of the story.  I found the description of the bullied kids, and how they fostered their own anger in different ways, to be very real.  I had a hard time believing the c...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309405]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309405]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309393</id>
+    <book>
+  <id type="integer">10174795</id>
+  <isbn>0312590563</isbn>
+  <isbn13>9780312590567</isbn13>
+  <text_reviews_count type="integer">1392</text_reviews_count>
+  <title>Glow (Sky Chasers, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1312847982m/10174795.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1312847982s/10174795.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/10174795-glow</link>
+  <num_pages>307</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>St. Martin's Griffin</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.55</average_rating>
+  <ratings_count>8254</ratings_count>
+  <description>What if you were bound for a new world, about to pledge your life to someone you'd been promised to since birth, and one unexpected violent attack made survival—not love—the issue?&lt;br&gt;&lt;br&gt;Out in the murky nebula lurks an unseen enemy: the New Horizon. On its way to populate a distant planet in the wake of Earth's collapse, the ship's crew has been unable to conceive a generation to continue its mission. They need young girls desperately, or their zealous leader's efforts will fail. Onboard their sister ship, the Empyrean, the unsuspecting families don't know an attack is being mounted that could claim the most important among them...&lt;br&gt;&lt;br&gt;Fifteen-year-old Waverly is part of the first generation to be successfully conceived in deep space; she was born on the Empyrean, and the large farming vessel is all she knows. Her concerns are those of any teenager—until Kieran Alden proposes to her. The handsome captain-to-be has everything Waverly could ever want in a husband, and with the pressure to start having children, everyone is sure he's the best choice. Except for Waverly, who wants more from life than marriage—and is secretly intrigued by the shy, darkly brilliant Seth.&lt;br&gt;&lt;br&gt;But when the Empyrean faces sudden attack by their assumed allies, they quickly find out that the enemies aren't all from the outside.</description>
+<authors>
+  <author>
+    <id>504627</id>
+    <name>Amy Kathleen Ryan</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1307413912p5/504627.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1307413912p2/504627.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/504627.Amy_Kathleen_Ryan]]></link>
+    <average_rating>3.65</average_rating>
+    <ratings_count>12206</ratings_count>
+    <text_reviews_count>2321</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Sep 10 00:00:00 -0700 2012</read_at>
+  <date_added>Sun Dec 09 00:00:00 -0800 2012</date_added>
+  <date_updated>Wed Mar 26 06:53:02 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309393]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309393]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309379</id>
+    <book>
+  <id type="integer">30183</id>
+  <isbn>0312360266</isbn>
+  <isbn13>9780312360269</isbn13>
+  <text_reviews_count type="integer">9715</text_reviews_count>
+  <title>Marked (House of Night, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1368453848m/30183.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1368453848s/30183.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/30183.Marked</link>
+  <num_pages>306</num_pages>
+  <format></format>
+  <edition_information>1st edition</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.79</average_rating>
+  <ratings_count>241885</ratings_count>
+  <description>The House of Night series is set in a world very much like our own, except in 16-year-old Zoey Redbird's world, vampyres have always existed.  In this first book in the series, Zoey enters the House of Night, a school where, after having undergone the Change, she will train to become an adult vampire -- that is, if she makes it through the Change.  Not all of those who are chosen do.  It's tough to begin a new life, away from her parents and friends, and on top of that, Zoey finds she is no average fledgling.  She has been Marked as special by the vampyre Goddess, Nyx.  But she is not the only fledgling at the House of Night with special powers.  When she discovers that the leader of the Dark Daughters, the school's most elite club, is misusing her Goddess-given gifts, Zoey must look deep within herself for the courage to embrace her destiny--with a little help from her new vampyre friends.</description>
+<authors>
+  <author>
+    <id>17015</id>
+    <name>P.C. Cast</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1347676514p5/17015.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1347676514p2/17015.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/17015.P_C_Cast]]></link>
+    <average_rating>3.95</average_rating>
+    <ratings_count>1205881</ratings_count>
+    <text_reviews_count>41512</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Oct 06 00:00:00 -0700 2011</read_at>
+  <date_added>Wed Mar 26 06:53:01 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:01 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Much better than I thought, but not the cleanest of teen vamp novels.]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309379]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309379]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309371</id>
+    <book>
+  <id type="integer">690609</id>
+  <isbn>0152164502</isbn>
+  <isbn13>9780152164508</isbn13>
+  <text_reviews_count type="integer">183</text_reviews_count>
+  <title>The Coffin Quilt: The Feud Between the Hatfields and the McCoys</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/690609.The_Coffin_Quilt</link>
+  <num_pages>228</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HMH Books for Young Readers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>1432</ratings_count>
+  <description>Fanny McCoy has lived in fear and anger ever since that day in 1878 when a dispute with the Hatfields over the ownership of a few pigs set her family on a path of hatred and revenge. From that day forward, along the ragged ridges of the West Virginia-Kentucky line, the Hatfields and the McCoys have operated not withing the law but within mountain codes of their own making. In 1882, when Fanny's sister Roseanna runs off with young Johnse Hatfield, the hatred between the two clans explodes.&lt;br&gt;As the killings, abductions, raids, and heartbreak escalate bitterly and senselessly, Fanny, the sole voice of reason, realizes that she is powerless to stop the fighting and must learn to rise above the petty natures of her family and neighbors to find her own way out of the hatred.&lt;br&gt;</description>
+<authors>
+  <author>
+    <id>11162</id>
+    <name>Ann Rinaldi</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1235510719p5/11162.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1235510719p2/11162.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/11162.Ann_Rinaldi]]></link>
+    <average_rating>3.75</average_rating>
+    <ratings_count>39311</ratings_count>
+    <text_reviews_count>3249</text_reviews_count>
+  </author>
+</authors>
+  <published>2001</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:01 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:01 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309371]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309371]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309368</id>
+    <book>
+  <id type="integer">6519787</id>
+  <isbn>0152066152</isbn>
+  <isbn13>9780152066154</isbn13>
+  <text_reviews_count type="integer">163</text_reviews_count>
+  <title>The Abused Werewolf Rescue Group</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1283924037m/6519787.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1283924037s/6519787.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/6519787-the-abused-werewolf-rescue-group</link>
+  <num_pages>416</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harcourt Children's Books</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.41</average_rating>
+  <ratings_count>971</ratings_count>
+  <description>When Tobias Richard Vandevelde wakes up in hospital with no memory of the night before, his horrified mother tells him that he was found unconscious. At Featherdale wildlife Park. In a dingo pen.&lt;br&gt;&lt;br&gt;He assumes that his two rambunctious best friends are somehow responsible, until he discovers that they're just as freaked out as he is. Then the mysterious Reuben turns up, claiming that Toby has a rare and dangerous 'condition'. Next thing he knows, Toby finds himself involved with a strange bunch of sickly insomniacs who seem convinced that he needs their help.&lt;br&gt;&lt;br&gt;It's not until he's kidnapped and imprisoned that he starts to believe them - and to understand what being a paranormal monster really means.</description>
+<authors>
+  <author>
+    <id>72678</id>
+    <name>Catherine Jinks</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1216236255p5/72678.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1216236255p2/72678.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/72678.Catherine_Jinks]]></link>
+    <average_rating>3.69</average_rating>
+    <ratings_count>16095</ratings_count>
+    <text_reviews_count>2276</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:00 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:00 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309368]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309368]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309350</id>
+    <book>
+  <id type="integer">99561</id>
+  <isbn>0142402516</isbn>
+  <isbn13>9780142402511</isbn13>
+  <text_reviews_count type="integer">19721</text_reviews_count>
+  <title>Looking for Alaska</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1394798630m/99561.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1394798630s/99561.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/99561.Looking_for_Alaska</link>
+  <num_pages>221</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Speak</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>285309</ratings_count>
+  <description>&lt;strong&gt;Before.&lt;/strong&gt; Miles "Pudge" Halter's whole existence has been one big nonevent, and his obsession with famous last words has only made him crave the "Great Perhaps"  (François Rabelais, poet) even more. He heads off to the sometimes crazy, possibly unstable, and anything-but-boring world of Culver Creek Boarding School, and his life becomes the opposite of safe. Because down the hall is Alaska Young. The gorgeous, clever, funny, sexy, self-destructive, screwed-up, and utterly fascinating Alaska Young, who is an event unto herself. She pulls Pudge into her world, launches him into the Great Perhaps, and steals his heart.&lt;br&gt;&lt;br&gt;&lt;strong&gt;After.&lt;/strong&gt; Nothing is ever the same.</description>
+<authors>
+  <author>
+    <id>1406384</id>
+    <name>John Green</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1353452301p5/1406384.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1353452301p2/1406384.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+    <average_rating>4.27</average_rating>
+    <ratings_count>1295683</ratings_count>
+    <text_reviews_count>128392</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:52:59 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:52:59 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A lot of people hail this book as a great example of real high school experiences.  I know that is probably true, but I found it didn't really represent the high school experiences I had.  Maybe this is because I tried to steer clear of most of what occupies the minds of these kids.<br /><br />The best parts a...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309350]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309350]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309342</id>
+    <book>
+  <id type="integer">6605625</id>
+  <isbn>014132502X</isbn>
+  <isbn13>9780141325026</isbn13>
+  <text_reviews_count type="integer">796</text_reviews_count>
+  <title>The Enemy (The Enemy, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1340819657m/6605625.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1340819657s/6605625.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/6605625-the-enemy</link>
+  <num_pages>406</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin UK</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.07</average_rating>
+  <ratings_count>8283</ratings_count>
+  <description>&lt;strong&gt;They'll chase you.&lt;br&gt;&lt;br&gt;They'll rip you open.&lt;br&gt;&lt;br&gt;They'll feed on you . . .&lt;/strong&gt;&lt;br&gt;&lt;br&gt;When the sickness came, every parent, policeman, politician — every adult — fell ill. The lucky ones died. The others are crazed, confused and hungry.&lt;br&gt;&lt;br&gt;Only children under fourteen remain, and they're fighting to survive.&lt;br&gt;&lt;br&gt;Now there are rumours of a safe place to hide. And so a gang of children begin their quest across London, where all through the city — down alleyways, in deserted houses, underground — the grown-ups lie in wait.&lt;br&gt;&lt;br&gt;&lt;strong&gt;But can they make it there — alive?&lt;/strong&gt;</description>
+<authors>
+  <author>
+    <id>162326</id>
+    <name>Charlie Higson</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1243477698p5/162326.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1243477698p2/162326.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/162326.Charlie_Higson]]></link>
+    <average_rating>4.06</average_rating>
+    <ratings_count>33450</ratings_count>
+    <text_reviews_count>2968</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:52:58 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:52:58 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is a gory and interesting take on Zombie lit.  All of the adults in England (and probably the world) have caught a horrible disease.  Most die, but those left alive have become zombie-like creatures, bent on eating anything they can find, including cockroaches, dogs, and, of course, kids.  The...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309342]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309342]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309309</id>
+    <book>
+  <id type="integer">10431447</id>
+  <isbn>006202468X</isbn>
+  <isbn13>9780062024688</isbn13>
+  <text_reviews_count type="integer">1522</text_reviews_count>
+  <title>Wildwood (Wildwood Chronicles, #1)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/10431447-wildwood</link>
+  <num_pages>541</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Balzer &amp; Bray/Harperteen</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.61</average_rating>
+  <ratings_count>8809</ratings_count>
+  <description>The first book in the epic middle-grade fantasy series full of magic, wonder, and danger—nothing less than an American Narnia—from Colin Meloy, lead singer of the highly celebrated band the Decemberists, and Carson Ellis, the acclaimed illustrator of the New York Times bestselling The Mysterious Benedict Society.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;Wildwood&lt;/em&gt; is the first in a planned trilogy.&lt;/strong&gt;</description>
+<authors>
+  <author>
+    <id>10741</id>
+    <name>Colin Meloy</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1195231258p5/10741.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1195231258p2/10741.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/10741.Colin_Meloy]]></link>
+    <average_rating>3.66</average_rating>
+    <ratings_count>10917</ratings_count>
+    <text_reviews_count>1960</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+      <shelf name="childrens-books" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri May 10 00:00:00 -0700 2013</date_added>
+  <date_updated>Wed Mar 26 06:52:56 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Wildwood is a pretty decent story of 2 middle schoolers (Prue and Curtis) who take a journey into The Impassible Wilderness to rescue Prue's baby brother, who has been abducted by crows.  There, they discover a world of talking animals, magical sorcery, and political intrigue.  They become embroile...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309309]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309309]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309300</id>
+    <book>
+  <id type="integer">13516846</id>
+  <isbn>0062009494</isbn>
+  <isbn13>9780062009494</isbn13>
+  <text_reviews_count type="integer">1364</text_reviews_count>
+  <title>Dodger</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1343828971m/13516846.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1343828971s/13516846.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/13516846-dodger</link>
+  <num_pages>360</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>HarperCollins Publishers</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.89</average_rating>
+  <ratings_count>9498</ratings_count>
+  <description>&lt;strong&gt;A storm.&lt;/strong&gt; Rain-lashed city streets. A flash of lightning. A scruffy lad sees a girl leap desperately from a horse-drawn carriage in a vain attempt to escape her captors. Can the lad stand by and let her be caught again? Of course not, because he's...Dodger.&lt;br&gt;&lt;br&gt;Seventeen-year-old Dodger may be a street urchin, but he gleans a living from London's sewers, and he knows a jewel when he sees one. He's not about to let anything happen to the unknown girl--not even if her fate impacts some of the most powerful people in England.&lt;br&gt;&lt;br&gt;From Dodger's encounter with the mad barber Sweeney Todd to his meetings with the great writer Charles Dickens and the calculating politician Benjamin Disraeli, history and fantasy intertwine in a breathtaking account of adventure and mystery.&lt;br&gt;&lt;br&gt;Beloved and bestselling author Sir Terry Pratchett combines high comedy with deep wisdom in this tale of an unexpected coming-of-age and one remarkable boy's rise in a complex and fascinating world.</description>
+<authors>
+  <author>
+    <id>1654</id>
+    <name>Terry Pratchett</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1235562205p5/1654.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1235562205p2/1654.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
+    <average_rating>4.10</average_rating>
+    <ratings_count>1834129</ratings_count>
+    <text_reviews_count>53031</text_reviews_count>
+  </author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+      <shelf name="childrens-books" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu May 09 00:00:00 -0700 2013</read_at>
+  <date_added>Wed Mar 26 06:52:55 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:52:55 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I liked the premise, and I really enjoy this author, but I never felt truly enthralled in the story.  Pratchett uses people from real Victorian England (Charles Dickens, etc) along with imaginary characters from literature (Dodger himself, Sweeney Todd, etc) to tell the story of how a young man ma...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309300]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309300]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309285</id>
+    <book>
+  <id type="integer">4415962</id>
+  <isbn>0061561754</isbn>
+  <isbn13>9780061561757</isbn13>
+  <text_reviews_count type="integer">46</text_reviews_count>
+  <title>Gettysburg: The Graphic Novel</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/4415962-gettysburg</link>
+  <num_pages>80</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.50</average_rating>
+  <ratings_count>143</ratings_count>
+  <description>Abraham Lincoln's Gettysburg Address is familiar to all Americans. But never has his most famous speech--his 271 indelible words--been presented in such a visual and accessible format. Graphic artist and Civil War aficionado C. M. Butzer deftly uses a detailed, comic-book style to depict the Battle of Gettysburg; the national movement to create a memorial there; and the quiet day in 1863 when Lincoln delivered his galvanizing speech. Butzer uses only primary sources for the text, drawing from first-person letters and diaries, speeches, and Lincoln's own writing to unpack this series of historical events. The address itself is played out over eighteen pages, with every phrase given a visual interpretation that will resonate with young readers.</description>
+<authors>
+  <author>
+    <id>1846480</id>
+    <name>C.M. Butzer</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1846480.C_M_Butzer]]></link>
+    <average_rating>3.51</average_rating>
+    <ratings_count>171</ratings_count>
+    <text_reviews_count>60</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Sep 04 00:00:00 -0700 2010</read_at>
+  <date_added>Wed Mar 26 06:52:54 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:52:54 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This graphic novel-ized version of the story of Gettysburg is an excellent way to teach about history.  I probably learned more in the 15 minutes it took to read this than I did in high school.  I have just a couple of political issues with it (the illustrations depict the progression of advocating...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309285]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309285]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309237</id>
+    <book>
+  <id type="integer">10616322</id>
+  <isbn>0007444117</isbn>
+  <isbn13>9780007444113</isbn13>
+  <text_reviews_count type="integer">6910</text_reviews_count>
+  <title>Allegiant (Divergent, #3)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1382789725m/10616322.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1382789725s/10616322.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/10616322-allegiant</link>
+  <num_pages>526</num_pages>
+  <format>Paperback</format>
+  <edition_information>UK edition</edition_information>
+  <publisher>HarperCollins Children's Book's</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.63</average_rating>
+  <ratings_count>195724</ratings_count>
+  <description>The faction-based society that Tris Prior once believed in is shattered—fractured by violence and power struggles and scarred by loss and betrayal. So when offered a chance to explore the world past the limits she’s known, Tris is ready. Perhaps beyond the fence, she and Tobias will find a simple new life together, free from complicated lies, tangled loyalties, and painful memories. &lt;br&gt;&lt;br&gt;But Tris’s new reality is even more alarming than the one she left behind. Old discoveries are quickly rendered meaningless. Explosive new truths change the hearts of those she loves. And once again, Tris must battle to comprehend the complexities of human nature—and of herself—while facing impossible choices about courage, allegiance, sacrifice, and love. &lt;br&gt;&lt;br&gt;Told from a riveting dual perspective, Allegiant, by #1 New York Times best-selling author Veronica Roth, brings the Divergent series to a powerful conclusion while revealing the secrets of the dystopian world that has captivated millions of readers in Divergent and Insurgent.</description>
+<authors>
+  <author>
+    <id>4039811</id>
+    <name>Veronica Roth</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1363910238p5/4039811.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1363910238p2/4039811.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/4039811.Veronica_Roth]]></link>
+    <average_rating>4.21</average_rating>
+    <ratings_count>1382669</ratings_count>
+    <text_reviews_count>140270</text_reviews_count>
+  </author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>true</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Feb 11 00:00:00 -0800 2013</read_at>
+  <date_added>Wed Mar 26 06:52:51 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:52:51 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I finished this book last night, and I am still processing it.  I don't want to spoil anything, but I honestly feel like Veronica Roth kind of broke the deal she made with us readers when she wrote for YA, wrote in first person, and had an awesome love story.  I don't really have much else to say,...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309237]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309237]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309719</id>
+    <book>
+  <id type="integer">6369113</id>
+  <isbn>0545055857</isbn>
+  <isbn13>9780545055857</isbn13>
+  <text_reviews_count type="integer">1105</text_reviews_count>
+  <title>Lips Touch: Three Times</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1341175359m/6369113.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1341175359s/6369113.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/6369113-lips-touch</link>
+  <num_pages>266</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Arthur A. Levine Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>5749</ratings_count>
+  <description>Three tales of supernatural love, each pivoting on a kiss that is no mere kiss, but an action with profound consequences for the kissers' souls:&lt;br&gt;&lt;br&gt;&lt;a href="http://www.goodreads.com/book/show/16079073.Goblin_Fruit" title="Goblin Fruit"&gt;Goblin Fruit&lt;/a&gt;&lt;br&gt;In Victorian times, goblin men had only to offer young girls sumptuous fruits to tempt them to sell their souls. But what does it take to tempt today's savvy girls?&lt;br&gt;&lt;br&gt;&lt;a href="http://www.goodreads.com/book/show/17704852.Spicy_Little_Curses" title="Spicy Little Curses"&gt;Spicy Little Curses&lt;/a&gt;&lt;br&gt; A demon and the ambassador to Hell tussle over the soul of a beautiful English girl in India. Matters become complicated when she falls in love and decides to test her curse.&lt;br&gt;&lt;br&gt;&lt;a href="http://www.goodreads.com/book/show/17995785.Hatchling" title="Hatchling"&gt;Hatchling&lt;/a&gt;&lt;br&gt;Six days before Esme's fourteenth birthday, her left eye turns from brown to blue. She little suspects what the change heralds, but her small safe life begins to unravel at once. What does the beautiful, fanged man want with her, and how is her fate connected to a mysterious race of demons?</description>
+<authors>
+  <author>
+    <id>324620</id>
+    <name>Laini Taylor</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1224474224p5/324620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1224474224p2/324620.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/324620.Laini_Taylor]]></link>
+    <average_rating>4.12</average_rating>
+    <ratings_count>133284</ratings_count>
+    <text_reviews_count>20186</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:26 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:26 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I really wanted to like this book.  It is composed of 3 short stories of fantasy about girls whose first kisses have the potential to change their lives, for good or evil.  The worlds Taylor writes about are dark and strange and I found myself wanting to just give up before the bad stuff happened....]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309719]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309719]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309621</id>
+    <book>
+  <id type="integer">421338</id>
+  <isbn>0439838797</isbn>
+  <isbn13>9780439838795</isbn13>
+  <text_reviews_count type="integer">486</text_reviews_count>
+  <title>Tyrell</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328867419m/421338.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328867419s/421338.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/421338.Tyrell</link>
+  <num_pages>310</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.11</average_rating>
+  <ratings_count>2303</ratings_count>
+  <description>An astonishing new voice in teen literature, writing what is sure to be one of the most talked-about debuts of the year.&lt;br&gt;&lt;br&gt;Tyrell is a young, African American teen who can't get a break. He's living (for now) with his spaced-out mother and little brother in a homeless shelter. His father's in jail. His girlfriend supports him, but he doesn't feel good enough for her - and seems to be always on the verge of doing the wrong thing around her. There's another girl at the homeless shelter who is also after him, although the desires there are complicated. Tyrell feels he needs to score some money to make things better. Will he end up following in his father's footsteps?</description>
+<authors>
+  <author>
+    <id>237640</id>
+    <name>Coe Booth</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1336412592p5/237640.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1336412592p2/237640.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/237640.Coe_Booth]]></link>
+    <average_rating>4.06</average_rating>
+    <ratings_count>3929</ratings_count>
+    <text_reviews_count>780</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:19 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:19 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book was very compelling, but it was tragic.  The story follows Tyrell, a 15-year-old homeless high school drop-out and his quest to make some money to try to get his mom and brother off the streets.  They are put in a roach-filled hotel by social workers.  It's a real glimpse of life for a you...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309621]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309621]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892310191</id>
+    <book>
+  <id type="integer">18108877</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">608</text_reviews_count>
+  <title>Timebound (The Chronos Files, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1371864811m/18108877.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1371864811s/18108877.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/18108877-timebound</link>
+  <num_pages>366</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Skyscape</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>3943</ratings_count>
+  <description>When Kate Pierce-Keller’s grandmother gives her a strange blue medallion and speaks of time travel, sixteen-year-old Kate assumes the old woman is delusional. But it all becomes horrifyingly real when a murder in the past destroys the foundation of Kate’s present-day life. Suddenly, that medallion is the only thing protecting Kate from blinking out of existence.&lt;br&gt;&lt;br&gt;Kate learns that the 1893 killing is part of something much more sinister, and Kate’s genetic ability to time-travel makes her the only one who can stop him. Risking everything, she travels to the Chicago World’s Fair to try to prevent the killing and the chain of events that follows.&lt;br&gt;&lt;br&gt;Changing the timeline comes with a personal cost, however—if Kate succeeds, the boy she loves will have no memory of her existence. And regardless of her motives, does she have the right to manipulate the fate of the entire world?</description>
+<authors>
+  <author>
+    <id>6581077</id>
+    <name>Rysa Walker</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1395927376p5/6581077.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1395927376p2/6581077.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/6581077.Rysa_Walker]]></link>
+    <average_rating>3.87</average_rating>
+    <ratings_count>3943</ratings_count>
+    <text_reviews_count>711</text_reviews_count>
+  </author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="ya-readers" />
+      <shelf name="currently-reading" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 26 06:54:03 -0700 2014</started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:54:03 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:54:03 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892310191]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892310191]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892310116</id>
+    <book>
+  <id type="integer">9460487</id>
+  <isbn>1594744769</isbn>
+  <isbn13>9781594744761</isbn13>
+  <text_reviews_count type="integer">19285</text_reviews_count>
+  <title>Miss Peregrine's Home for Peculiar Children (Miss Peregrine's Peculiar Children, # 1)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/9460487-miss-peregrine-s-home-for-peculiar-children</link>
+  <num_pages>348</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Quirk</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.76</average_rating>
+  <ratings_count>188476</ratings_count>
+  <description>A mysterious island. An abandoned orphanage. A strange collection of very curious photographs.&lt;br&gt;&lt;br&gt;It all waits to be discovered in Miss Peregrine’s Home for Peculiar Children, an unforgettable novel that mixes fiction and photography in a thrilling reading experience. As our story opens, a horrific family tragedy sets sixteen-year-old Jacob journeying to a remote island off the coast of Wales, where he discovers the crumbling ruins of Miss Peregrine’s Home for Peculiar Children. As Jacob explores its abandoned bedrooms and hallways, it becomes clear that the children were more than just peculiar. They may have been dangerous. They may have been quarantined on a deserted island for good reason. And somehow—impossible though it seems—they may still be alive.&lt;br&gt;&lt;br&gt;A spine-tingling fantasy illustrated with haunting vintage photography, Miss Peregrine’s Home for Peculiar Children will delight adults, teens, and anyone who relishes an adventure in the shadows.</description>
+<authors>
+  <author>
+    <id>3046613</id>
+    <name>Ransom Riggs</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1298018979p5/3046613.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1298018979p2/3046613.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3046613.Ransom_Riggs]]></link>
+    <average_rating>3.78</average_rating>
+    <ratings_count>199845</ratings_count>
+    <text_reviews_count>23627</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="ya-readers" />
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:57 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:57 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892310116]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892310116]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892310095</id>
+    <book>
+  <id type="integer">17063696</id>
+  <isbn>1442482540</isbn>
+  <isbn13>9781442482548</isbn13>
+  <text_reviews_count type="integer">249</text_reviews_count>
+  <title>The Lord of Opium (Matteo Alacran #2)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1362634071m/17063696.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1362634071s/17063696.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/17063696-the-lord-of-opium</link>
+  <num_pages>411</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Atheneum Books for Young Readers</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.71</average_rating>
+  <ratings_count>1097</ratings_count>
+  <description>The new book continues the story of Matt, the boy who was cloned from evil drug lord El Patrón in The House of the Scorpion. Now 14 years old, Matt rules his own country, the Land of Opium, the only thriving place in a world ravaged by ecological disaster. Though he knows that the cure for ending the suffering is hidden in Opium, Matt faces obstacles and enemies at every turn when he tries to use his power to help.</description>
+<authors>
+  <author>
+    <id>8360</id>
+    <name>Nancy Farmer</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1207168030p5/8360.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1207168030p2/8360.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/8360.Nancy_Farmer]]></link>
+    <average_rating>4.02</average_rating>
+    <ratings_count>64984</ratings_count>
+    <text_reviews_count>6211</text_reviews_count>
+  </author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:56 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:56 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892310095]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892310095]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892310044</id>
+    <book>
+  <id type="integer">12558285</id>
+  <isbn>1419704281</isbn>
+  <isbn13>9781419704284</isbn13>
+  <text_reviews_count type="integer">2033</text_reviews_count>
+  <title>Splintered (Splintered, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1340134213m/12558285.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1340134213s/12558285.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/12558285-splintered</link>
+  <num_pages>371</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Amulet Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.01</average_rating>
+  <ratings_count>10271</ratings_count>
+  <description>This stunning debut captures the grotesque madness of a mystical under-land, as well as a girl’s pangs of first love and independence. Alyssa Gardner hears the whispers of bugs and flowers—precisely the affliction that landed her mother in a mental hospital years before. This family curse stretches back to her ancestor Alice Liddell, the real-life inspiration for Lewis Carroll’s &lt;em&gt;Alice’s Adventures in Wonderland&lt;/em&gt;. Alyssa might be crazy, but she manages to keep it together. For now.&lt;br&gt; When her mother’s mental health takes a turn for the worse, Alyssa learns that what she thought was fiction is based in terrifying reality. The real Wonderland is a place far darker and more twisted than Lewis Carroll ever let on. There, Alyssa must pass a series of tests, including draining an ocean of Alice’s tears, waking the slumbering tea party, and subduing a vicious bandersnatch, to fix Alice’s mistakes and save her family. She must also decide whom to trust: Jeb, her gorgeous best friend and secret crush, or the sexy but suspicious Morpheus, her guide through Wonderland, who may have dark motives of his own.</description>
+<authors>
+  <author>
+    <id>5186274</id>
+    <name>A.G. Howard</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1325561918p5/5186274.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1325561918p2/5186274.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/5186274.A_G_Howard]]></link>
+    <average_rating>4.06</average_rating>
+    <ratings_count>12513</ratings_count>
+    <text_reviews_count>2940</text_reviews_count>
+  </author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="currently-reading" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 26 06:53:52 -0700 2014</started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 08 00:00:00 -0800 2012</date_added>
+  <date_updated>Wed Mar 26 06:53:52 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892310044]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892310044]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309772</id>
+    <book>
+  <id type="integer">13316241</id>
+  <isbn>0547624573</isbn>
+  <isbn13>9780547624570</isbn13>
+  <text_reviews_count type="integer">251</text_reviews_count>
+  <title>Scorch (Croak, #2)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1343996586m/13316241.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1343996586s/13316241.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/13316241-scorch</link>
+  <num_pages>332</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HMH Books for Young Readers</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.10</average_rating>
+  <ratings_count>1401</ratings_count>
+  <description>Sixteen-year-old Lex Bartleby is a teenage grim reaper with the bizarre ability to damn souls. That makes her pretty scary, even to fellow Grims. But after inadvertently transferring her ability to Zara, a murderous outlaw, Lex is a pariah in Croak, the little town she calls home.&lt;br&gt;&lt;br&gt;To escape the townspeople’s wrath, she and her friends embark on a wild road trip to DeMyse. Though this sparkling desert oasis is full of luxuries and amusements, it feels like a prison to Lex. Her best chance at escape would be to stop Zara once and for all—but how can she do that from DeMyse, where the Grims seem mysteriously oblivious to Zara’s killing spree?</description>
+<authors>
+  <author>
+    <id>4983109</id>
+    <name>Gina Damico</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1317056611p5/4983109.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1317056611p2/4983109.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/4983109.Gina_Damico]]></link>
+    <average_rating>4.03</average_rating>
+    <ratings_count>6180</ratings_count>
+    <text_reviews_count>1208</text_reviews_count>
+  </author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="currently-reading" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 26 06:53:31 -0700 2014</started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:31 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:31 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309772]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309772]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309722</id>
+    <book>
+  <id type="integer">2741766</id>
+  <isbn>0545107083</isbn>
+  <isbn13>9780545107082</isbn13>
+  <text_reviews_count type="integer">685</text_reviews_count>
+  <title>How to Say Goodbye in Robot</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328839037m/2741766.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328839037s/2741766.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/2741766-how-to-say-goodbye-in-robot</link>
+  <num_pages>276</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.83</average_rating>
+  <ratings_count>5197</ratings_count>
+  <description>From bestselling author Natalie Standiford, an amazing, touching story of two friends navigating the dark waters of their senior year.&lt;br&gt;&lt;br&gt;New to town, Beatrice is expecting her new best friend to be one of the girls she meets on the first day. But instead, the alphabet conspires to seat her next to Jonah, aka Ghost Boy, a quiet loner who hasn't made a new friend since third grade. Something about him, though, gets to Bea, and soon they form an unexpected friendship. It's not romance, exactly - but it's definitely love. Still, Bea can't quite dispel Jonah's gloom and doom - and as she finds out his family history, she understands why. Can Bea help Jonah? Or is he destined to vanish?</description>
+<authors>
+  <author>
+    <id>136146</id>
+    <name>Natalie Standiford</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1268675443p5/136146.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1268675443p2/136146.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/136146.Natalie_Standiford]]></link>
+    <average_rating>3.76</average_rating>
+    <ratings_count>12368</ratings_count>
+    <text_reviews_count>1719</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:27 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:27 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309722]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309722]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>892309447</id>
+    <book>
+  <id type="integer">352262</id>
+  <isbn>0316737372</isbn>
+  <isbn13>9780316737371</isbn13>
+  <text_reviews_count type="integer">1209</text_reviews_count>
+  <title>How to Train Your Dragon (How to Train Your Dragon, #1)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/352262.How_to_Train_Your_Dragon</link>
+  <num_pages>224</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown Books for Young Readers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>10064</ratings_count>
+  <description>Chronicles the adventures and misadventures of Hiccup Horrendous Haddock the Third as he tries to pass the important initiation test of his Viking clan, the Tribe of the Hairy Hooligans, by catching and training a dragon...</description>
+<authors>
+  <author>
+    <id>23894</id>
+    <name>Cressida Cowell</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1294682719p5/23894.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1294682719p2/23894.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/23894.Cressida_Cowell]]></link>
+    <average_rating>4.08</average_rating>
+    <ratings_count>31281</ratings_count>
+    <text_reviews_count>2950</text_reviews_count>
+  </author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="childrens-books" />
+      <shelf name="currently-reading" />
+      <shelf name="ya-readers" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 26 06:53:07 -0700 2014</started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 26 06:53:07 -0700 2014</date_added>
+  <date_updated>Wed Mar 26 06:53:07 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/892309447]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/892309447]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

@@ -1,0 +1,2073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[qqkX8sMrWqlyBbkJzzGQ0A]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  <reviews start="1401" end="1433" total="1433">
+    <review>
+  <id>158338847</id>
+    <book>
+  <id type="integer">6947949</id>
+  <isbn>098250053X</isbn>
+  <isbn13>9780982500538</isbn13>
+  <text_reviews_count type="integer">237</text_reviews_count>
+  <title>Angel Star (Angel Star, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327930575m/6947949.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327930575s/6947949.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/6947949-angel-star</link>
+  <num_pages>251</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.34</average_rating>
+  <ratings_count>1419</ratings_count>
+  <description>Seventeen-year-old Teagan McNeel falls for captivating Garreth Adams and soon discovers that her crush has an eight-point star etched into the palm of his right hand-the mark of an angel.&lt;br&gt;&lt;br&gt;But where there is light, dark follows, and she and Garreth suddenly find themselves vulnerable to a dark angel's malicious plan that could threaten not only her life, but the lives of everyone she knows, and now, she is torn between one angel's sacrifice and another angel's vicious ambition. &lt;br&gt;&lt;br&gt;Divinely woven together, &lt;em&gt;Angel Star&lt;/em&gt; takes readers on a reflective journey when one angel's sacrifice collides with another angel's vicious ambition in a way that is sure to have readers searching for their own willpower.</description>
+<authors>
+  <author>
+    <id>3105432</id>
+    <name>Jennifer Murgia</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1385062439p5/3105432.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1385062439p2/3105432.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3105432.Jennifer_Murgia]]></link>
+    <average_rating>3.45</average_rating>
+    <ratings_count>1758</ratings_count>
+    <text_reviews_count>318</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+      <shelf name="angels" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Apr 02 11:50:47 -0700 2011</date_added>
+  <date_updated>Sat Apr 02 11:50:47 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/158338847]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/158338847]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>158258077</id>
+    <book>
+  <id type="integer">112750</id>
+  <isbn>0385339151</isbn>
+  <isbn13>9780385339155</isbn13>
+  <text_reviews_count type="integer">4132</text_reviews_count>
+  <title>Darkfever (Fever, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1392579949m/112750.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1392579949s/112750.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/112750.Darkfever</link>
+  <num_pages>309</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.19</average_rating>
+  <ratings_count>73534</ratings_count>
+  <description>MacKayla Lane’s life is good. She has great friends, a decent job, and a car that breaks down only every other week or so. In other words, she’s your perfectly ordinary twenty-first-century woman. Or so she thinks…until something extraordinary happens.&lt;br&gt;&lt;br&gt;When her sister is murdered, leaving a single clue to her death–a cryptic message on Mac’s cell phone–Mac journeys to Ireland in search of answers. The quest to find her sister’s killer draws her into a shadowy realm where nothing is as it seems, where good and evil wear the same treacherously seductive mask. She is soon faced with an even greater challenge: staying alive long enough to learn how to handle a power she had no idea she possessed–a gift that allows her to see beyond the world of man, into the dangerous realm of the Fae….&lt;br&gt;&lt;br&gt;As Mac delves deeper into the mystery of her sister’s death, her every move is shadowed by the dark, mysterious Jericho, a man with no past and only mockery for a future. As she begins to close in on the truth, the ruthless Vlane–an alpha Fae who makes sex an addiction for human women–closes in on her. And as the boundary between worlds begins to crumble, Mac’s true mission becomes clear: find the elusive Sinsar Dubh before someone else claims the all-powerful Dark Book–because whoever gets to it first holds nothing less than complete control of the very fabric of both worlds in their hands….</description>
+<authors>
+  <author>
+    <id>48206</id>
+    <name>Karen Marie Moning</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1350594088p5/48206.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1350594088p2/48206.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/48206.Karen_Marie_Moning]]></link>
+    <average_rating>4.29</average_rating>
+    <ratings_count>454731</ratings_count>
+    <text_reviews_count>29409</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+      <shelf name="adult" />
+      <shelf name="fey" />
+      <shelf name="really-looking-forward-to-this-book" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by>Kat Kennedy</recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Apr 01 22:24:13 -0700 2011</date_added>
+  <date_updated>Tue Jun 12 18:19:12 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/158258077]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/158258077]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>158256547</id>
+    <book>
+  <id type="integer">6990472</id>
+  <isbn>014241543X</isbn>
+  <isbn13>9780142415436</isbn13>
+  <text_reviews_count type="integer">1462</text_reviews_count>
+  <title>If I Stay (If I Stay, #1)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/6990472-if-i-stay</link>
+  <num_pages>262</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Speak</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.97</average_rating>
+  <ratings_count>106222</ratings_count>
+  <description>&lt;strong&gt;The critically acclaimed, bestselling novel from Gayle Forman, author of &lt;em&gt;Where She Went&lt;/em&gt;, &lt;em&gt;Just One Day&lt;/em&gt;, and the forthcoming &lt;em&gt;Just One Year&lt;/em&gt;. &lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;On a day that started like any other,&lt;/em&gt;&lt;br&gt;&lt;br&gt;Mia had everything: a loving family, a gorgeous, admiring boyfriend, and a bright future full of music and full of choices. In an instant, almost all of that is taken from her. Caught between life and death, between a happy past and an unknowable future, Mia spends one critical day contemplating the only decision she has left. It is the most important decision she'll ever make.&lt;br&gt;&lt;br&gt;     Simultaneously tragic and hopeful, this is a romantic, riveting, and ultimately uplifting story about memory, music, living, dying, loving.&lt;br&gt;&lt;br&gt;</description>
+<authors>
+  <author>
+    <id>295178</id>
+    <name>Gayle Forman</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1383395848p5/295178.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1383395848p2/295178.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/295178.Gayle_Forman]]></link>
+    <average_rating>4.03</average_rating>
+    <ratings_count>186741</ratings_count>
+    <text_reviews_count>22369</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+      <shelf name="really-looking-forward-to-this-book" />
+      <shelf name="contemporary" />
+      <shelf name="young-adult" />
+      <shelf name="penguin" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Apr 01 22:10:07 -0700 2011</date_added>
+  <date_updated>Fri Apr 01 22:10:07 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/158256547]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/158256547]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>158255983</id>
+    <book>
+  <id type="integer">262430</id>
+  <isbn>043977134X</isbn>
+  <isbn13>9780439771344</isbn13>
+  <text_reviews_count type="integer">3363</text_reviews_count>
+  <title>Gregor the Overlander (Underland Chronicles, #1)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/262430.Gregor_the_Overlander</link>
+  <num_pages>311</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Scholastic</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.97</average_rating>
+  <ratings_count>40053</ratings_count>
+  <description>Gregor 11 follows sister Boots 2 through a laundry room grate to the dark Underland below NYC. Transparent-skinned humans dwell beside giant talking spiders, bats, cockroaches, and rats - but the fragile peace is about to fall apart. Six centuries before, the Earl of Sandwich prophesied a quest, Gregor seeking his father, gone for two years.</description>
+<authors>
+  <author>
+    <id>153394</id>
+    <name>Suzanne Collins</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1394819770p5/153394.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1394819770p2/153394.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+    <average_rating>4.30</average_rating>
+    <ratings_count>4975435</ratings_count>
+    <text_reviews_count>298086</text_reviews_count>
+  </author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Apr 01 22:03:40 -0700 2011</date_added>
+  <date_updated>Fri Apr 01 22:03:40 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/158255983]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/158255983]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>156619650</id>
+    <book>
+  <id type="integer">8220745</id>
+  <isbn>0061547913</isbn>
+  <isbn13>9780061547911</isbn13>
+  <text_reviews_count type="integer">574</text_reviews_count>
+  <title>Steel</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1339112487m/8220745.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1339112487s/8220745.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/8220745-steel</link>
+  <num_pages>291</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperTeen</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.40</average_rating>
+  <ratings_count>4058</ratings_count>
+  <description>&lt;blockquote&gt;It was a slender length of rusted steel, tapered to a point at one end and jagged at the other, as if it had broken. A thousand people would step over it and think it trash, but not her.&lt;br&gt;&lt;br&gt;This was the tip of a rapier.&lt;br&gt;&lt;br&gt;
+&lt;/blockquote&gt;Sixteen-year-old Jill has fought in dozens of fencing tournaments, but she has never held a sharpened blade. When she finds a corroded sword piece on a Caribbean beach, she is instantly intrigued and pockets it as her own personal treasure.&lt;br&gt;&lt;br&gt;The broken tip holds secrets, though, and it transports Jill through time to the deck of a pirate ship. Stranded in the past and surrounded by strangers, she is forced to sign on as crew. But a pirate's life is bloody and brief, and as Jill learns about the dark magic that brought her there, she forms a desperate scheme to get home—one that risks everything in a duel to the death with a villainous pirate captain.&lt;br&gt;&lt;br&gt;Time travel, swordplay, and romance combine in an original high-seas adventure from &lt;em&gt;New York Times&lt;/em&gt; bestseller Carrie Vaughn.</description>
+<authors>
+  <author>
+    <id>8988</id>
+    <name>Carrie Vaughn</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1231952277p5/8988.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1231952277p2/8988.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/8988.Carrie_Vaughn]]></link>
+    <average_rating>3.82</average_rating>
+    <ratings_count>133541</ratings_count>
+    <text_reviews_count>10284</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="maybe-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Mar 25 10:39:27 -0700 2011</date_added>
+  <date_updated>Mon Sep 19 18:58:02 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/156619650]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/156619650]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>156619509</id>
+    <book>
+  <id type="integer">7948945</id>
+  <isbn>0451232682</isbn>
+  <isbn13>9780451232687</isbn13>
+  <text_reviews_count type="integer">1152</text_reviews_count>
+  <title>Falling Under (Falling Under, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1326079906m/7948945.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1326079906s/7948945.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/7948945-falling-under</link>
+  <num_pages>324</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>New American Library</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>12014</ratings_count>
+  <description>Theia Alderson has always led a sheltered life in the small California town of Serendipity Falls. But when a devastatingly handsome boy appears in the halls of her school, Theia knows she's seen Haden before- not around town, but in her dreams.&lt;br&gt;&lt;br&gt; As the Haden of both the night and the day beckons her closer one moment and pushes her away the next, the only thing Theia knows for sure is that the incredible pull she feels towards him is stronger than her fear.&lt;br&gt;&lt;br&gt; And when she discovers what Haden truly is, Theia's not sure if she wants to resist him, even if the cost is her soul.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</description>
+<authors>
+  <author>
+    <id>2812835</id>
+    <name>Gwen Hayes</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1262424173p5/2812835.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1262424173p2/2812835.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2812835.Gwen_Hayes]]></link>
+    <average_rating>3.82</average_rating>
+    <ratings_count>22580</ratings_count>
+    <text_reviews_count>2085</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Mar 25 10:38:46 -0700 2011</date_added>
+  <date_updated>Fri Mar 25 10:38:46 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/156619509]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/156619509]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>156619253</id>
+    <book>
+  <id type="integer">8579933</id>
+  <isbn>1849163944</isbn>
+  <isbn13>9781849163941</isbn13>
+  <text_reviews_count type="integer">562</text_reviews_count>
+  <title>Entangled</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1336848413m/8579933.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1336848413s/8579933.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/8579933-entangled</link>
+  <num_pages>372</num_pages>
+  <format>Paperback</format>
+  <edition_information>UK</edition_information>
+  <publisher>Quercus Publishing Plc</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.76</average_rating>
+  <ratings_count>3497</ratings_count>
+  <description>The same questions whirl round and round in my head: What does he want from me? How could I have let this happen? AM I GOING TO DIE? 17-year-old Grace wakes up in a white room, with table, pens and paper - and no clue how she got there. As Grace pours her tangled life onto the page, she is forced to remember everything she's tried to forget. There's falling hopelessly in love with the gorgeous Nat, and the unravelling of her relationship with her best friend Sal. But there's something missing. As hard as she's trying to remember, is there something she just can't see? Grace must face the most important question of all. Why is she here? A story of dangerous secrets, intense friendships and electrifying attraction.</description>
+<authors>
+  <author>
+    <id>4118351</id>
+    <name>Cat Clarke</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1281376040p5/4118351.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1281376040p2/4118351.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/4118351.Cat_Clarke]]></link>
+    <average_rating>3.89</average_rating>
+    <ratings_count>6309</ratings_count>
+    <text_reviews_count>1178</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="ebook" />
+      <shelf name="young-adult" />
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Mar 25 10:36:59 -0700 2011</date_added>
+  <date_updated>Fri Mar 25 10:36:59 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/156619253]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/156619253]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>156619172</id>
+    <book>
+  <id type="integer">8100422</id>
+  <isbn>0385738382</isbn>
+  <isbn13>9780385738385</isbn13>
+  <text_reviews_count type="integer">984</text_reviews_count>
+  <title>Timeless (Timeless, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1275460221m/8100422.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1275460221s/8100422.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/8100422-timeless</link>
+  <num_pages>290</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.91</average_rating>
+  <ratings_count>7049</ratings_count>
+  <description>&lt;p&gt;When tragedy strikes Michele Windsor’s world, she is forced to uproot her life and move across the country to New York City, to live with the wealthy, aristocratic grandparents she’s never met. In their old Fifth Avenue mansion filled with a century’s worth of family secrets, Michele discovers a diary that hurtles her back in time to the year 1910. There, in the midst of the glamorous Gilded Age, Michele meets the young man with striking blue eyes who has haunted her dreams all her life – a man she always wished was real, but never imagined could actually &lt;em&gt;exist.&lt;/em&gt; And she finds herself falling for him, into an otherworldly, time-crossed romance.&lt;br&gt; &lt;br&gt;Michele is soon leading a double life, struggling to balance her contemporary high school world with her escapes into the past. But when she stumbles upon a terrible discovery, she is propelled on a race through history to save the boy she loves – a quest that will determine the fate of both of their lives.&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;From the Hardcover edition.&lt;/em&gt;</description>
+<authors>
+  <author>
+    <id>3505204</id>
+    <name>Alexandra Monir</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1279060133p5/3505204.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1279060133p2/3505204.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3505204.Alexandra_Monir]]></link>
+    <average_rating>3.89</average_rating>
+    <ratings_count>9029</ratings_count>
+    <text_reviews_count>1379</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="maybe-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Mar 25 10:36:28 -0700 2011</date_added>
+  <date_updated>Mon Sep 19 18:57:56 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/156619172]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/156619172]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>156618749</id>
+    <book>
+  <id type="integer">8564935</id>
+  <isbn>1453688935</isbn>
+  <isbn13>9781453688939</isbn13>
+  <text_reviews_count type="integer">2826</text_reviews_count>
+  <title>Switched (Trylle Trilogy, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1288828865m/8564935.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1288828865s/8564935.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/8564935-switched</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>CreateSpace</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.89</average_rating>
+  <ratings_count>48909</ratings_count>
+  <description>Als Wendy Everly sechs Jahre alt war, versuchte ihre Mutter, sie umzubringen: Sie sei ein Monster.&lt;br&gt;Elf Jahre später entdeckt Wendy, dass ihre Mutter recht gehabt haben könnte, als der geheimnisvolle Finn sie aufsucht. Finn ist ein Gesandter der Tryll – magisch begabte Wesen, die in ihrem Äußeren Menschen gleichen, aber nach eigenen Gesetzen leben. Wendy begreift, dass ihr Leben eine Lüge war: Sie selbst ist eine Tryll – und nicht nur irgendeine. Sie ist die Tochter der mächtigen Königin Elora. Bald steckt Wendy mitten in einer gefährlichen Intrige – um den Thron und um ihr Herz...</description>
+<authors>
+  <author>
+    <id>3486415</id>
+    <name>Amanda Hocking</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1314326487p5/3486415.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1314326487p2/3486415.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3486415.Amanda_Hocking]]></link>
+    <average_rating>3.96</average_rating>
+    <ratings_count>220434</ratings_count>
+    <text_reviews_count>17772</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="maybe-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Mar 25 10:34:21 -0700 2011</date_added>
+  <date_updated>Mon Sep 19 18:57:49 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/156618749]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/156618749]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>156618578</id>
+    <book>
+  <id type="integer">10429067</id>
+  <isbn>0062001817</isbn>
+  <isbn13>9780062001818</isbn13>
+  <text_reviews_count type="integer">887</text_reviews_count>
+  <title>Sweet Venom (Medusa Girls, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1297755415m/10429067.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1297755415s/10429067.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/10429067-sweet-venom</link>
+  <num_pages>345</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Katherine Tegen Books</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.91</average_rating>
+  <ratings_count>7230</ratings_count>
+  <description>Grace just moved to San Francisco and is excited to start over at a new school. The change is full of fresh possibilities, but it’s also a tiny bit scary. It gets scarier when a minotaur walks in the door. And even more shocking when a girl who looks just like her shows up to fight the monster.&lt;br&gt;&lt;br&gt;Gretchen is tired of monsters pulling her out into the wee hours, especially on a school night, but what can she do? Sending the minotaur back to his bleak home is just another notch on her combat belt. She never expected to run into this girl who could be her double, though.&lt;br&gt;&lt;br&gt;Greer has her life pretty well put together, thank you very much. But that all tilts sideways when two girls who look eerily like her appear on her doorstep and claim they're triplets, supernatural descendants of some hideous creature from Greek myth, destined to spend their lives hunting monsters.&lt;br&gt;&lt;br&gt;These three teenage descendants of Medusa, the once-beautiful gorgon maligned by myth, must reunite and embrace their fates in this unique paranormal world where monsters lurk in plain sight.</description>
+<authors>
+  <author>
+    <id>1051591</id>
+    <name>Tera Lynn Childs</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1298136398p5/1051591.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1298136398p2/1051591.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1051591.Tera_Lynn_Childs]]></link>
+    <average_rating>3.90</average_rating>
+    <ratings_count>46721</ratings_count>
+    <text_reviews_count>4686</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+      <shelf name="harpercollins" />
+      <shelf name="greek-myths" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Mar 25 10:33:35 -0700 2011</date_added>
+  <date_updated>Sun Aug 21 21:20:50 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/156618578]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/156618578]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>156319992</id>
+    <book>
+  <id type="integer">8377150</id>
+  <isbn>0375847057</isbn>
+  <isbn13>9780375847059</isbn13>
+  <text_reviews_count type="integer">183</text_reviews_count>
+  <title>The Floating Islands</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1320448512m/8377150.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1320448512s/8377150.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/8377150-the-floating-islands</link>
+  <num_pages>400</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Knopf Books for Young Readers</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.73</average_rating>
+  <ratings_count>1006</ratings_count>
+  <description>When Trei loses his family in a tragic disaster, he must search out distant relatives in a new land. The Floating Islands are unlike anything Trei has ever seen: stunning, majestic, and graced with kajurai, men who soar the skies with wings.&lt;br&gt;&lt;br&gt;Trei is instantly sky-mad, and desperate to be a kajurai himself.  The only one who fully understands his passion is Araene, his newfound cousin.  Prickly, sarcastic, and gifted, Araene has a secret of her own . . . a dream a girl cannot attain.&lt;br&gt;&lt;br&gt;Trei and Araene quickly become conspirators as they pursue their individual paths.  But neither suspects that their lives will be deeply entwined, and that the fate of the Floating Islands will lie in their hands. . . .&lt;br&gt;&lt;br&gt;Filled with rich language, and told in alternating voices, &lt;em&gt;The Floating Islands&lt;/em&gt; is an all-encompassing young adult fantasy read.</description>
+<authors>
+  <author>
+    <id>1407193</id>
+    <name>Rachel Neumeier</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1298132016p5/1407193.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1298132016p2/1407193.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1407193.Rachel_Neumeier]]></link>
+    <average_rating>3.60</average_rating>
+    <ratings_count>3415</ratings_count>
+    <text_reviews_count>581</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 21:51:27 -0700 2011</date_added>
+  <date_updated>Wed Mar 23 21:51:27 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/156319992]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/156319992]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>156103214</id>
+    <book>
+  <id type="integer">7124095</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1458</text_reviews_count>
+  <title>Gone (Dream Catcher, #3)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1269866682m/7124095.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1269866682s/7124095.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/7124095-gone</link>
+  <num_pages>214</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.72</average_rating>
+  <ratings_count>18841</ratings_count>
+  <description>Things should be great for Janie—she has graduated from high school and is spending her summer with Cabel, the guy she’s totally in love with. But deep down she’s panicking about how she’s going to survive her future when getting sucked into other people’s dreams is really starting to take its toll.&lt;br&gt;Things get even more complicated when she meets her father for the very first time—and he’s in a coma. As Janie uncovers his secret past, she begins to realize that the choice thought she had has more dire consequences than she ever imagined.</description>
+<authors>
+  <author>
+    <id>767547</id>
+    <name>Lisa McMann</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1304466332p5/767547.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1304466332p2/767547.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/767547.Lisa_McMann]]></link>
+    <average_rating>3.82</average_rating>
+    <ratings_count>132063</ratings_count>
+    <text_reviews_count>13183</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Mar 22 20:52:42 -0700 2011</date_added>
+  <date_updated>Tue Mar 22 20:52:42 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/156103214]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/156103214]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>155401046</id>
+    <book>
+  <id type="integer">6599113</id>
+  <isbn>0982500505</isbn>
+  <isbn13>9780982500507</isbn13>
+  <text_reviews_count type="integer">222</text_reviews_count>
+  <title>The Pace (The Pace, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327944258m/6599113.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327944258s/6599113.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/6599113-the-pace</link>
+  <num_pages>312</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Lands Atlantic Publishing</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>1135</ratings_count>
+  <description>Weston Wilson is not immortal and he is of this world. But, aging is not part of his existence, and eighteen-year-old Sophie Slone is determined to find out why. In doing so, she could also uncover something about her own life expectancy that she may not want to know. Suddenly, immortality will mean everything and nothing all at the same time.</description>
+<authors>
+  <author>
+    <id>2980339</id>
+    <name>Shelena Shorts</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1247979443p5/2980339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1247979443p2/2980339.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2980339.Shelena_Shorts]]></link>
+    <average_rating>3.85</average_rating>
+    <ratings_count>2396</ratings_count>
+    <text_reviews_count>451</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+      <shelf name="dystopian" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Mar 19 16:37:03 -0700 2011</date_added>
+  <date_updated>Sat Mar 19 16:37:03 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/155401046]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/155401046]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>155398553</id>
+    <book>
+  <id type="integer">9182417</id>
+  <isbn>1402256337</isbn>
+  <isbn13>9781402256332</isbn13>
+  <text_reviews_count type="integer">344</text_reviews_count>
+  <title>The Liar Society (The Liar Society, #1)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/9182417-the-liar-society</link>
+  <num_pages>368</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Sourcebooks Fire</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>2064</ratings_count>
+  <description>Kate Lowry didn't think dead best friends could send e-mails. But when she gets an e-mail from Grace, she’s not so sure.&lt;br&gt;&lt;br&gt;To: KateLowry@pemberlybrown.edu&lt;br&gt;Sent: Sun 9/14 11:59 PM&lt;br&gt;From: GraceLee@pemberlybrown.edu&lt;br&gt;Subject: (no subject)&lt;br&gt;&lt;br&gt;Kate,&lt;br&gt;I'm here…&lt;br&gt;sort of. &lt;br&gt;Find Cameron.&lt;br&gt;He knows.&lt;br&gt;I shouldn't be writing.&lt;br&gt;Don't tell.&lt;br&gt;They'll hurt you.&lt;br&gt;&lt;br&gt;Now Kate has no choice but to prove once and for all that Grace’s death was more than just a tragic accident. But secrets haunt the halls of her elite private school. Secrets people will do anything to protect. Even if it means getting rid of the girl trying to solve a murder...</description>
+<authors>
+  <author>
+    <id>3160535</id>
+    <name>Lisa Roecker</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1354754015p5/3160535.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1354754015p2/3160535.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3160535.Lisa_Roecker]]></link>
+    <average_rating>3.82</average_rating>
+    <ratings_count>2747</ratings_count>
+    <text_reviews_count>575</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Mar 19 16:23:00 -0700 2011</date_added>
+  <date_updated>Wed Mar 07 09:58:22 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/155398553]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/155398553]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>154965287</id>
+    <book>
+  <id type="integer">6930002</id>
+  <isbn>073872582X</isbn>
+  <isbn13>9780738725826</isbn13>
+  <text_reviews_count type="integer">782</text_reviews_count>
+  <title>The Iron Witch (The Iron Witch, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1277231036m/6930002.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1277231036s/6930002.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/6930002-the-iron-witch</link>
+  <num_pages>299</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Flux</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.45</average_rating>
+  <ratings_count>7009</ratings_count>
+  <description>Freak. That's what her classmates call seventeen-year-old Donna Underwood. When she was seven, a horrific fey attack killed her father and drove her mother mad. Donna's own nearly fatal injuries from the assault were fixed by magic—the iron tattoos branding her hands and arms. The child of alchemists, Donna feels cursed by the magical heritage that destroyed her parents and any chance she had for a normal life. The only thing that keeps her sane and grounded is her relationship with her best friend, Navin Sharma.&lt;p&gt;When the darkest outcasts of Faerie—the vicious wood elves—abduct Navin, Donna finally has to accept her role in the centuries old war between the humans and the fey. Assisted by Xan, a gorgeous half-fey dropout with secrets of his own, Donna races to save her friend—even if it means betraying everything her parents and the alchemist community fought to the death to protect.&lt;/p&gt;</description>
+<authors>
+  <author>
+    <id>2916205</id>
+    <name>Karen Mahoney</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1275162567p5/2916205.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1275162567p2/2916205.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2916205.Karen_Mahoney]]></link>
+    <average_rating>3.68</average_rating>
+    <ratings_count>18963</ratings_count>
+    <text_reviews_count>1957</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="maybe-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 17 10:34:19 -0700 2011</date_added>
+  <date_updated>Mon Sep 19 18:57:37 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/154965287]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/154965287]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>154965157</id>
+    <book>
+  <id type="integer">10637766</id>
+  <isbn>1442426640</isbn>
+  <isbn13>9781442426641</isbn13>
+  <text_reviews_count type="integer">5040</text_reviews_count>
+  <title>Silence (Hush, Hush, #3)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1362408152m/10637766.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1362408152s/10637766.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/10637766-silence</link>
+  <num_pages>448</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Simon &amp; Schuster Books for Young Readers</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>105079</ratings_count>
+  <description>&lt;strong&gt;WHEN SILENCE IS ALL THAT'S LEFT, CAN THE TRUTH FINALLY BE HEARD?&lt;/strong&gt;&lt;br&gt;&lt;br&gt;Nora Grey can't remember the past five months of her life. After the initial shock of waking up in a cemetery and being told that she has been missing for weeks - with no one knowing where she was or who she was with - she tried to get her life back on track. Go to school, hang out with her best friend, Vee, and dodge mom's creepy new boyfriend.&lt;br&gt;&lt;br&gt;But there is this voice in the back of her head, an idea that she can almost reach out and touch. Visions of angel wings and unearthly creatures that have nothing to do with the life she knows.&lt;br&gt;&lt;br&gt;And this unshakable feeling that a part of her is missing.&lt;br&gt;&lt;br&gt;Then Nora crosses paths with a sexy stranger, whom she feels a mesmerizing connection to. He seems to hold all the answers...and her heart. Every minute she spends with him grows more and more intense until she realizes she could be falling in love. Again.</description>
+<authors>
+  <author>
+    <id>2876763</id>
+    <name>Becca Fitzpatrick</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1390505291p5/2876763.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1390505291p2/2876763.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2876763.Becca_Fitzpatrick]]></link>
+    <average_rating>4.10</average_rating>
+    <ratings_count>538710</ratings_count>
+    <text_reviews_count>34166</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="angels" />
+      <shelf name="if-i-m-feeling-masochistic" />
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 17 10:33:44 -0700 2011</date_added>
+  <date_updated>Sun Oct 02 18:42:29 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/154965157]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/154965157]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>154962702</id>
+    <book>
+  <id type="integer">7791997</id>
+  <isbn>1416989439</isbn>
+  <isbn13>9781416989431</isbn13>
+  <text_reviews_count type="integer">6882</text_reviews_count>
+  <title>Crescendo (Hush, Hush, #2)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1362408146m/7791997.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1362408146s/7791997.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/7791997-crescendo</link>
+  <num_pages>427</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Simon &amp; Schuster Books for Young Readers</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.11</average_rating>
+  <ratings_count>133624</ratings_count>
+  <description>Nora Grey's life is still far from perfect. Surviving an attempt on her life wasn't pleasant, but at least she got a guardian angel out of it. A mysterious, magnetic, gorgeous guardian angel. But despite his role in her life, Patch has been acting anything but angelic. He's more elusive than ever (if that's possible) and what's worse, he seems to be spending time with Nora's archenemy, Marcie Millar.&lt;br&gt;&lt;br&gt;Nora would have hardly noticed Scott Parnell, an old family friend who has moved back to town, if Patch hadn't been acting so distant. Even with Scott's totally infuriating attitude, Nora finds herself drawn to him - despite her lingering feelings that he is hiding something.&lt;br&gt;&lt;br&gt;If that weren't enough, Nora is haunted by images of her murdered father, and comes to question whether her Nephilim bloodline has anything to do with his death. Desperate to figure out what happened, she puts herself in increasingly dangerous situations to get the answer. But maybe some things are better left buried, because the truth could destroy everything - and everyone - she trusts.</description>
+<authors>
+  <author>
+    <id>2876763</id>
+    <name>Becca Fitzpatrick</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1390505291p5/2876763.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1390505291p2/2876763.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2876763.Becca_Fitzpatrick]]></link>
+    <average_rating>4.10</average_rating>
+    <ratings_count>538710</ratings_count>
+    <text_reviews_count>34166</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+      <shelf name="angels" />
+      <shelf name="if-i-m-feeling-masochistic" />
+      <shelf name="i-blame-twilight" />
+      <shelf name="ebook" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 17 10:20:58 -0700 2011</date_added>
+  <date_updated>Sun Oct 02 18:40:07 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/154962702]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/154962702]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>154871821</id>
+    <book>
+  <id type="integer">7090447</id>
+  <isbn>1423113381</isbn>
+  <isbn13>9781423113386</isbn13>
+  <text_reviews_count type="integer">6924</text_reviews_count>
+  <title>The Red Pyramid (Kane Chronicles, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1366227978m/7090447.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1366227978s/7090447.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/7090447-the-red-pyramid</link>
+  <num_pages>516</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Disney-Hyperion</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>134394</ratings_count>
+  <description>Since their mother's death, Carter and Sadie have become near strangers. While Sadie has lived with her grandparents in London, her brother has traveled the world with their father, the brilliant Egyptologist, Dr. Julius Kane. &lt;br&gt;&lt;br&gt;One night, Dr. Kane brings the siblings together for a "research experiment" at the British Museum, where he hopes to set things right for his family. Instead, he unleashes the Egyptian god Set, who banishes him to oblivion and forces the children to flee for their lives. &lt;br&gt;&lt;br&gt;Soon, Sadie and Carter discover that the gods of Egypt are waking, and the worst of them —Set— has his sights on the Kanes. To stop him, the siblings embark on a dangerous journey across the globe - a quest that brings them ever closer to the truth about their family and their links to a secret order that has existed since the time of the pharaohs.</description>
+<authors>
+  <author>
+    <id>15872</id>
+    <name>Rick Riordan</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1383677264p5/15872.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1383677264p2/15872.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+    <average_rating>4.28</average_rating>
+    <ratings_count>2633860</ratings_count>
+    <text_reviews_count>123989</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="maybe-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 16 19:56:40 -0700 2011</date_added>
+  <date_updated>Mon Sep 19 18:57:32 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/154871821]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/154871821]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>154871464</id>
+    <book>
+  <id type="integer">7736182</id>
+  <isbn>142311339X</isbn>
+  <isbn13>9781423113393</isbn13>
+  <text_reviews_count type="integer">1159</text_reviews_count>
+  <title>The Lost Hero (Heroes of Olympus, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1277091656m/7736182.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1277091656s/7736182.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/7736182-the-lost-hero</link>
+  <num_pages>557</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Hyperion Books for Children</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.36</average_rating>
+  <ratings_count>217678</ratings_count>
+  <description>Jason has a problem. He doesn’t remember anything before waking up in a bus full of kids on a field trip. Apparently he has a girlfriend named Piper and a best friend named Leo. They’re all students at a boarding school for “bad kids.” What did Jason do to end up here? And where is here, exactly?&lt;br&gt;&lt;br&gt;Piper has a secret. Her father has been missing for three days, ever since she had that terrifying nightmare. Piper doesn’t understand her dream, or why her boyfriend suddenly doesn’t recognize her. When a freak storm hits, unleashing strange creatures and whisking her, Jason, and Leo away to someplace called Camp Half-Blood, she has a feeling she’s going to find out.&lt;br&gt;&lt;br&gt;Leo has a way with tools. When he sees his cabin at Camp Half-Blood, filled with power tools and machine parts, he feels right at home. But there’s weird stuff, too—like the curse everyone keeps talking about. Weirdest of all, his bunkmates insist that each of them—including Leo—is related to a god.</description>
+<authors>
+  <author>
+    <id>15872</id>
+    <name>Rick Riordan</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1383677264p5/15872.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1383677264p2/15872.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+    <average_rating>4.28</average_rating>
+    <ratings_count>2633860</ratings_count>
+    <text_reviews_count>123989</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="maybe-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 16 19:55:10 -0700 2011</date_added>
+  <date_updated>Mon Sep 19 18:57:30 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/154871464]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/154871464]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>153609955</id>
+    <book>
+  <id type="integer">12680907</id>
+  <isbn>0803734735</isbn>
+  <isbn13>9780803734739</isbn13>
+  <text_reviews_count type="integer">4799</text_reviews_count>
+  <title>Bitterblue (Graceling Realm, #3)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1331532273m/12680907.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1331532273s/12680907.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/12680907-bitterblue</link>
+  <num_pages>563</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dial</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.02</average_rating>
+  <ratings_count>39273</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>1373880</id>
+    <name>Kristin Cashore</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1273894652p5/1373880.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1273894652p2/1373880.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1373880.Kristin_Cashore]]></link>
+    <average_rating>4.10</average_rating>
+    <ratings_count>290931</ratings_count>
+    <text_reviews_count>25302</text_reviews_count>
+  </author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>4</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="i-need-to-buy-this-book" />
+      <shelf name="to-buy-soon" />
+      <shelf name="penguin" />
+      <shelf name="young-adult" />
+      <shelf name="to-read" />
+      <shelf name="2012-release" />
+      <shelf name="fantasy" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 10 23:08:27 -0800 2011</date_added>
+  <date_updated>Wed Dec 12 19:55:27 -0800 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      Looking forward to this one. 
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/153609955]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/153609955]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>153609937</id>
+    <book>
+  <id type="integer">6001758</id>
+  <isbn>0575085118</isbn>
+  <isbn13>9780575085114</isbn13>
+  <text_reviews_count type="integer">3233</text_reviews_count>
+  <title>Fire (Graceling Realm, #2)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1333351839m/6001758.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1333351839s/6001758.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/6001758-fire</link>
+  <num_pages>334</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Gollancz</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.11</average_rating>
+  <ratings_count>77600</ratings_count>
+  <description>It is not a peaceful time in the Dells. In King City, the young King Nash is clinging to the throne, while rebel lords in the north and south build armies to unseat him. War is coming. And the mountains and forest are filled with spies and thieves. This is where Fire lives, a girl whose beauty is impossibly irresistible and who can control the minds of everyone around her. Exquisitely romantic, this companion to the highly praised "Graceling" has an entirely new cast of characters, save for one person who plays a pivotal role in both books. You don't need to have read "Graceling" to love "Fire." But if you haven't, you'll be dying to read it next. &lt;br&gt;This edition includes an article by and an interview with Kristin Cashore, as well as a sneak peek at her next book, "Bitterblue"!</description>
+<authors>
+  <author>
+    <id>1373880</id>
+    <name>Kristin Cashore</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1273894652p5/1373880.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1273894652p2/1373880.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1373880.Kristin_Cashore]]></link>
+    <average_rating>4.10</average_rating>
+    <ratings_count>290931</ratings_count>
+    <text_reviews_count>25302</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+      <shelf name="i-own-it" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 10 23:08:16 -0800 2011</date_added>
+  <date_updated>Thu Mar 10 23:08:16 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/153609937]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/153609937]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>153609421</id>
+    <book>
+  <id type="integer">7930335</id>
+  <isbn>0316123536</isbn>
+  <isbn13>9780316123532</isbn13>
+  <text_reviews_count type="integer">2682</text_reviews_count>
+  <title>Beautiful Redemption (Caster Chronicles, #4)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1331049809m/7930335.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1331049809s/7930335.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/7930335-beautiful-redemption</link>
+  <num_pages>456</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown Books for Young Readers</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.99</average_rating>
+  <ratings_count>29879</ratings_count>
+  <description>Is death the end . . . or only the beginning?&lt;br&gt;&lt;br&gt;Ethan Wate has spent most of his life longing to escape the stiflingly small Southern town of Gatlin. He never thought he would meet the girl of his dreams, Lena Duchannes, who unveiled a secretive, powerful, and cursed side of Gatlin, hidden in plain sight. And he never could have expected that he would be forced to leave behind everyone and everything he cares about. So when Ethan awakes after the chilling events of the Eighteenth Moon, he has only one goal: to find a way to return to Lena and the ones he loves.&lt;br&gt;&lt;br&gt;Back in Gatlin, Lena is making her own bargains for Ethan's return, vowing to do whatever it takes -- even if that means trusting old enemies or risking the lives of the family and friends Ethan left to protect.&lt;br&gt;&lt;br&gt;Worlds apart, Ethan and Lena must once again work together to rewrite their fate, in this stunning finale to the Beautiful Creatures series.</description>
+<authors>
+  <author>
+    <id>2895706</id>
+    <name>Kami Garcia</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1354259991p5/2895706.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1354259991p2/2895706.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2895706.Kami_Garcia]]></link>
+    <average_rating>3.85</average_rating>
+    <ratings_count>406501</ratings_count>
+    <text_reviews_count>31883</text_reviews_count>
+  </author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="maybe-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 10 23:01:17 -0800 2011</date_added>
+  <date_updated>Mon Sep 19 18:57:13 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/153609421]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/153609421]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>153609410</id>
+    <book>
+  <id type="integer">10757833</id>
+  <isbn>0316123528</isbn>
+  <isbn13>9780316123525</isbn13>
+  <text_reviews_count type="integer">2941</text_reviews_count>
+  <title>Beautiful Chaos (Caster Chronicles, #3)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327878503m/10757833.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327878503s/10757833.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/10757833-beautiful-chaos</link>
+  <num_pages>516</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.01</average_rating>
+  <ratings_count>48620</ratings_count>
+  <description>Ethan Wate thought he was getting used to the strange, impossible events happening in Gatlin, his small Southern town. But now that Ethan and Lena have returned home, &lt;em&gt;strange&lt;/em&gt; and &lt;em&gt;impossible&lt;/em&gt; have taken on new meanings. Swarms of locusts, record-breaking heat, and devastating storms ravage Gatlin as Ethan and Lena struggle to understand the impact of Lena's Claiming. Even Lena's family of powerful Supernaturals is affected - and their abilities begin to dangerously misfire. As time passes, one question becomes clear: What — or who — will need to be sacrificed to save Gatlin?&lt;br&gt;&lt;br&gt;For Ethan, the chaos is a frightening but welcome distraction. He's being haunted in his dreams again, but this time it isn't by Lena - and whatever is haunting him is following him out of his dreams and into his everyday life. Even worse, Ethan is gradually losing pieces of himself — forgetting names, phone numbers, even memories. He doesn't know why, and most days he's too afraid to ask.&lt;br&gt;&lt;br&gt;Sometimes there isn't just one answer or one choice. Sometimes there's no going back. And this time there won't be a happy ending.</description>
+<authors>
+  <author>
+    <id>2895706</id>
+    <name>Kami Garcia</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1354259991p5/2895706.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1354259991p2/2895706.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2895706.Kami_Garcia]]></link>
+    <average_rating>3.85</average_rating>
+    <ratings_count>406501</ratings_count>
+    <text_reviews_count>31883</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="maybe-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 10 23:01:09 -0800 2011</date_added>
+  <date_updated>Mon Sep 19 18:57:08 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/153609410]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/153609410]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>153609385</id>
+    <book>
+  <id type="integer">7842288</id>
+  <isbn>0316077054</isbn>
+  <isbn13>9780316077057</isbn13>
+  <text_reviews_count type="integer">4636</text_reviews_count>
+  <title>Beautiful Darkness (Caster Chronicles, #2)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327879100m/7842288.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327879100s/7842288.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/7842288-beautiful-darkness</link>
+  <num_pages>503</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.91</average_rating>
+  <ratings_count>69251</ratings_count>
+  <description>Ethan Wate used to think of Gatlin, the small Southern town he had always called home, as a place where nothing ever changed. Then he met mysterious newcomer Lena Duchannes, who revealed a secret world that had been hidden in plain sight all along. A Gatlin that harbored ancient secrets beneath its moss-covered oaks and cracked sidewalks. A Gatlin where a curse has marked Lena's family of powerful Supernaturals for generations. A Gatlin where impossible, magical, life-altering events happen.&lt;br&gt;&lt;br&gt;Sometimes life-ending.&lt;br&gt;&lt;br&gt;Together they can face anything Gatlin throws at them, but after suffering a tragic loss, Lena starts to pull away, keeping secrets that test their relationship. And now that Ethan's eyes have been opened to the darker side of Gatlin, there's no going back. Haunted by strange visions only he can see, Ethan is pulled deeper into his town's tangled history and finds himself caught up in the dangerous network of underground passageways endlessly crisscrossing the South, where nothing is as it seems.</description>
+<authors>
+  <author>
+    <id>2895706</id>
+    <name>Kami Garcia</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1354259991p5/2895706.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1354259991p2/2895706.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2895706.Kami_Garcia]]></link>
+    <average_rating>3.85</average_rating>
+    <ratings_count>406501</ratings_count>
+    <text_reviews_count>31883</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="maybe-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 10 23:00:57 -0800 2011</date_added>
+  <date_updated>Mon Sep 19 18:57:03 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/153609385]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/153609385]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>153608987</id>
+    <book>
+  <id type="integer">9755769</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">72</text_reviews_count>
+  <title>Oblivion (Nevermore, #3)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1386191366m/9755769.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1386191366s/9755769.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/9755769-oblivion</link>
+  <num_pages></num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Atheneum Books for Young Readers</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.49</average_rating>
+  <ratings_count>150</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>3165706</id>
+    <name>Kelly Creagh</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1260918918p5/3165706.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1260918918p2/3165706.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3165706.Kelly_Creagh]]></link>
+    <average_rating>3.92</average_rating>
+    <ratings_count>22049</ratings_count>
+    <text_reviews_count>2815</text_reviews_count>
+  </author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+      <shelf name="strange" />
+      <shelf name="simon-schuster" />
+      <shelf name="young-adult" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 10 22:55:58 -0800 2011</date_added>
+  <date_updated>Thu Mar 10 22:55:58 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/153608987]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/153608987]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>153608973</id>
+    <book>
+  <id type="integer">9239571</id>
+  <isbn>1442402075</isbn>
+  <isbn13>9781442402072</isbn13>
+  <text_reviews_count type="integer">546</text_reviews_count>
+  <title>Enshadowed (Nevermore, #2)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1300481485m/9239571.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1300481485s/9239571.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/9239571-enshadowed</link>
+  <num_pages>429</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Atheneum</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.95</average_rating>
+  <ratings_count>3726</ratings_count>
+  <description>&lt;strong&gt;True love takes a twisted turn in the second book of this modern gothic romance trilogy channeling the dark brilliance of Edgar Allan Poe.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;Varen Nethers is trapped in a perilous dreamworld—a treacherous and desolate realm where the terrifying stories of Edgar Allan Poe come to life. Isobel Lanley, plagued by strange visions and haunted by the nightmares of Varen's creation, is the only one who can save him.&lt;br&gt;     Isobel knows that her only hope lies within a Baltimore cemetery. There, in the early morning of Edgar Allan Poe's birthday, a mysterious stranger known as the "Poe Toaster" will make his annual homage at the legendary poet's grave.&lt;br&gt;     Only the Poe Toaster holds the key to the way between worlds. But great dangers lie ahead for Isobel. An ancient evil, draped in veils of white, is watching, challenging her for Varen's affections. When Isobel finally finds Varen, he is no longer the quiet and brooding boy who once captivated her, but a dark force, powerful and malevolent.&lt;br&gt;     Could Isobel's greatest love also be her greatest adversary?</description>
+<authors>
+  <author>
+    <id>3165706</id>
+    <name>Kelly Creagh</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1260918918p5/3165706.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1260918918p2/3165706.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3165706.Kelly_Creagh]]></link>
+    <average_rating>3.92</average_rating>
+    <ratings_count>22049</ratings_count>
+    <text_reviews_count>2815</text_reviews_count>
+  </author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>4</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+      <shelf name="simon-schuster" />
+      <shelf name="print-arc" />
+      <shelf name="strange" />
+      <shelf name="willing-to-trade" />
+      <shelf name="young-adult" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 10 22:55:47 -0800 2011</date_added>
+  <date_updated>Thu Jul 04 17:16:48 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<br />ARC just arrived! Thank you S&amp;S! <br /><br /><br />Edit again: Nope. Still wait until summer.<br /><br />Edit: So wait. Was the book pushed back up to January now? Yay!<br /><br /><br />I can't believe this book is pushed back till August 2012! It would have been perfect timing to come out in Jan. 2012, Poe's birth month. *sigh* I guess it...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/153608973]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/153608973]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>153608906</id>
+    <book>
+  <id type="integer">13125947</id>
+  <isbn>0525423664</isbn>
+  <isbn13>9780525423669</isbn13>
+  <text_reviews_count type="integer">6797</text_reviews_count>
+  <title>Reached (Matched, #3)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1330717582m/13125947.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1330717582s/13125947.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/13125947-reached</link>
+  <num_pages>512</num_pages>
+  <format>Hardcover</format>
+  <edition_information>Dutton</edition_information>
+  <publisher>Penguin</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.60</average_rating>
+  <ratings_count>58440</ratings_count>
+  <description>After leaving Society to desperately seek The Rising, and each other, Cassia and Ky have found what they were looking for, but at the cost of losing each other yet again. Cassia is assigned undercover in Central city, Ky outside the borders, an airship pilot with Indie. Xander is a medic, with a secret. All too soon, everything shifts again.</description>
+<authors>
+  <author>
+    <id>1304470</id>
+    <name>Ally Condie</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1361564387p5/1304470.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1361564387p2/1304470.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1304470.Ally_Condie]]></link>
+    <average_rating>3.68</average_rating>
+    <ratings_count>425524</ratings_count>
+    <text_reviews_count>40852</text_reviews_count>
+  </author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+      <shelf name="dystopian" />
+      <shelf name="youre-on-probation" />
+      <shelf name="young-adult" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 10 22:54:58 -0800 2011</date_added>
+  <date_updated>Tue Dec 06 13:35:38 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/153608906]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/153608906]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>153607942</id>
+    <book>
+  <id type="integer">8755785</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">898</text_reviews_count>
+  <title>City of Heavenly Fire (The Mortal Instruments, #6)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1389748702m/8755785.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1389748702s/8755785.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire</link>
+  <num_pages>733</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Margaret K. McElderry</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.57</average_rating>
+  <ratings_count>4697</ratings_count>
+  <description>&lt;strong&gt;ΕRCHOMAI, SEBASTIAN HAD SAID.&lt;/strong&gt; &lt;br&gt;&lt;br&gt;&lt;em&gt;I am coming.&lt;/em&gt;&lt;br&gt;&lt;br&gt;    Darkness returns to the Shadowhunter world. As their society falls apart around them, Clary, Jace, Simon and their friends must band together to fight the greatest evil the Nephilim have ever faced: Clary’s own brother. Nothing in the world can defeat him — must they journey to another world to find the chance? Lives will be lost, love sacrificed, and the whole world changed in the sixth and last installment of the Mortal Instruments series!&lt;br&gt;&lt;br&gt;Coming 5. 27. 2014</description>
+<authors>
+  <author>
+    <id>150038</id>
+    <name>Cassandra Clare</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1270502031p5/150038.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1270502031p2/150038.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+    <average_rating>4.26</average_rating>
+    <ratings_count>2119682</ratings_count>
+    <text_reviews_count>133316</text_reviews_count>
+  </author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="unlikely" />
+      <shelf name="bound-to-inflict-a-migraine" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 10 22:45:39 -0800 2011</date_added>
+  <date_updated>Mon Feb 04 11:56:39 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/153607942]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/153607942]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>153607920</id>
+    <book>
+  <id type="integer">8755776</id>
+  <isbn>1442416866</isbn>
+  <isbn13>9781442416864</isbn13>
+  <text_reviews_count type="integer">9194</text_reviews_count>
+  <title>City of Lost Souls (The Mortal Instruments, #5)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1369452311m/8755776.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1369452311s/8755776.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/8755776-city-of-lost-souls</link>
+  <num_pages>535</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Margaret K. McElderry</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.31</average_rating>
+  <ratings_count>132495</ratings_count>
+  <description>The &lt;em&gt;New York Times&lt;/em&gt; bestselling Mortal Instruments continues—and so do the thrills and danger for Jace, Clary, and Simon.&lt;br&gt;&lt;br&gt;What price is too high to pay, even for love? When Jace and Clary meet again, Clary is horrified to discover that the demon Lilith’s magic has bound her beloved Jace together with her evil brother Sebastian, and that Jace has become a servant of evil. The Clave is out to destroy Sebastian, but there is no way to harm one boy without destroying the other. As Alec, Magnus, Simon, and Isabelle wheedle and bargain with Seelies, demons, and the merciless Iron Sisters to try to save Jace, Clary plays a dangerous game of her own. The price of losing is not just her own life, but Jace’s soul. She’s willing to do anything for Jace, but can she still trust him? Or is he truly lost?&lt;br&gt;&lt;br&gt;Love. Blood. Betrayal. Revenge. Darkness threatens to claim the Shadowhunters in the harrowing fifth book of the Mortal Instruments series.</description>
+<authors>
+  <author>
+    <id>150038</id>
+    <name>Cassandra Clare</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1270502031p5/150038.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1270502031p2/150038.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+    <average_rating>4.26</average_rating>
+    <ratings_count>2119682</ratings_count>
+    <text_reviews_count>133316</text_reviews_count>
+  </author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="bound-to-inflict-a-migraine" />
+      <shelf name="unlikely" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 10 22:45:30 -0800 2011</date_added>
+  <date_updated>Mon Feb 04 11:56:39 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/153607920]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/153607920]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>153607910</id>
+    <book>
+  <id type="integer">6131164</id>
+  <isbn nil="true"/>
+  <isbn13>9781416975908</isbn13>
+  <text_reviews_count type="integer">10095</text_reviews_count>
+  <title>Clockwork Princess (The Infernal Devices, #3)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1369452245m/6131164.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1369452245s/6131164.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/6131164-clockwork-princess</link>
+  <num_pages>570</num_pages>
+  <format>Hardcover</format>
+  <edition_information>Collector's First Edition</edition_information>
+  <publisher>Simon &amp; Schuster Margaret K. McElderry</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.58</average_rating>
+  <ratings_count>86060</ratings_count>
+  <description>London 1873 shape-shifter Tessa Gray 16 is engaged to Jem Carstairs 17, dying of addiction to demon drug, all bought up by evil Mortmain. The "clockwork prince" controls an army of automatons to abduct Tess, kill the Shadowhunters, and blackmail Charlotte Branwell, head of London Institute. Will and Tessa hide their love, for love of Jem. Plus 2-pg Note on Tessa's England.</description>
+<authors>
+  <author>
+    <id>150038</id>
+    <name>Cassandra Clare</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1270502031p5/150038.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1270502031p2/150038.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+    <average_rating>4.26</average_rating>
+    <ratings_count>2119682</ratings_count>
+    <text_reviews_count>133316</text_reviews_count>
+  </author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="angels" />
+      <shelf name="vamps" />
+      <shelf name="due-to-reviews-lost-interest" />
+      <shelf name="werewolves" />
+      <shelf name="fey" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 10 22:45:21 -0800 2011</date_added>
+  <date_updated>Sun Mar 24 09:35:11 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/153607910]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/153607910]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>153576595</id>
+    <book>
+  <id type="integer">10345642</id>
+  <isbn>1606842218</isbn>
+  <isbn13>9781606842218</isbn13>
+  <text_reviews_count type="integer">484</text_reviews_count>
+  <title>The Savage Grace (The Dark Divine, #3)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1318627217m/10345642.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1318627217s/10345642.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/10345642-the-savage-grace</link>
+  <num_pages>488</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>EgmontUSA</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>4249</ratings_count>
+  <description>&lt;em&gt;A troubled soul. An impossible choice. A final battle.&lt;/em&gt;&lt;br&gt;&lt;br&gt;Wrestling with the werewolf curse pulsing deep inside of her, Grace Divine was finally able to find her brother, but it nearly cost her everything.&lt;br&gt;&lt;br&gt;With her boyfriend, Daniel, stuck in wolf form and Sirhan's death approaching, time is running out for Grace to stop Caleb Kalbi and his gang of demons. If she fails, her family and hometown will perish. Everything rests on Grace's shoulders.&lt;br&gt;&lt;br&gt;The final installment in The Dark Divine trilogy brings Daniel and Grace's love story to a breathtaking conclusion.</description>
+<authors>
+  <author>
+    <id>2891503</id>
+    <name>Bree Despain</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1246158442p5/2891503.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1246158442p2/2891503.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2891503.Bree_Despain]]></link>
+    <average_rating>3.98</average_rating>
+    <ratings_count>49745</ratings_count>
+    <text_reviews_count>4331</text_reviews_count>
+  </author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="werewolves" />
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 10 19:35:34 -0800 2011</date_added>
+  <date_updated>Thu Mar 10 19:35:34 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/153576595]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/153576595]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>153576288</id>
+    <book>
+  <id type="integer">7159515</id>
+  <isbn>0312595670</isbn>
+  <isbn13>9780312595678</isbn13>
+  <text_reviews_count type="integer">3661</text_reviews_count>
+  <title>Still Missing</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1260468195m/7159515.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1260468195s/7159515.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/7159515-still-missing</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.95</average_rating>
+  <ratings_count>25583</ratings_count>
+  <description>On the day she was abducted, Annie O’Sullivan, a 32-year-old realtor, had three goals—sell a house, forget about a recent argument with her mother, and be on time for dinner with her ever-patient boyfriend. The open house is slow, but when her last visitor pulls up in a van as she's about to leave, Annie thinks it just might be her lucky day after all. &lt;p&gt;Interwoven with the story of the year Annie spent as the captive of a psychopath in a remote mountain cabin, which unfolds through sessions with her psychiatrist, is a second narrative recounting events following her escape—her struggle to piece her shattered life back together and the ongoing police investigation into the identity of her captor.&lt;/p&gt;  &lt;p&gt;&lt;em&gt;Still Missing&lt;/em&gt; is that rare debut find--a shocking, visceral, brutal and beautifully crafted debut novel.&lt;/p&gt;</description>
+<authors>
+  <author>
+    <id>3163298</id>
+    <name>Chevy Stevens</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1379458276p5/3163298.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1379458276p2/3163298.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3163298.Chevy_Stevens]]></link>
+    <average_rating>3.89</average_rating>
+    <ratings_count>38092</ratings_count>
+    <text_reviews_count>6561</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+      <shelf name="on-my-shelf" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 10 19:33:58 -0800 2011</date_added>
+  <date_updated>Thu Mar 10 19:33:58 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/153576288]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/153576288]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>153575749</id>
+    <book>
+  <id type="integer">7656228</id>
+  <isbn>0143177958</isbn>
+  <isbn13>9780143177951</isbn13>
+  <text_reviews_count type="integer">128</text_reviews_count>
+  <title>Once Every Never (Never, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1296767711m/7656228.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1296767711s/7656228.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/7656228-once-every-never</link>
+  <num_pages>312</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Canada</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.65</average_rating>
+  <ratings_count>787</ratings_count>
+  <description>Clarinet Reid is a pretty typical teenager. &lt;br&gt;&lt;br&gt;On the surface. &lt;br&gt;&lt;br&gt;She's smart, but a bit of a slacker; outgoing, but just a little insecure; not exactly a mischief-maker, but trouble tends to find her wherever she goes. &lt;br&gt;&lt;br&gt;Also? She unwittingly carries a centuries-old Druid Blood Curse running through her veins.&lt;br&gt;&lt;br&gt;Now, with a single thoughtless act, what started off as the Summer Vacation in Dullsville suddenly spirals into a deadly race to find a stolen artifact, avert an explosive catastrophe, save a Celtic warrior princess, right a dreadful wrong that happened centuries before Clare was even born, and if there's still time, literally, maybe even get a date.&lt;br&gt;&lt;br&gt;This is the kind of adventure that happens to a girl once every, never.</description>
+<authors>
+  <author>
+    <id>1312879</id>
+    <name>Lesley Livingston</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1224022972p5/1312879.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1224022972p2/1312879.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1312879.Lesley_Livingston]]></link>
+    <average_rating>3.82</average_rating>
+    <ratings_count>31323</ratings_count>
+    <text_reviews_count>3199</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+      <shelf name="time-traveling-and-all-that-shiz" />
+      <shelf name="penguin" />
+      <shelf name="young-adult" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 10 19:31:23 -0800 2011</date_added>
+  <date_updated>Thu Mar 10 19:31:23 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/153575749]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/153575749]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>
