@@ -21,6 +21,7 @@ An administrative script for our bookclub
 
 import os
 import sys
+import csv
 import argparse
 
 from octavo.ingest.goodreads import Goodreads
@@ -37,6 +38,15 @@ EPILOG      = "If there are any bugs or concerns, please comment on Github"
 ##########################################################################
 
 def ingest(args):
+    """
+    Ingests data from goodreads
+    """
+
+    if args.csvfile:
+        print "Loading userids from %s" % args.csvfile.name
+        reader = csv.DictReader(args.csvfile)
+        args.userid.extend([int(row['id']) for row in reader])
+
     print "Fetching data from Goodreads"
     api = Goodreads(apikey=args.apikey, htdocs=args.htdocs)
     count = 0
@@ -67,7 +77,9 @@ def main(*argv):
     ingest_parser.add_argument('--batch', action='store_true', default=False, help='force paginated download')
     ingest_parser.add_argument('--htdocs', type=str, default=None, help='set the download directory')
     ingest_parser.add_argument('--apikey', type=str, default=None, help='goodreads API key')
-    ingest_parser.add_argument('userid', type=int, nargs='+', help='userid to collect reviews for')
+    ingest_parser.add_argument('--bulk-ingest', metavar='PATH', dest='csvfile', type=argparse.FileType('r'),
+                               required=False, help='Bulk load from CSV file')
+    ingest_parser.add_argument('userid', type=int, nargs='*', help='userid to collect reviews for')
     ingest_parser.set_defaults(func=ingest)
 
     # Handle input from the command line
