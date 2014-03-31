@@ -1,0 +1,2634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[qqkX8sMrWqlyBbkJzzGQ0A]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  <reviews start="1601" end="1643" total="1643">
+    <review>
+  <id>891632836</id>
+    <book>
+  <id type="integer">2744237</id>
+  <isbn>0061430366</isbn>
+  <isbn13>9780061430367</isbn13>
+  <text_reviews_count type="integer">250</text_reviews_count>
+  <title>Daughters of the North</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/2744237-daughters-of-the-north</link>
+  <num_pages>210</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.31</average_rating>
+  <ratings_count>1561</ratings_count>
+  <description>In her stunning novel, Hall imagines a new dystopia set in the not-too-distant future. England is in a state of environmental crisis and economic collapse. There has been a census, and all citizens have been herded into urban centers. Reproduction has become a lottery, with contraceptive coils fitted to every female of childbearing age. A girl who will become known only as "Sister" escapes the confines of her repressive marriage to find an isolated group of women living as "un-officials" in Carhullan, a remote northern farm, where she must find out whether she has it in herself to become a rebel fighter. Provocative and timely, &lt;em&gt;Daughters of the North&lt;/em&gt; poses questions about the lengths women will go to resist their oppressors, and under what circumstances might an ordinary person become a terrorist.</description>
+<authors>
+  <author>
+    <id>182771</id>
+    <name>Sarah Hall</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1301864582p5/182771.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1301864582p2/182771.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/182771.Sarah_Hall]]></link>
+    <average_rating>3.48</average_rating>
+    <ratings_count>3957</ratings_count>
+    <text_reviews_count>746</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Nov 09 00:00:00 -0800 2011</date_added>
+  <date_updated>Tue Mar 25 12:46:55 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632836]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632836]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632831</id>
+    <book>
+  <id type="integer">2731276</id>
+  <isbn>0061374229</isbn>
+  <isbn13>9780061374227</isbn13>
+  <text_reviews_count type="integer">10280</text_reviews_count>
+  <title>The Story of Edgar Sawtelle</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1310466361m/2731276.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1310466361s/2731276.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/2731276-the-story-of-edgar-sawtelle</link>
+  <num_pages>608</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Ecco</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.55</average_rating>
+  <ratings_count>60086</ratings_count>
+  <description>Born mute, speaking only in sign, Edgar Sawtelle leads an idyllic life with his parents on their farm in remote northern Wisconsin. For generations, the Sawtelles have raised and trained a fictional breed of dog whose remarkable gift for companionship is epitomized by Almondine, Edgar's lifelong friend and ally. Edgar seems poised to carry on his family's traditions, but when catastrophe strikes, he finds his once-peaceful home engulfed in turmoil.&lt;br&gt;&lt;br&gt;Forced to flee into the vast wilderness lying beyond the Sawtelle farm, Edgar comes of age in the wild, fighting for his survival and that of the three yearling dogs who accompany him, until the day he is forced to choose between leaving forever or returning home to confront the mysteries he has left unsolved.&lt;br&gt;&lt;br&gt;Filled with breathtaking scenes—the elemental north woods, the sweep of seasons, an iconic American barn, a fateful vision rendered in the falling rain—&lt;em&gt;The Story of Edgar Sawtelle&lt;/em&gt; is a meditation on the limits of language and what lies beyond, a brilliantly inventive retelling of an ancient story, and an epic tale of devotion, betrayal, and courage in the American heartland.</description>
+<authors>
+  <author>
+    <id>982213</id>
+    <name>David Wroblewski</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1254398877p5/982213.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1254398877p2/982213.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/982213.David_Wroblewski]]></link>
+    <average_rating>3.55</average_rating>
+    <ratings_count>60092</ratings_count>
+    <text_reviews_count>11621</text_reviews_count>
+  </author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Nov 09 00:00:00 -0800 2008</date_added>
+  <date_updated>Tue Mar 25 12:46:55 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632831]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632831]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632822</id>
+    <book>
+  <id type="integer">1040458</id>
+  <isbn>0061246506</isbn>
+  <isbn13>9780061246500</isbn13>
+  <text_reviews_count type="integer">39</text_reviews_count>
+  <title>Bind, Torture, Kill: The Inside Story of the Serial Killer Next Door</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1383007479m/1040458.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1383007479s/1040458.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/1040458.Bind_Torture_Kill</link>
+  <num_pages>352</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>William Morrow</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.76</average_rating>
+  <ratings_count>637</ratings_count>
+  <description>For thirty-one years, an unremarkable family man stalked, killed, and terrorized the people of Wichita, Kansas. He was a devoted husband. A helpful Boy Scout dad. A reliable, conscientious employee. A dependable church president. And behind it all, the notorious serial killer BTK—a self-anointed acronym for "bind, torture, kill."&lt;br&gt;&lt;br&gt;Now that he's in prison serving ten consecutive life sentences, the whole world knows that Dennis Rader is BTK. But the intricate twists and shocking turns of this story have never before been told by the people who were intimately acquainted with the BTK killer and Rader the family man, or by the dedicated cops who finally caught him. &lt;em&gt;Bind, Torture, Kill: The Inside Story of the Serial Killer Next Door&lt;/em&gt; takes readers behind closed doors, revealing the full and horrific tale as seen through the eyes of the killer, his victims, the investigators, and the reporters who covered it all.&lt;br&gt;&lt;br&gt;&lt;em&gt;Bind, Torture, Kill&lt;/em&gt; is written by four award-winning crime reporters for &lt;em&gt;The Wichita Eagle&lt;/em&gt; with the enthusiastic help of Wichita police lieutenant Ken Landwehr and his BTK Task Force. With hours of exclusive interviews with key Task Force members; in-depth interviews with the families of victims; an interview with Jeff Rader, the notorious killer's brother; and over thirty years' worth of original reporters' notes, archival news stories, photos, documents, and material previously suppressed at the request of the police, &lt;em&gt;Bind, Torture, Kill&lt;/em&gt; lays bare the secret story behind the BTK psychopath and the people who brought him down.</description>
+<authors>
+  <author>
+    <id>518382</id>
+    <name>Roy Wenzl</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/m_200x266-e1021c586c5c6da845174faa816a3406.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/m_50x66-e89fc14c32a41c0eb4298dfafe929b65.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/518382.Roy_Wenzl]]></link>
+    <average_rating>3.82</average_rating>
+    <ratings_count>714</ratings_count>
+    <text_reviews_count>89</text_reviews_count>
+  </author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Mar 07 00:00:00 -0800 2011</date_added>
+  <date_updated>Tue Mar 25 12:46:54 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632822]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632822]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632766</id>
+    <book>
+  <id type="integer">6101996</id>
+  <isbn>0061173932</isbn>
+  <isbn13>9780061173936</isbn13>
+  <text_reviews_count type="integer">344</text_reviews_count>
+  <title>Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (and Why We Don't Know About Them)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/6101996-jesus-interrupted</link>
+  <num_pages>292</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.98</average_rating>
+  <ratings_count>3730</ratings_count>
+  <description>Picking up where Bible expert Bart Ehrman's &lt;em&gt;New York Times&lt;/em&gt; bestseller &lt;em&gt;Misquoting Jesus&lt;/em&gt; left off, &lt;em&gt;Jesus, Interrupted&lt;/em&gt; addresses the larger issue of what the New Testament actually teaches—and it's not what most people think. Here Ehrman reveals what scholars have unearthed:&lt;br&gt;&lt;br&gt;• The authors of the New Testament have diverging views about who Jesus was and how salvation works&lt;br&gt;&lt;br&gt;• The New Testament contains books that were forged in the names of the apostles by Christian writers who lived decades later&lt;br&gt;&lt;br&gt;• Jesus, Paul, Matthew, and John all represented fundamentally different religions&lt;br&gt;&lt;br&gt;• Established Christian doctrines—such as the suffering messiah, the divinity of Jesus, and the trinity—were the inventions of still later theologians&lt;br&gt;&lt;br&gt;These are not idiosyncratic perspectives of just one modern scholar. As Ehrman skillfully demonstrates, they have been the standard and widespread views of critical scholars across a full spectrum of denominations and traditions. Why is it most people have never heard such things? This is the book that pastors, educators, and anyone interested in the Bible have been waiting for—a clear and compelling account of the central challenges we face when attempting to reconstruct the life and message of Jesus.</description>
+<authors>
+  <author>
+    <id>643</id>
+    <name>Bart D. Ehrman</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1237161718p5/643.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1237161718p2/643.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/643.Bart_D_Ehrman]]></link>
+    <average_rating>3.91</average_rating>
+    <ratings_count>23564</ratings_count>
+    <text_reviews_count>2219</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Apr 12 00:00:00 -0700 2009</date_added>
+  <date_updated>Tue Mar 25 12:46:51 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632766]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632766]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632738</id>
+    <book>
+  <id type="integer">37415</id>
+  <isbn>0061120065</isbn>
+  <isbn13>9780061120060</isbn13>
+  <text_reviews_count type="integer">4382</text_reviews_count>
+  <title>Their Eyes Were Watching God</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1368072803m/37415.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1368072803s/37415.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/37415.Their_Eyes_Were_Watching_God</link>
+  <num_pages>256</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>122671</ratings_count>
+  <description>One of the most important works of twentieth-century American literature, Zora Neale Hurston’s beloved 1937 classic, &lt;em&gt;Their Eyes Were Watching God&lt;/em&gt;, is an enduring Southern love story sparkling with wit, beauty, and heartfelt wisdom. Told in the captivating voice of a woman who refuses to live in sorrow, bitterness, fear, or foolish romantic dreams, it is the story of fair-skinned, fiercely independent Janie Crawford, and her evolving selfhood through three marriages and a life marked by poverty, trials, and purpose. A true literary wonder, Hurston’s masterwork remains as relevant and affecting today as when it was first published—perhaps the most widely read and highly regarded novel in the entire canon of African American literature.</description>
+<authors>
+  <author>
+    <id>15151</id>
+    <name>Zora Neale Hurston</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1194472605p5/15151.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1194472605p2/15151.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/15151.Zora_Neale_Hurston]]></link>
+    <average_rating>3.83</average_rating>
+    <ratings_count>134647</ratings_count>
+    <text_reviews_count>6246</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Feb 09 00:00:00 -0800 2014</date_added>
+  <date_updated>Tue Mar 25 12:46:50 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632738]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632738]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632734</id>
+    <book>
+  <id type="integer">90619</id>
+  <isbn>0061120057</isbn>
+  <isbn13>9780061120053</isbn13>
+  <text_reviews_count type="integer">758</text_reviews_count>
+  <title>Little, Big</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/90619.Little_Big</link>
+  <num_pages>562</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harper Collins Publishers</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.94</average_rating>
+  <ratings_count>5369</ratings_count>
+  <description>&lt;p&gt; John Crowley's masterful &lt;em&gt;Little, Big&lt;/em&gt; is the epic story of Smoky Barnable, an anonymous young man who travels by foot from the City to a place called Edgewood - not found on any map - to marry Daily Alice Drinkwater, as was prophesied. It is the story of four generations of a singular family, living in a house that is many houses on the magical border of an otherworld. It is a story of fantastic love and heartrending loss; of impossible things and unshakable destinies; and of the great Tale that envelops us all. It is a wonder. &lt;/p&gt;</description>
+<authors>
+  <author>
+    <id>52074</id>
+    <name>John Crowley</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1223869920p5/52074.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1223869920p2/52074.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/52074.John_Crowley]]></link>
+    <average_rating>3.85</average_rating>
+    <ratings_count>15897</ratings_count>
+    <text_reviews_count>2009</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jan 18 00:00:00 -0800 2010</date_added>
+  <date_updated>Tue Mar 25 12:46:50 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632734]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632734]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632721</id>
+    <book>
+  <id type="integer">179780</id>
+  <isbn>0061007226</isbn>
+  <isbn13>9780061007224</isbn13>
+  <text_reviews_count type="integer">1149</text_reviews_count>
+  <title>The Exorcist</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1375168676m/179780.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1375168676s/179780.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/179780.The_Exorcist</link>
+  <num_pages>385</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>HarperTorch</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>68011</ratings_count>
+  <description>Four decades after it first shook the nation, then the world, William Peter Blatty's thrilling masterwork of faith and demonic possession returns in an even more powerful form. Raw and profane, shocking and blood-chilling, it remains a modern parable of good and evil and perhaps the most terrifying novel ever written.</description>
+<authors>
+  <author>
+    <id>104728</id>
+    <name>William Peter Blatty</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1315160128p5/104728.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1315160128p2/104728.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/104728.William_Peter_Blatty]]></link>
+    <average_rating>4.02</average_rating>
+    <ratings_count>75263</ratings_count>
+    <text_reviews_count>1884</text_reviews_count>
+  </author>
+</authors>
+  <published>1994</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 27 00:00:00 -0700 2008</date_added>
+  <date_updated>Tue Mar 25 12:46:49 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632721]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632721]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632701</id>
+    <book>
+  <id type="integer">619971</id>
+  <isbn>0060958146</isbn>
+  <isbn13>9780060958145</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Parenting Through Crisis: Helping Kids in Times of Loss, Grief, and Change</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/619971.Parenting_Through_Crisis</link>
+  <num_pages>272</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>William Morrow Paperbacks</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.97</average_rating>
+  <ratings_count>29</ratings_count>
+  <description>In this companion to her bestselling &lt;em&gt;Kids are Worth It!,&lt;/em&gt; parenting educator Barbara Coloroso shows how parents can help children find a way through grief and sorrow during the difficult times of death, illness, divorce, and other upheavals. She offers concrete, compassionate ideas for supporting children as they navigate the emotional ups and downs that accompany loss, assisting them in developing their own constructive ways of responding to what life hands them.&lt;br&gt;&lt;br&gt;At the heart of her approach is what she calls the T.A.0. of Family -- Time, Affection, and Optimism -- coupled with her deep understanding of how people move through grief. Barbara Coloroso's clear answers to difficult questions are enriched by uplifting humor and insightful anecdotes from her own experiences as a Franciscan nun, mother of three, and her thirty years as a parenting educator. With this Guide in hand, parents can feel assured that they are responding with wisdom and love when children need them most.</description>
+<authors>
+  <author>
+    <id>24362</id>
+    <name>Barbara Coloroso</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1222994099p5/24362.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1222994099p2/24362.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/24362.Barbara_Coloroso]]></link>
+    <average_rating>4.09</average_rating>
+    <ratings_count>1183</ratings_count>
+    <text_reviews_count>195</text_reviews_count>
+  </author>
+</authors>
+  <published>2001</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 15 00:00:00 -0700 2009</date_added>
+  <date_updated>Tue Mar 25 12:46:48 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632701]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632701]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632695</id>
+    <book>
+  <id type="integer">250807</id>
+  <isbn>0060933879</isbn>
+  <isbn13>9780060933876</isbn13>
+  <text_reviews_count type="integer">8</text_reviews_count>
+  <title>A Plague upon Humanity: The Hidden History of Japan's Biological Warfare Program</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/250807.A_Plague_upon_Humanity</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>62</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>146519</id>
+    <name>Daniel Barenblatt</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/146519.Daniel_Barenblatt]]></link>
+    <average_rating>3.92</average_rating>
+    <ratings_count>62</ratings_count>
+    <text_reviews_count>8</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 21 00:00:00 -0700 2013</date_added>
+  <date_updated>Tue Mar 25 12:46:48 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632695]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632695]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632683</id>
+    <book>
+  <id type="integer">91782</id>
+  <isbn>0060931159</isbn>
+  <isbn13>9780060931155</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <title>When Your Lover Is a Liar: Healing the Wounds of Deception and Betrayal</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/91782.When_Your_Lover_Is_a_Liar</link>
+  <num_pages>240</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harper Perennial</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.97</average_rating>
+  <ratings_count>58</ratings_count>
+  <description>Have you ever been lied to by a lover? In this straightforward and supportive book, therapist Susan Forward profiles the wide variety of liars, shows you how to deal with the lies -- from the benign to the lethal -- that these men spin, and gives practical strategies to stop them before they ruin your relationship and, ultimately, your life.&lt;br&gt;&lt;br&gt;Once you find out the truth about your lover and his lies, what do you do? Forward offers practical, proven, step-by-step methods for healing the wounds caused by his deception and betrayal. She provides all the communication and behavioral techniques you need to deal with a lover's lies, telling you exactly what to say, when and how to respond to his reactions, and how to present your requirements for staying in the relationship. With understanding and compassion, she helps you decide whether your relationship can be saved and shows you how to move beyond doubt and regret if you feel that it can't. But whether you stay or go, you can learn to love and trust again.</description>
+<authors>
+  <author>
+    <id>6396</id>
+    <name>Susan Forward</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1315691274p5/6396.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1315691274p2/6396.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/6396.Susan_Forward]]></link>
+    <average_rating>3.98</average_rating>
+    <ratings_count>4609</ratings_count>
+    <text_reviews_count>329</text_reviews_count>
+  </author>
+</authors>
+  <published>1999</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="currently-reading" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 25 12:46:47 -0700 2014</started_at>
+  <read_at></read_at>
+  <date_added>Wed Feb 19 00:00:00 -0800 2014</date_added>
+  <date_updated>Tue Mar 25 12:46:47 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632683]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632683]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632676</id>
+    <book>
+  <id type="integer">114636</id>
+  <isbn>0060929685</isbn>
+  <isbn13>9780060929688</isbn13>
+  <text_reviews_count type="integer">73</text_reviews_count>
+  <title>The Center of Winter</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/114636.The_Center_of_Winter</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>788</ratings_count>
+  <description>The luminous first novel by Marya Hornbacher, the acclaimed author of &lt;em&gt;Wasted: A Memoir of Anorexia and Bulimia&lt;/em&gt;, is a moving and passionate story of a death from despair -- and a stricken family's passage through grief toward the hope, solace, and understanding that waits for them somewhere beyond the center of winter.</description>
+<authors>
+  <author>
+    <id>26256</id>
+    <name>Marya Hornbacher</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1262098825p5/26256.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1262098825p2/26256.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/26256.Marya_Hornbacher]]></link>
+    <average_rating>3.94</average_rating>
+    <ratings_count>24598</ratings_count>
+    <text_reviews_count>1388</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jun 09 00:00:00 -0700 2009</date_added>
+  <date_updated>Tue Mar 25 12:46:47 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632676]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632676]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632669</id>
+    <book>
+  <id type="integer">534092</id>
+  <isbn>0060928972</isbn>
+  <isbn13>9780060928971</isbn13>
+  <text_reviews_count type="integer">62</text_reviews_count>
+  <title>Emotional Blackmail: When the People in Your Life Use Fear, Obligation, and Guilt to Manipulate You</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1357267632m/534092.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1357267632s/534092.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/534092.Emotional_Blackmail</link>
+  <num_pages>272</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>William Morrow Paperbacks</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.01</average_rating>
+  <ratings_count>556</ratings_count>
+  <description>Emotional blackmail is a powerful form of manipulation in which people close to us threaten to punish us for not doing what they want. Emotional blackmailers know how much we value our relationships with them. They know our vulnerabilities and our deepest secrets. They can be our parents or partners, bosses or coworkers, friends or lovers. And no matter how much they care about us, they use this intimate knowledge to win the pay-off they want: our compliance.&lt;br&gt;&lt;br&gt;In &lt;em&gt;Emotional Blackmail&lt;/em&gt;, bestselling author Susan Forward dissects the anatomy of a relationship damaged by manipulation to give blackmail targets the tools they need to fight back. In a clear, no-nonsense style, she outlines the specific steps readers can take, offering checklists, practice scenarios, and concrete communications techniques that will strengthen relationships and break the blackmail cycle for good.</description>
+<authors>
+  <author>
+    <id>6396</id>
+    <name>Susan Forward</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1315691274p5/6396.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1315691274p2/6396.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/6396.Susan_Forward]]></link>
+    <average_rating>3.98</average_rating>
+    <ratings_count>4609</ratings_count>
+    <text_reviews_count>329</text_reviews_count>
+  </author>
+</authors>
+  <published>1998</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 25 13:01:19 -0700 2014</started_at>
+  <read_at></read_at>
+  <date_added>Sun May 26 00:00:00 -0700 2013</date_added>
+  <date_updated>Thu Mar 27 08:36:27 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632669]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632669]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632660</id>
+    <book>
+  <id type="integer">845977</id>
+  <isbn>0060927488</isbn>
+  <isbn13>9780060927486</isbn13>
+  <text_reviews_count type="integer">387</text_reviews_count>
+  <title>A Return to Love: Reflections on the Principles of "A Course in Miracles"</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/845977.A_Return_to_Love</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>10401</ratings_count>
+  <description>Back by popular demand -- and newly updated by the author -- the mega-bestselling spiritual guide in which Marianne Williamson shares her reflections on &lt;em&gt;A Course in Miracles&lt;/em&gt; and her insights on the application of love in the search for inner peace.&lt;br&gt;&lt;br&gt;Williamson reveals how we each can become a miracle worker by accepting God and by the expression of love in our daily lives. Whether psychic pain is in the area of relationships, career, or health, she shows us how love is a potent force, the key to inner peace, and how by practicing love we can make our own lives more fulfilling while creating a more peaceful and loving world for our children.</description>
+<authors>
+  <author>
+    <id>17297</id>
+    <name>Marianne Williamson</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1198520601p5/17297.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1198520601p2/17297.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/17297.Marianne_Williamson]]></link>
+    <average_rating>4.19</average_rating>
+    <ratings_count>20090</ratings_count>
+    <text_reviews_count>1372</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 23 00:00:00 -0700 2009</date_added>
+  <date_updated>Tue Mar 25 12:46:46 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632660]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632660]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632656</id>
+    <book>
+  <id type="integer">26</id>
+  <isbn>0060920084</isbn>
+  <isbn13>9780060920081</isbn13>
+  <text_reviews_count type="integer">1369</text_reviews_count>
+  <title>The Lost Continent: Travels in Small Town America</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1156042887m/26.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1156042887s/26.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/26.The_Lost_Continent</link>
+  <num_pages>314</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>26039</ratings_count>
+  <description>'I come from Des Moines. Somebody had to'&lt;br&gt;&lt;br&gt;And, as soon as Bill Bryson was old enough, he left. Des Moines couldn't hold him, but it did lure him back. After ten years in England, he returned to the land of his youth, and drove almost 14,000 miles in search of a mythical small town called Amalgam, the kind of trim and sunny place where the films of his youth were set. Instead, his search led him to Anywhere, USA; a lookalike strip of gas stations, motels and hamburger outlets populated by lookalike people with a penchant for synthetic fibres. Travelling around thirty-eight of the lower states - united only in their mind-numbingly dreary uniformity - he discovered a continent that was doubly lost; lost to itself because blighted by greed, pollution, mobile homes and television; lost to him because he had become a stranger in his own land.&lt;br&gt;&lt;br&gt;The Lost Continent is a classic of travel literature - hilariously, stomach-achingly funny, yet tinged with heartache - and the book that first staked Bill Bryson's claim as the most beloved writer of his generation.</description>
+<authors>
+  <author>
+    <id>7</id>
+    <name>Bill Bryson</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1189096502p5/7.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1189096502p2/7.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/7.Bill_Bryson]]></link>
+    <average_rating>3.99</average_rating>
+    <ratings_count>547220</ratings_count>
+    <text_reviews_count>35773</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Oct 19 00:00:00 -0700 2010</date_added>
+  <date_updated>Tue Mar 25 12:46:46 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632656]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632656]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632619</id>
+    <book>
+  <id type="integer">544891</id>
+  <isbn>0060874163</isbn>
+  <isbn13>9780060874162</isbn13>
+  <text_reviews_count type="integer">5952</text_reviews_count>
+  <title>Beastly (Beastly, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1334260193m/544891.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1334260193s/544891.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/544891.Beastly</link>
+  <num_pages>304</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperTeen</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.83</average_rating>
+  <ratings_count>93741</ratings_count>
+  <description>I am a beast.&lt;br&gt;&lt;br&gt;A beast. Not quite wolf or bear, gorilla or dog but a horrible new creature who walks upright--a creature with fangs and claws and hair springing from every pore. I am a monster.&lt;br&gt;&lt;br&gt;You think I'm talking fairy tales? No way. The place is New York City. The time is now. It's no deformity, no disease. And I'll stay this way forever--ruined--unless I can break the spell.&lt;br&gt;&lt;br&gt;Yes, the spell, the one the witch in my English class cast on me. Why did she turn me into a beast who hides by day and prowls by night? I'll tell you. I'll tell you how I used to be Kyle Kingsbury, the guy you wished you were, with money, perfect looks, and the perfect life. And then, I'll tell you how I became perfectly . . . beastly.</description>
+<authors>
+  <author>
+    <id>79589</id>
+    <name>Alex Flinn</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1244148957p5/79589.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1244148957p2/79589.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/79589.Alex_Flinn]]></link>
+    <average_rating>3.80</average_rating>
+    <ratings_count>135249</ratings_count>
+    <text_reviews_count>12121</text_reviews_count>
+  </author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Feb 26 00:00:00 -0800 2011</date_added>
+  <date_updated>Tue Mar 25 12:46:44 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632619]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632619]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632606</id>
+    <book>
+  <id type="integer">25019</id>
+  <isbn>0060839783</isbn>
+  <isbn13>9780060839789</isbn13>
+  <text_reviews_count type="integer">2666</text_reviews_count>
+  <title>The Professor and the Madman: A Tale of Murder, Insanity and the Making of the Oxford English Dictionary</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/25019.The_Professor_and_the_Madman</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.84</average_rating>
+  <ratings_count>43355</ratings_count>
+  <description>The Professor and the Madman, masterfully researched and eloquently written, is an extraordinary tale of madness, genius, and the incredible obsessions of two remarkable men that led to the making of the Oxford English Dictionary -- and literary history. The compilation of the OED began in 1857, it was one of the most ambitious projects ever undertaken. As definitions were collected, the overseeing committee, led by Professor James Murray, discovered that one man, Dr. W. C. Minor, had submitted more than ten thousand. When the committee insisted on honoring him, a shocking truth came to light: Dr. Minor, an American Civil War veteran, was also an inmate at an asylum for the criminally insane.</description>
+<authors>
+  <author>
+    <id>14053</id>
+    <name>Simon Winchester</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1286848563p5/14053.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1286848563p2/14053.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/14053.Simon_Winchester]]></link>
+    <average_rating>3.82</average_rating>
+    <ratings_count>71196</ratings_count>
+    <text_reviews_count>6069</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Nov 10 00:00:00 -0800 2008</date_added>
+  <date_updated>Tue Mar 25 12:46:44 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632606]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632606]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632593</id>
+    <book>
+  <id type="integer">868937</id>
+  <isbn>0060817259</isbn>
+  <isbn13>9780060817251</isbn13>
+  <text_reviews_count type="integer">38</text_reviews_count>
+  <title>Haweswater</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/868937.Haweswater</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harper Perennial</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.53</average_rating>
+  <ratings_count>199</ratings_count>
+  <description>The village of Marsdale is a quiet corner of the world, cradled in a remote dale in England's lovely Lake District. The rhythm of life in the deeply religious, sheltered community has not changed for centuries. But in 1936, when Waterworks representative Jack Ligget from industrial Manchester arrives with plans to build a new reservoir, he brings the much feared threat of impending change to this bucolic hamlet. And when he begins an intense and troubled affair with Janet Lightburn—a devout local woman of rare passion and strength of spirit—it can only lead to scandal, tragedy, and remarkable, desperate acts.&lt;br&gt;&lt;br&gt;From Sarah Hall, the internationally acclaimed author of the Man Booker Prize finalist &lt;em&gt;The Electric Michelangelo&lt;/em&gt;, comes a stunning and transcendent novel of love, obsession, and the passing of an age.</description>
+<authors>
+  <author>
+    <id>182771</id>
+    <name>Sarah Hall</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1301864582p5/182771.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1301864582p2/182771.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/182771.Sarah_Hall]]></link>
+    <average_rating>3.48</average_rating>
+    <ratings_count>3957</ratings_count>
+    <text_reviews_count>746</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Nov 09 00:00:00 -0800 2011</date_added>
+  <date_updated>Tue Mar 25 12:46:43 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632593]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632593]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632582</id>
+    <book>
+  <id type="integer">21473330</id>
+  <isbn>0060800011</isbn>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>Profiles in Courage</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/21473330-profiles-in-courage</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.83</average_rating>
+  <ratings_count>4796</ratings_count>
+  <description>-John Quincy Adams, Massachusetts Senator, then congressman, for breaking with the Federalist Party. &lt;br&gt;-Daniel Webster of Massachusetts, for promoting the Compromise of 1850. &lt;br&gt;-Thomas Hart Benton of Missouri, for staying w/the Democratic Party despite opposing territorial slavery. &lt;br&gt;-Sam Houston of Texas, for opposing the 1854 Kansas-Nebraska Act &amp;amp; for opposing secession for which he was deposed as Governor.&lt;br&gt;-Edmund Ross of Kansas, for voting for Andrew Johnson's acquittal. Because of seven Republican votes, his presidency was saved, the office's stature preserved. &lt;br&gt;-Lucius Lamar of Mississippi, for eulogizing Charles Sumner etc. to reconcile North &amp;amp; South during Reconstruction &amp;amp; for his opposition to the Bland-Allison Act permitting free silver coinage.&lt;br&gt;-George Norris of Nebraska, for opposing autocratic Speaker Joseph Cannon, for opposing arming merchant ships during the US's neutral period in WWI &amp;amp; for supporting Al Smith's Presidential Campaign.&lt;br&gt;-Robert Taft of Ohio, for criticizing the Nuremberg Trials for trying Nazi war criminals under ex post facto laws.</description>
+<authors>
+  <author>
+    <id>3047</id>
+    <name>John F. Kennedy</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1198536666p5/3047.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1198536666p2/3047.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3047.John_F_Kennedy]]></link>
+    <average_rating>3.84</average_rating>
+    <ratings_count>5331</ratings_count>
+    <text_reviews_count>370</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Sep 17 00:00:00 -0700 2011</date_added>
+  <date_updated>Tue Mar 25 12:46:42 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632582]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632582]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632571</id>
+    <book>
+  <id type="integer">88510</id>
+  <isbn>006078475X</isbn>
+  <isbn13>9780060784751</isbn13>
+  <text_reviews_count type="integer">34</text_reviews_count>
+  <title>Mental Floss Presents Forbidden Knowledge: A Wickedly Smart Guide to History's Naughtiest Bits</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/88510.Mental_Floss_Presents_Forbidden_Knowledge</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.89</average_rating>
+  <ratings_count>398</ratings_count>
+  <description>Think of anything bad, from art heists to Genghis Kahn, and it's likely to be included in this wickedly smart and humorous guide to the seedy underbelly of basically everything. The brainiac team at "mental_floss", creators of the hit magazine and last year's &lt;em&gt;Condensed Knowledge&lt;/em&gt;, have scoured the darkest, dirtiest corners of history and the globe to gather this ultimate collection of the bad stuff you're not supposed to know and you certainly never learned in school.&lt;br&gt;&lt;br&gt;Organized by theme, with chapters for each of the seven deadly sins, the book includes feuds, plagiarists, hoaxes, lies, schemes, scandals, evil dictators, mob bosses, acts of revenge, angry queens, cannibals and much more, all organized into bite-sized—albeit foul-tasting—lists (i.e."The Fascist Style Guide: Five Dictator Grooming Tips", “Four Biblical Girls Gone Wild" and “Three Delicious Animals We Charbroiled Into Extinction."). It's the perfect way to add some spice to a dull conversation and proves that learning can be not only easy, but exquisitely sinful.</description>
+<authors>
+  <author>
+    <id>1025201</id>
+    <name>Will Pearson</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1025201.Will_Pearson]]></link>
+    <average_rating>3.96</average_rating>
+    <ratings_count>1503</ratings_count>
+    <text_reviews_count>186</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Sep 28 00:00:00 -0700 2008</date_added>
+  <date_updated>Tue Mar 25 12:46:42 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632571]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632571]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632567</id>
+    <book>
+  <id type="integer">385040</id>
+  <isbn>006078184X</isbn>
+  <isbn13>9780060781842</isbn13>
+  <text_reviews_count type="integer">60</text_reviews_count>
+  <title>Lab 257: The Disturbing Story of the Government's Secret Germ Laboratory</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/385040.Lab_257</link>
+  <num_pages>301</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperCollins Publishers</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.68</average_rating>
+  <ratings_count>529</ratings_count>
+  <description>Strictly off limits to the public, Plum Island is home to virginal beaches, cliffs, forests, ponds -- and the deadliest germs that have ever roamed the planet. &lt;em&gt;Lab 257&lt;/em&gt; blows the lid off the stunning true nature and checkered history of Plum Island. It shows that the seemingly bucolic island in the shadow of New York City is a ticking biological time bomb that none of us can safely ignore.&lt;br&gt;&lt;br&gt;Based on declassified government documents, in-depth interviews, and access to Plum Island itself, this is an eye-opening, suspenseful account of a federal government germ laboratory gone terribly wrong. For the first time, &lt;em&gt;Lab 257&lt;/em&gt; takes you deep inside this secret world and presents startling revelations on virus outbreaks, biological meltdowns, infected workers, the periodic flushing of contaminated raw sewage into area waters, and the insidious connections between Plum Island, Lyme disease, and the deadly West Nile virus. The book also probes what's in store for Plum Island's new owner, the Department of Homeland Security, in this age of bioterrorism.&lt;br&gt;&lt;br&gt;&lt;em&gt;Lab 257&lt;/em&gt; is a call to action for those concerned with protecting present and future generations from preventable biological catastrophes.</description>
+<authors>
+  <author>
+    <id>6876900</id>
+    <name>Michael Christopher Carroll</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/6876900.Michael_Christopher_Carroll]]></link>
+    <average_rating>3.68</average_rating>
+    <ratings_count>529</ratings_count>
+    <text_reviews_count>72</text_reviews_count>
+  </author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jul 11 00:00:00 -0700 2011</date_added>
+  <date_updated>Tue Mar 25 12:46:41 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632567]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632567]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632557</id>
+    <book>
+  <id type="integer">14560</id>
+  <isbn>0060763728</isbn>
+  <isbn13>9780060763725</isbn13>
+  <text_reviews_count type="integer">155</text_reviews_count>
+  <title>Psyche in a Dress</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/14560.Psyche_in_a_Dress</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>1808</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>9072</id>
+    <name>Francesca Lia Block</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1339015762p5/9072.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1339015762p2/9072.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/9072.Francesca_Lia_Block]]></link>
+    <average_rating>3.83</average_rating>
+    <ratings_count>78410</ratings_count>
+    <text_reviews_count>5911</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Mar 01 00:00:00 -0800 2010</date_added>
+  <date_updated>Tue Mar 25 12:46:41 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632557]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632557]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632547</id>
+    <book>
+  <id type="integer">92146</id>
+  <isbn>0060759828</isbn>
+  <isbn13>9780060759827</isbn13>
+  <text_reviews_count type="integer">503</text_reviews_count>
+  <title>Carved in Bone</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/92146.Carved_in_Bone</link>
+  <num_pages>342</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperCollins Publishers</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.88</average_rating>
+  <ratings_count>5280</ratings_count>
+  <description>There is a patch of ground in Tennessee dedicated to the science of death, where human remains lie exposed to be studied for their secrets. The real-life scientist who founded the "Body Farm" has broken cold cases and revolutionized forensics . . . and now he spins an astonishing tale inspired by his own experiences.&lt;br&gt;&lt;br&gt;Renowned anthropologist Dr. Bill Brockton has spent his career surrounded by death at the Body Farm. Now he's being called upon to help solve a baffling puzzle in a remote mountain community. The mummified corpse of a young woman dead for thirty years has been discovered in a cave, the body bizarrely preserved and transformed by the environment's unique chemistry. But Brockton's investigation is threatening to open old wounds among an insular people who won't forget or forgive. And a long-buried secret prematurely exposed could inflame Brockton's own guilt--and the dangerous hostility of bitter enemies determined to see him fail . . . by any means necessary.&lt;br&gt;&lt;br&gt;With Fascinating Insider Information on the Body Farm!</description>
+<authors>
+  <author>
+    <id>2747568</id>
+    <name>Jefferson Bass</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1296357311p5/2747568.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1296357311p2/2747568.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2747568.Jefferson_Bass]]></link>
+    <average_rating>3.98</average_rating>
+    <ratings_count>21746</ratings_count>
+    <text_reviews_count>1973</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed May 16 00:00:00 -0700 2012</date_added>
+  <date_updated>Tue Mar 25 12:46:40 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632547]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632547]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632526</id>
+    <book>
+  <id type="integer">8084</id>
+  <isbn>0060753102</isbn>
+  <isbn13>9780060753108</isbn13>
+  <text_reviews_count type="integer">351</text_reviews_count>
+  <title>Beauty: A Retelling of the Story of Beauty &amp; the Beast</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1367922887m/8084.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1367922887s/8084.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/8084.Beauty</link>
+  <num_pages>325</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Eos</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>42495</ratings_count>
+  <description>A young woman, well educated and honourable, accepts responsibility for her father's act and leaves her family to enter the enchanted world of castle and Beast. The Beast she finds is not the one she imagined, but can she stay with him?</description>
+<authors>
+  <author>
+    <id>5339</id>
+    <name>Robin McKinley</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1314406026p5/5339.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1314406026p2/5339.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/5339.Robin_McKinley]]></link>
+    <average_rating>3.95</average_rating>
+    <ratings_count>202833</ratings_count>
+    <text_reviews_count>15511</text_reviews_count>
+  </author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Mar 27 00:00:00 -0700 2010</date_added>
+  <date_updated>Tue Mar 25 12:46:39 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632526]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632526]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632515</id>
+    <book>
+  <id type="integer">13521</id>
+  <isbn>0060747226</isbn>
+  <isbn13>9780060747220</isbn13>
+  <text_reviews_count type="integer">2579</text_reviews_count>
+  <title>Son of a Witch (The Wicked Years, #2)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1370992595m/13521.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1370992595s/13521.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/13521.Son_of_a_Witch</link>
+  <num_pages>337</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.41</average_rating>
+  <ratings_count>41161</ratings_count>
+  <description>Liir hid in the shadows of the castle after Dorothy did in the Witch. Left for dead in a gully, the teen is shattered in spirit and body. But silent novice Candle tends him at the Cloister of Saint Glinda, and wills him back to life with her music. &lt;br&gt;&lt;br&gt;What dark force left Liir in this condition? Is he really Elphaba's son? He has her broom and her cape - but what of her powers? Can he find his supposed half-sister, Nor, last seen in the forbidding prison Southstairs? Can he fulfill the last wishes of a dying princess? In an Oz under new and dangerous management, can Liir keep his head down long enough to grow up?</description>
+<authors>
+  <author>
+    <id>7025</id>
+    <name>Gregory Maguire</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1319068553p5/7025.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1319068553p2/7025.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/7025.Gregory_Maguire]]></link>
+    <average_rating>3.45</average_rating>
+    <ratings_count>549188</ratings_count>
+    <text_reviews_count>33879</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Oct 02 00:00:00 -0700 2009</date_added>
+  <date_updated>Tue Mar 25 12:46:39 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632515]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632515]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632502</id>
+    <book>
+  <id type="integer">865885</id>
+  <isbn>0060738170</isbn>
+  <isbn13>9780060738174</isbn13>
+  <text_reviews_count type="integer">54</text_reviews_count>
+  <title>Misquoting Jesus: The Story Behind Who Changed the Bible and Why</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1378097283m/865885.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1378097283s/865885.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/865885.Misquoting_Jesus</link>
+  <num_pages>256</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>7761</ratings_count>
+  <description>When world-class biblical scholar Bart Ehrman first began to study the texts of the Bible in their original languages he was startled to discover the multitude of mistakes and intentional alterations that had been made by earlier translators. In &lt;em&gt;Misquoting Jesus&lt;/em&gt;, Ehrman tells the story behind the mistakes and changes that ancient scribes made to the New Testament and shows the great impact they had upon the Bible we use today. He frames his account with personal reflections on how his study of the Greek manuscripts made him abandon his once ultraconservative views of the Bible.&lt;br&gt;&lt;br&gt;Since the advent of the printing press and the accurate reproduction of texts, most people have assumed that when they read the New Testament they are reading an exact copy of Jesus's words or Saint Paul's writings. And yet, for almost fifteen hundred years these manuscripts were hand copied by scribes who were deeply influenced by the cultural, theological, and political disputes of their day. Both mistakes and intentional changes abound in the surviving manuscripts, making the original words difficult to reconstruct. For the first time, Ehrman reveals where and why these changes were made and how scholars go about reconstructing the original words of the New Testament as closely as possible.&lt;br&gt;&lt;br&gt;Ehrman makes the provocative case that many of our cherished biblical stories and widely held beliefs concerning the divinity of Jesus, the Trinity, and the divine origins of the Bible itself stem from both intentional and accidental alterations by scribes -- alterations that dramatically affected all subsequent versions of the Bible.</description>
+<authors>
+  <author>
+    <id>643</id>
+    <name>Bart D. Ehrman</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1237161718p5/643.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1237161718p2/643.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/643.Bart_D_Ehrman]]></link>
+    <average_rating>3.91</average_rating>
+    <ratings_count>23564</ratings_count>
+    <text_reviews_count>2219</text_reviews_count>
+  </author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Apr 12 00:00:00 -0700 2009</date_added>
+  <date_updated>Tue Mar 25 12:46:38 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632502]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632502]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632492</id>
+    <book>
+  <id type="integer">18600</id>
+  <isbn>0060730552</isbn>
+  <isbn13>9780060730550</isbn13>
+  <text_reviews_count type="integer">780</text_reviews_count>
+  <title>Touching the Void: The True Story of One Man's Miraculous Survival</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/18600.Touching_the_Void</link>
+  <num_pages>218</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.19</average_rating>
+  <ratings_count>17389</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>11193</id>
+    <name>Joe Simpson</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1274637780p5/11193.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1274637780p2/11193.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/11193.Joe_Simpson]]></link>
+    <average_rating>4.15</average_rating>
+    <ratings_count>19344</ratings_count>
+    <text_reviews_count>971</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Aug 02 00:00:00 -0700 2009</date_added>
+  <date_updated>Tue Mar 25 12:46:37 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632492]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632492]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632486</id>
+    <book>
+  <id type="integer">65549</id>
+  <isbn>006065337X</isbn>
+  <isbn13>9780060653378</isbn13>
+  <text_reviews_count type="integer">110</text_reviews_count>
+  <title>Hostage to the Devil: The Possession and Exorcism of Five Contemporary Americans</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/65549.Hostage_to_the_Devil</link>
+  <num_pages>477</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>6</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.95</average_rating>
+  <ratings_count>673</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>37013</id>
+    <name>Malachi Martin</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1269210176p5/37013.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1269210176p2/37013.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/37013.Malachi_Martin]]></link>
+    <average_rating>3.88</average_rating>
+    <ratings_count>1639</ratings_count>
+    <text_reviews_count>226</text_reviews_count>
+  </author>
+</authors>
+  <published>1999</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat May 01 00:00:00 -0700 2010</date_added>
+  <date_updated>Tue Mar 25 12:46:37 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632486]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632486]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632473</id>
+    <book>
+  <id type="integer">3684856</id>
+  <isbn>0060590319</isbn>
+  <isbn13>9780060590314</isbn13>
+  <text_reviews_count type="integer">2232</text_reviews_count>
+  <title>Fool</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/3684856-fool</link>
+  <num_pages>311</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>William Morrow &amp; Company</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.95</average_rating>
+  <ratings_count>28853</ratings_count>
+  <description>"This is a bawdy tale. Herein you will find gratuitous shagging, murder, spanking, maiming, treason, and heretofore unexplored heights of vulgarity and profanity, as well as nontraditional grammar, split infinitives, and the odd wank . . . If that's the sort of thing you think you might enjoy, then you have happened upon the perfect story!"&lt;br&gt;&lt;br&gt;Verily speaks Christopher Moore, much beloved scrivener and peerless literary jester, who hath writteneth much that is of grand wit and belly-busting mirth, including such laurelled bestsellers of the &lt;em&gt;Times of Olde Newe Yorke&lt;/em&gt; as &lt;em&gt;Lamb&lt;/em&gt;, &lt;em&gt;A Dirty Job&lt;/em&gt;, and &lt;em&gt;You Suck&lt;/em&gt; (no offense). Now he takes on no less than the legendary Bard himself (with the utmost humility and respect) in a twisted and insanely funny tale of a moronic monarch and his deceitful daughters—a rousing story of plots, subplots, counterplots, betrayals, war, revenge, bared bosoms, unbridled lust . . . and a ghost (there's always a bloody ghost), as seen through the eyes of a man wearing a codpiece and bells on his head.&lt;br&gt;&lt;br&gt;Fool&lt;br&gt;&lt;br&gt;A man of infinite jest, Pocket has been Lear's cherished fool for years, from the time the king's grown daughters—selfish, scheming Goneril, sadistic (but erotic-fantasy-grade-hot) Regan, and sweet, loyal Cordelia—were mere girls. So naturally Pocket is at his brainless, elderly liege's side when Lear—at the insidious urging of Edmund, the bastard (in every way imaginable) son of the Earl of Gloucester—demands that his kids swear their undying love and devotion before a collection of assembled guests. Of course Goneril and Regan are only too happy to brownnose Dad. But Cordelia believes that her father's request is kind of . . . well . . . stupid, and her blunt honesty ends up costing her her rightful share of the kingdom and earns her a banishment to boot.&lt;br&gt;&lt;br&gt;Well, now the bangers and mash have really hit the fan. The whole damn country's about to go to hell in a handbasket because of a stubborn old fart's wounded pride. And the only person who can possibly make things right . . . is Pocket, a small and slight clown with a biting sense of humor. He's already managed to sidestep catastrophe (and the vengeful blades of many an offended nobleman) on numerous occasions, using his razor-sharp mind, rapier wit . . . and the equally well-honed daggers he keeps conveniently hidden behind his back. Now he's going to have to do some very fancy maneuvering—cast some spells, incite a few assassinations, start a war or two (the usual stuff)—to get Cordelia back into Daddy Lear's good graces, to derail the fiendish power plays of Cordelia's twisted sisters, to rescue his gigantic, gigantically dim, and always randy friend and apprentice fool, Drool, from repeated beatings . . . and to shag every lusciously shaggable wench who's amenable to shagging along the way.&lt;br&gt;&lt;br&gt;Pocket may be a fool . . . but he's definitely not an idiot.</description>
+<authors>
+  <author>
+    <id>16218</id>
+    <name>Christopher Moore</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1200095788p5/16218.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1200095788p2/16218.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/16218.Christopher_Moore]]></link>
+    <average_rating>3.95</average_rating>
+    <ratings_count>398970</ratings_count>
+    <text_reviews_count>29637</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 10 00:00:00 -0800 2009</date_added>
+  <date_updated>Tue Mar 25 12:46:37 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632473]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632473]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632467</id>
+    <book>
+  <id type="integer">33453</id>
+  <isbn>0060590297</isbn>
+  <isbn13>9780060590291</isbn13>
+  <text_reviews_count type="integer">2033</text_reviews_count>
+  <title>You Suck (A Love Story, #2)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1331323414m/33453.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1331323414s/33453.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/33453.You_Suck</link>
+  <num_pages>328</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.79</average_rating>
+  <ratings_count>31101</ratings_count>
+  <description>Being undead sucks. Literally. &lt;br&gt;&lt;br&gt;Just ask C. Thomas Flood. Waking up after a fantastic night unlike anything he's ever experienced, he discovers that his girlfriend, Jody, is a vampire. And surprise! Now he's one, too. For some couples, the whole biting-and-blood thing would have been a deal breaker. But Tommy and Jody are in love, and they vow to work through their issues. &lt;br&gt;&lt;br&gt;But word has it that the vampire who initially nibbled on Jody wasn't supposed to be recruiting. Even worse, Tommy's erstwhile turkey-bowling pals are out to get him, at the urging of a blue-dyed Las Vegas call girl named (duh) Blue. &lt;br&gt;&lt;br&gt;And that really sucks.</description>
+<authors>
+  <author>
+    <id>16218</id>
+    <name>Christopher Moore</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1200095788p5/16218.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1200095788p2/16218.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/16218.Christopher_Moore]]></link>
+    <average_rating>3.95</average_rating>
+    <ratings_count>398970</ratings_count>
+    <text_reviews_count>29637</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Nov 25 00:00:00 -0800 2008</date_added>
+  <date_updated>Tue Mar 25 12:46:36 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632467]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632467]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632462</id>
+    <book>
+  <id type="integer">33456</id>
+  <isbn>0060590270</isbn>
+  <isbn13>9780060590277</isbn13>
+  <text_reviews_count type="integer">3489</text_reviews_count>
+  <title>A Dirty Job</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1331323415m/33456.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1331323415s/33456.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/33456.A_Dirty_Job</link>
+  <num_pages>387</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>55250</ratings_count>
+  <description>&lt;br&gt;From the twisted imagination of Christopher Moore (&lt;em&gt;The Stupidest Angel, The Lust Lizard of Melancholy Cove,&lt;/em&gt; et al.) comes a dark -- and wonderfully weird -- novel about a hapless San Francisco thrift shop owner recruited to become a soul collector for the Scythe Wielder himself, Death. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Charlie Asher is a typical Beta Male. He's not exceptionally handsome or tall or strong, and he's definitely not the heroic type. But the slightly neurotic Asher has a good life; he owns a secondhand store in San Francisco, and his wife, Rachel, is about to give birth to their first child. Then the unthinkable happens: Asher's wife dies shortly after giving birth to a baby girl. When Asher inexplicably witnesses a Merchant of Death (a seven-foot black dude named Minty Fresh, who sports a green suit and is invisible to everyone else) enter the hospital room and take his wife's soul, he too becomes involved in the soul re-acquisitioning business. Accompanied by two giant hellhounds and his trusty sword-cane, Asher's dirty job leads him to an apocalyptic confrontation with the real forces of darkness  &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Comparable to works from popular satirical authors like Tim Dorsey, Carl Hiaasen, Terry Pratchett, and Paul Di Filippo, Moore's blend of dark fantasy, supernatural mystery, and absurdist fiction will have readers irresistibly hooked from the first page to the last. Chock-full of laugh-out-loud sequences and more than a few profoundly moving morsels of existentialist insight, &lt;em&gt;A Dirty Job&lt;/em&gt; handles some highly sensitive subjects (terminal illness, grief and healing, the afterlife, etc.) with both humor and reverence -- a truly twisted masterwork. &lt;em&gt;Paul Goat Allen&lt;/em&gt;</description>
+<authors>
+  <author>
+    <id>16218</id>
+    <name>Christopher Moore</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1200095788p5/16218.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1200095788p2/16218.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/16218.Christopher_Moore]]></link>
+    <average_rating>3.95</average_rating>
+    <ratings_count>398970</ratings_count>
+    <text_reviews_count>29637</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 15 00:00:00 -0700 2009</date_added>
+  <date_updated>Tue Mar 25 12:46:36 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632462]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632462]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632456</id>
+    <book>
+  <id type="integer">865508</id>
+  <isbn>0060577657</isbn>
+  <isbn13>9780060577650</isbn13>
+  <text_reviews_count type="integer">47</text_reviews_count>
+  <title>Verbal Judo: The Gentle Art of Persuasion</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/865508.Verbal_Judo</link>
+  <num_pages>222</num_pages>
+  <format>Paperback</format>
+  <edition_information>Revised edition</edition_information>
+  <publisher>Harper</publisher>
+  <publication_day/>
+  <publication_year>2004</publication_year>
+  <publication_month/>
+  <average_rating>3.80</average_rating>
+  <ratings_count>406</ratings_count>
+  <description>Improve communication, resolve conflicts, and avoid the most common conversational disasters through simple, easily remembered strategies that deflect and redirect negative behaviour.&lt;br&gt;&lt;br&gt;Verbal Judo is the martial art of the mind and mouth that can show you how to be better prepared in every verbal encounter. Listen and speak more effectively, engage people through empathy (the most powerful word in the English language), avoid the most common conversational disasters, and use proven strategies that allow you to successfully communicate your point of view and take the upper hand in most disputes.</description>
+<authors>
+  <author>
+    <id>508260</id>
+    <name>George J. Thompson</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/m_200x266-e1021c586c5c6da845174faa816a3406.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/m_50x66-e89fc14c32a41c0eb4298dfafe929b65.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/508260.George_J_Thompson]]></link>
+    <average_rating>3.79</average_rating>
+    <ratings_count>434</ratings_count>
+    <text_reviews_count>57</text_reviews_count>
+  </author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Jul 14 00:00:00 -0700 2012</date_added>
+  <date_updated>Tue Mar 25 12:46:36 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632456]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632456]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632451</id>
+    <book>
+  <id type="integer">236012</id>
+  <isbn>006057464X</isbn>
+  <isbn13>9780060574642</isbn13>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <title>Chasing Justice: My Story of Freeing Myself After Two Decades on Death Row for a Crime I Didn't Commit</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/236012.Chasing_Justice</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>83</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>138071</id>
+    <name>Kerry Max Cook</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/138071.Kerry_Max_Cook]]></link>
+    <average_rating>3.96</average_rating>
+    <ratings_count>83</ratings_count>
+    <text_reviews_count>13</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jul 29 00:00:00 -0700 2010</date_added>
+  <date_updated>Tue Mar 25 12:46:35 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632451]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632451]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632439</id>
+    <book>
+  <id type="integer">1119485</id>
+  <isbn>0060564741</isbn>
+  <isbn13>9780060564742</isbn13>
+  <text_reviews_count type="integer">71</text_reviews_count>
+  <title>The Kindness of Strangers</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/1119485.The_Kindness_of_Strangers</link>
+  <num_pages>393</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>William Morrow</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.98</average_rating>
+  <ratings_count>6464</ratings_count>
+  <description>&lt;em&gt;On a quiet street in the suburban Midwest, a popular, seemingly stable family keeps a terrible, dark secret behind closed doors -- a secret that will have life-changing consequences for all who know them&lt;/em&gt;&lt;br&gt;&lt;br&gt;Sarah Laden, a young widow and mother of two, struggles to keep her family together. Since the death of her husband, her high-school-age son, Nate, has developed a rebellious streak, constantly falling in and out of trouble. Her kindhearted younger son, Danny, though well behaved, struggles to pass his remedial classes. All the while, Sarah must make ends meet by running a catering business out of her home. But when a shocking and unbelievable revelation rips apart the family of her closest friend, Sarah finds herself welcoming yet another young boy into her already tumultuous life.&lt;br&gt;&lt;br&gt;Jordan, a quiet and reclusive elementary-school boy and classmate of Danny's, has survived a terrible tragedy, leaving him without a family. When Sarah becomes Jordan's foster mother, a relationship develops that will force her to question the things of which she thought she was so sure. Yet Sarah is not the only one changed by this young boy, and as the delicate balance that holds her family together begins to falter, the Ladens will all face truths about themselves and one another -- and discover the power of love to forgive and to heal.&lt;br&gt;&lt;br&gt;Powerful and poignant, &lt;em&gt;The Kindness of Strangers&lt;/em&gt; is a shocking look at how the tragedy of a single family in a small suburban town can affect so many. Katrina Kittle has created a haunting vision of the secret lives of the people we think we know best. Through gripping and heartrending storytelling, &lt;em&gt;The Kindness of Strangers&lt;/em&gt; shows that even after the most grave injuries, redemption is always possible.</description>
+<authors>
+  <author>
+    <id>9679</id>
+    <name>Katrina Kittle</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1237323772p5/9679.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1237323772p2/9679.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/9679.Katrina_Kittle]]></link>
+    <average_rating>3.97</average_rating>
+    <ratings_count>9599</ratings_count>
+    <text_reviews_count>1590</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Sep 29 00:00:00 -0700 2008</date_added>
+  <date_updated>Tue Mar 25 12:46:35 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632439]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632439]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632433</id>
+    <book>
+  <id type="integer">88763</id>
+  <isbn>0060561998</isbn>
+  <isbn13>9780060561994</isbn13>
+  <text_reviews_count type="integer">80</text_reviews_count>
+  <title>Bleachy-Haired Honky Bitch: Tales from a Bad Neighborhood</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1388956331m/88763.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1388956331s/88763.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/88763.Bleachy_Haired_Honky_Bitch</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>William Morrow Paperbacks</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.69</average_rating>
+  <ratings_count>692</ratings_count>
+  <description>Drawing on her peripatetic childhood as the daughter of a travelling salesman, and her adult residence in one of Atlanta's seedier crack neighbourhoods, columnist and NPR commentator Hollis Gillespie has assembled a comic, poignant memoir about her life, starring her unusual family and her crazy friends.&lt;br&gt;&lt;br&gt;NPR commentator Hollis Gillespie's outrageously funny–and equally heartbreaking–collection of autobiographical tales chronicles her journey through self–reckoning and the worst neighbourhoods in Atlanta in search of a home she can call her own. The daughter of a missile scientist and an alcoholic travelling trailer salesman, Gillespie was nine before she realized not everybody's mother made bombs, and thirty before she realized it was possible to live in one place longer than a six–month lease allows. Supporting her are the social outcasts she calls her best friends: Daniel, a talented and eccentric artist; Grant, who makes his living peddling folk art by a denounced nun who paints plywood signs with twisted evangelical sayings; and Lary, who often, out of compassion, offers to shoot her like a lame horse.&lt;br&gt;&lt;br&gt;Hollis's friends help her battle the mess of obstacles that stand in her way–including her warped childhood, in which her parents moved her and her siblings around the country like carnival barkers, chasing missile–building contracts and other whimsies, such as her father's dream to patent and sell door–to–door the world's most wondrous key–chain. A past like this will make you doubt you'll ever have a future, much less roots. Miraculously, though, Gillespie manages to plant exactly that: roots, as wrested and dubious as they are.&lt;br&gt;&lt;br&gt;As Gillespie says, "Life is too damn short to remain trapped in your own Alcatraz." Follow her on this wickedly funny journey as she manages to escape again and again.</description>
+<authors>
+  <author>
+    <id>51038</id>
+    <name>Hollis Gillespie</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1273828137p5/51038.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1273828137p2/51038.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/51038.Hollis_Gillespie]]></link>
+    <average_rating>3.57</average_rating>
+    <ratings_count>1644</ratings_count>
+    <text_reviews_count>296</text_reviews_count>
+  </author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Aug 18 00:00:00 -0700 2008</date_added>
+  <date_updated>Tue Mar 25 12:46:35 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632433]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632433]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632417</id>
+    <book>
+  <id type="integer">82192</id>
+  <isbn>0060548258</isbn>
+  <isbn13>9780060548254</isbn13>
+  <text_reviews_count type="integer">790</text_reviews_count>
+  <title>The Crystal Cave (Arthurian Saga, #1)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/82192.The_Crystal_Cave</link>
+  <num_pages>494</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Eos</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.10</average_rating>
+  <ratings_count>24938</ratings_count>
+  <description>Fifth century Britain is a country of chaos and division after the Roman withdrawal. This is the world of young Merlin, the illegitimate child of a South Wales princess who will not reveal to her son his father's true identity. Yet Merlin is an extraordinary child, aware at the earliest age that he possesses a great natural gift - the Sight. Against a background of invasion and imprisonment, wars and conquest, Merlin emerges into manhood, and accepts his dramatic role in the New Beginning - the coming of King Arthur.</description>
+<authors>
+  <author>
+    <id>15590</id>
+    <name>Mary Stewart</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1210367214p5/15590.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1210367214p2/15590.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/15590.Mary_Stewart]]></link>
+    <average_rating>4.02</average_rating>
+    <ratings_count>98707</ratings_count>
+    <text_reviews_count>4488</text_reviews_count>
+  </author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jun 16 00:00:00 -0700 2008</date_added>
+  <date_updated>Tue Mar 25 12:46:33 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632417]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632417]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632407</id>
+    <book>
+  <id type="integer">2744</id>
+  <isbn>0060515198</isbn>
+  <isbn13>9780060515195</isbn13>
+  <text_reviews_count type="integer">3775</text_reviews_count>
+  <title>Anansi Boys</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327870211m/2744.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327870211s/2744.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/2744.Anansi_Boys</link>
+  <num_pages>384</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperTorch</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>101427</ratings_count>
+  <description>&lt;p&gt;Fat Charlie Nancy's normal life ended the moment his father dropped dead on a Florida karaoke stage. Charlie didn't know his dad was a god. And he never knew he had a brother. &lt;/p&gt; &lt;p&gt; Now brother Spider's on his doorstep -- about to make Fat Charlie's life more interesting... and a lot more dangerous.&lt;/p&gt;</description>
+<authors>
+  <author>
+    <id>1221698</id>
+    <name>Neil Gaiman</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1234150163p5/1221698.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1234150163p2/1221698.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
+    <average_rating>4.15</average_rating>
+    <ratings_count>2359668</ratings_count>
+    <text_reviews_count>124038</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Sep 14 00:00:00 -0700 2009</date_added>
+  <date_updated>Tue Mar 25 12:46:33 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632407]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632407]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632396</id>
+    <book>
+  <id type="integer">816</id>
+  <isbn>0060512806</isbn>
+  <isbn13>9780060512804</isbn13>
+  <text_reviews_count type="integer">2410</text_reviews_count>
+  <title>Cryptonomicon (Cryptonomicon, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327931476m/816.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327931476s/816.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/816.Cryptonomicon</link>
+  <num_pages>1139</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Avon</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>49985</ratings_count>
+  <description>Cryptonomicon zooms all over the world, careening conspiratorially back and forth between two time periods--World War II and the present. Our 1940s heroes are the brilliant mathematician Lawrence Waterhouse, crypt analyst extraordinaire, and gung-ho, morphine-addicted marine Bobby Shaftoe. They're part of Detachment 2702, an Allied group trying to break Axis communication codes while simultaneously preventing the enemy from figuring out that their codes have been broken. Their job boils down to layer upon layer of deception. Dr. Alan Turing is also a member of 2702, and he explains the unit's strange workings to Waterhouse. "When we want to sink a convoy, we send out an observation plane first... Of course, to observe is not its real duty--we already know exactly where the convoy is. Its real duty is to be observed... Then, when we come round and sink them, the Germans will not find it suspicious."&lt;br&gt;&lt;br&gt;All of this secrecy resonates in the present-day story line, in which the grandchildren of the WWII heroes--inimitable programming geek Randy Waterhouse and the lovely and powerful Amy Shaftoe--team up to help create an offshore data haven in Southeast Asia and maybe uncover some gold once destined for Nazi coffers. To top off the paranoiac tone of the book, the mysterious Enoch Root, key member of Detachment 2702 and the Societas Eruditorum, pops up with an unbreakable encryption scheme left over from WWII to befuddle the 1990s protagonists with conspiratorial ties.</description>
+<authors>
+  <author>
+    <id>545</id>
+    <name>Neal Stephenson</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1314902446p5/545.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1314902446p2/545.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/545.Neal_Stephenson]]></link>
+    <average_rating>4.02</average_rating>
+    <ratings_count>345899</ratings_count>
+    <text_reviews_count>20237</text_reviews_count>
+  </author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jan 23 00:00:00 -0800 2013</date_added>
+  <date_updated>Tue Mar 25 12:46:33 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632396]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632396]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632371</id>
+    <book>
+  <id type="integer">370493</id>
+  <isbn>0060256656</isbn>
+  <isbn13>9780060256654</isbn13>
+  <text_reviews_count type="integer">10041</text_reviews_count>
+  <title>The Giving Tree</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327881961m/370493.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327881961s/370493.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/370493.The_Giving_Tree</link>
+  <num_pages>64</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperCollins Publishers</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>1964</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.38</average_rating>
+  <ratings_count>436584</ratings_count>
+  <description>'Once there was a tree...and she loved a little boy.'&lt;br&gt;So begins a story of unforgettable perception, beautifully written and illustrated by the gifted and versatile Shel Silverstein.&lt;br&gt;Every day the boy would come to the tree to eat her apples, swing from her branches, or slide down her trunk...and the tree was happy. But as the boy grew older he began to want more from the tree, and the tree gave and gave and gave.&lt;br&gt;This is a tender story, touched with sadness, aglow with consolation. Shel Silverstein has created a moving parable for readers of all ages that offers an affecting interpretation of the gift of giving and a serene acceptance of another's capacity to love in return.</description>
+<authors>
+  <author>
+    <id>435477</id>
+    <name>Shel Silverstein</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1201029128p5/435477.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1201029128p2/435477.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/435477.Shel_Silverstein]]></link>
+    <average_rating>4.30</average_rating>
+    <ratings_count>1514610</ratings_count>
+    <text_reviews_count>22292</text_reviews_count>
+  </author>
+</authors>
+  <published>1964</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jul 05 00:00:00 -0700 2011</date_added>
+  <date_updated>Tue Mar 25 12:46:31 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632371]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632371]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632361</id>
+    <book>
+  <id type="integer">532861</id>
+  <isbn>0060248025</isbn>
+  <isbn13>9780060248024</isbn13>
+  <text_reviews_count type="integer">59</text_reviews_count>
+  <title>Falling Up</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1381355956m/532861.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1381355956s/532861.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/532861.Falling_Up</link>
+  <num_pages>178</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.31</average_rating>
+  <ratings_count>75996</ratings_count>
+  <description>&lt;em&gt;Millie McDeevit screamed a scream&lt;br&gt;So loud it made her eyebrows steam.&lt;br&gt;She screamed so loud&lt;br&gt;Her jawbone broke,&lt;br&gt;Her tongue caught fire,&lt;br&gt;Her nostrils smoked....&lt;/em&gt;&lt;br&gt;&lt;br&gt;Poor Screamin' Millie is just one of the unforgettable characters in this wondrous new book of poems and drawings by the creator of WHERE THE SIDEWALK ENDS and A LIGHT IN THE ATTIC. Here you will also meet Allison Beals and her twenty-five eels; Danny O'Dare, the dancin' bear; the Human Balloon; and Headphone Harold.&lt;br&gt;&lt;br&gt;So come, wander through the Nose Garden, ride the Little Hoarse, eat in the Strange Restaurant, and let the magic of Shel Silverstein open your eyes and tickle your mind.</description>
+<authors>
+  <author>
+    <id>435477</id>
+    <name>Shel Silverstein</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1201029128p5/435477.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1201029128p2/435477.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/435477.Shel_Silverstein]]></link>
+    <average_rating>4.30</average_rating>
+    <ratings_count>1514610</ratings_count>
+    <text_reviews_count>22292</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jun 27 00:00:00 -0700 2011</date_added>
+  <date_updated>Tue Mar 25 12:46:30 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632361]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632361]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632324</id>
+    <book>
+  <id type="integer">324494</id>
+  <isbn>0060006935</isbn>
+  <isbn13>9780060006938</isbn13>
+  <text_reviews_count type="integer">222</text_reviews_count>
+  <title>The Great Mortality: An Intimate History of the Black Death, the Most Devastating Plague of All Time</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/324494.The_Great_Mortality</link>
+  <num_pages>400</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harper Perennial</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.91</average_rating>
+  <ratings_count>2834</ratings_count>
+  <description>&lt;em&gt;La moria grandissima&lt;/em&gt; began its terrible journey across the European and Asian continents in 1347, leaving unimaginable devastation in its wake. Five years later, twenty-five million people were dead, felled by the scourge that would come to be called the Black Death. &lt;em&gt;The Great Mortality&lt;/em&gt; is the extraordinary epic account of the worst natural disaster in European history -- a drama of courage, cowardice, misery, madness, and sacrifice that brilliantly illuminates humankind's darkest days when an old world ended and a new world was born.</description>
+<authors>
+  <author>
+    <id>6150703</id>
+    <name>John   Kelly</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/m_200x266-e1021c586c5c6da845174faa816a3406.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/m_50x66-e89fc14c32a41c0eb4298dfafe929b65.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/6150703.John_Kelly]]></link>
+    <average_rating>3.89</average_rating>
+    <ratings_count>3170</ratings_count>
+    <text_reviews_count>342</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Nov 10 00:00:00 -0800 2008</date_added>
+  <date_updated>Tue Mar 25 12:46:29 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632324]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632324]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632322</id>
+    <book>
+  <id type="integer">543181</id>
+  <isbn>0030618320</isbn>
+  <isbn13>9780030618321</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Mystery Walk</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/543181.Mystery_Walk</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>3.74</average_rating>
+  <ratings_count>1517</ratings_count>
+  <description>One talks to the dead.  The other heals the living.  Both must make the ...&lt;em&gt;Mystery Walk&lt;/em&gt;&lt;p&gt; From deep within the empty house of a murdered family, Billy Creekmore hears his name whispered... and is drawn inside.  At a revival meeting in Alabama, Wayne Falconer demonstrates his miraculous healing powers... while demons feast and grow in his soul.  On separate journeys through the Deep South to Chicago, from a world of innocence to a world of evil, greed and lust, the two young men discover their manhood - and fuel a deadly rivalry.  On a scorched slab of desert they will meet in fear and unite their extraordinary powers against a raging, unshackled spirit - the walking, hungry corpse of the Shape Changer.&lt;/p&gt;</description>
+<authors>
+  <author>
+    <id>5244478</id>
+    <name>Robert R. McCammon</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1378395125p5/5244478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1378395125p2/5244478.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/5244478.Robert_R_McCammon]]></link>
+    <average_rating>4.06</average_rating>
+    <ratings_count>77447</ratings_count>
+    <text_reviews_count>4877</text_reviews_count>
+  </author>
+</authors>
+  <published/>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Apr 11 00:00:00 -0700 2009</date_added>
+  <date_updated>Tue Mar 25 12:46:28 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632322]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632322]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632308</id>
+    <book>
+  <id type="integer">7602365</id>
+  <isbn>0007346549</isbn>
+  <isbn13>9780007346547</isbn13>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <title>Servant of the Underworld (Obsidian and Blood, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1286800335m/7602365.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1286800335s/7602365.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/7602365-servant-of-the-underworld</link>
+  <num_pages>431</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Angry Robot</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>404</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>2918731</id>
+    <name>Aliette de Bodard</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1261567215p5/2918731.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1261567215p2/2918731.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2918731.Aliette_de_Bodard]]></link>
+    <average_rating>3.78</average_rating>
+    <ratings_count>3034</ratings_count>
+    <text_reviews_count>642</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 28 00:00:00 -0700 2012</date_added>
+  <date_updated>Tue Mar 25 12:46:27 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632308]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632308]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>891632301</id>
+    <book>
+  <id type="integer">5898</id>
+  <isbn>0007136587</isbn>
+  <isbn13>9780007136582</isbn13>
+  <text_reviews_count type="integer">19</text_reviews_count>
+  <title>The Lord of the Rings</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/5898.The_Lord_of_the_Rings</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.43</average_rating>
+  <ratings_count>264173</ratings_count>
+  <description>The original ‘fantasy’ series, and still the greatest, The Lord of the Rings has sold over 100 million copies, been translated into more than 40 languages, and has been voted the best book of the 20th century, while The Hobbit has never been out of print since first published in 1937. If there are any works of fiction that deserve to be owned in magnificent editions – these are surely the ones.&lt;br&gt;&lt;br&gt;Successive generations have been spellbound by the exploits of Frodo, Gandalf and their comrades as they journey towards Mordor to do battle with the Dark Lord Sauron. There is something about the alluring world of elves, dwarves and old magic which has proved exceptionally popular, working on the imagination both as an enthralling adventure story and, at a deeper level, as 'a comprehensive counter-myth to the story of the twentieth century' –  Independent. Tolkien’s treatment of the eternal struggle between good and evil, from stirring battles (‘as good as anything in Homer,’ according to C. S Lewis) to the conflict within every individual, is subtle, lyrical and profound.&lt;br&gt;&lt;br&gt;Illustrated by Eric Fraser, one of the foremost British illustrators of the 20th century, his images – a total of 7 full-page images and 57 head-pieces – are based on original designs by Queen Margrethe II of Denmark. Tolkien had seen her sketches and was so impressed that his executors gave special permission for Fraser to interpret them for these Folio editions. Covers blocked in gold and maps of Middle Earth as endpapers complete this superb edition of one the world’s favourite stories.</description>
+<authors>
+  <author>
+    <id>656983</id>
+    <name>J.R.R. Tolkien</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1383526938p5/656983.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1383526938p2/656983.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+    <average_rating>4.27</average_rating>
+    <ratings_count>3744892</ratings_count>
+    <text_reviews_count>59691</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jan 04 00:00:00 -0800 2010</date_added>
+  <date_updated>Tue Mar 25 12:46:27 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/891632301]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/891632301]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[qqkX8sMrWqlyBbkJzzGQ0A]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  <reviews start="1" end="3" total="3">
+    <review>
+  <id>219529733</id>
+    <book>
+  <id type="integer">4667024</id>
+  <isbn>0399155341</isbn>
+  <isbn13>9780399155345</isbn13>
+  <text_reviews_count type="integer">62525</text_reviews_count>
+  <title>The Help</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1346100365m/4667024.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1346100365s/4667024.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/4667024-the-help</link>
+  <num_pages>451</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Amy Einhorn Books</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.44</average_rating>
+  <ratings_count>964080</ratings_count>
+  <description>&lt;em&gt;Three ordinary women are about to take one extraordinary step.&lt;/em&gt;&lt;br&gt;&lt;br&gt;Twenty-two-year-old Skeeter has just returned home after graduating from Ole Miss. She may have a degree, but it is 1962, Mississippi, and her mother will not be happy till Skeeter has a ring on her finger. Skeeter would normally find solace with her beloved maid Constantine, the woman who raised her, but Constantine has disappeared and no one will tell Skeeter where she has gone.&lt;br&gt;&lt;br&gt;Aibileen is a black maid, a wise, regal woman raising her seventeenth white child. Something has shifted inside her after the loss of her own son, who died while his bosses looked the other way. She is devoted to the little girl she looks after, though she knows both their hearts may be broken.&lt;br&gt;&lt;br&gt;Minny, Aibileen's best friend, is short, fat, and perhaps the sassiest woman in Mississippi. She can cook like nobody's business, but she can't mind her tongue, so she's lost yet another job. Minny finally finds a position working for someone too new to town to know her reputation. But her new boss has secrets of her own.&lt;br&gt;&lt;br&gt;Seemingly as different from one another as can be, these women will nonetheless come together for a clandestine project that will put them all at risk. And why? Because they are suffocating within the lines that define their town and their times. And sometimes lines are made to be crossed.&lt;br&gt;&lt;br&gt;In pitch-perfect voices, Kathryn Stockett creates three extraordinary women whose determination to start a movement of their own forever changes a town, and the way women - mothers, daughters, caregivers, friends - view one another. A deeply moving novel filled with poignancy, humor, and hope, &lt;em&gt;The Help&lt;/em&gt; is a timeless and universal story about the lines we abide by, and the ones we don't.</description>
+<authors>
+  <author>
+    <id>1943477</id>
+    <name>Kathryn Stockett</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1233458107p5/1943477.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1233458107p2/1943477.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1943477.Kathryn_Stockett]]></link>
+    <average_rating>4.44</average_rating>
+    <ratings_count>964262</ratings_count>
+    <text_reviews_count>68248</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Oct 05 19:32:46 -0700 2011</date_added>
+  <date_updated>Wed Oct 05 19:32:46 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/219529733]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/219529733]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>219529375</id>
+    <book>
+  <id type="integer">1656001</id>
+  <isbn>0316068047</isbn>
+  <isbn13>9780316068048</isbn13>
+  <text_reviews_count type="integer">32566</text_reviews_count>
+  <title>The Host (The Host, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1318009171m/1656001.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1318009171s/1656001.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/1656001.The_Host</link>
+  <num_pages>619</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little Brown and Company</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.86</average_rating>
+  <ratings_count>504094</ratings_count>
+  <description>Melanie Stryder refuses to fade away. The earth has been invaded by a species that take over the minds of human hosts while leaving their bodies intact. Wanderer, the invading "soul" who has been given Melanie's body, didn't expect to find its former tenant refusing to relinquish possession of her mind.&lt;br&gt;&lt;br&gt;As Melanie fills Wanderer's thoughts with visions of Jared, a human who still lives in hiding, Wanderer begins to yearn for a man she's never met. Reluctant allies, Wanderer and Melanie set off to search for the man they both love.&lt;br&gt;&lt;br&gt;Featuring one of the most unusual love triangles in literature, THE HOST is a riveting and unforgettable novel about the persistence of love and the essence of what it means to be human.</description>
+<authors>
+  <author>
+    <id>941441</id>
+    <name>Stephenie Meyer</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1395583393p5/941441.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1395583393p2/941441.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
+    <average_rating>3.66</average_rating>
+    <ratings_count>5721315</ratings_count>
+    <text_reviews_count>257260</text_reviews_count>
+  </author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Oct 05 19:32:02 -0700 2011</date_added>
+  <date_updated>Wed Oct 05 19:32:05 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/219529375]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/219529375]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>219529078</id>
+    <book>
+  <id type="integer">10723236</id>
+  <isbn>1400069181</isbn>
+  <isbn13>9781400069187</isbn13>
+  <text_reviews_count type="integer">452</text_reviews_count>
+  <title>Start Something That Matters</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1320563711m/10723236.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1320563711s/10723236.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/10723236-start-something-that-matters</link>
+  <num_pages>208</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Spiegel &amp; Grau</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.07</average_rating>
+  <ratings_count>2678</ratings_count>
+  <description>&lt;strong&gt;Love your work, work for what you love, and change the world—all at the same time.&lt;/strong&gt;&lt;br&gt; &lt;br&gt;What matters most to you? Should you focus on earning a living, pursuing your passions, or devoting yourself to the causes that inspire you? The surprising truth is that you don’t have to choose—and that you’ll find more success if you don’t. That’s the breakthrough message of TOMS’ One for One movement. You don’t have to be rich to give back and you don’t have to retire to spend every day doing what you love. You can find profit, passion, and meaning all at once—&lt;em&gt;right now&lt;/em&gt;.   &lt;br&gt; &lt;br&gt;In &lt;em&gt;Start Something That Matters,&lt;/em&gt; Blake Mycoskie tells the story of TOMS, one of the fastest-growing shoe companies in the world, and combines it with lessons learned from such other innovative organizations as method, charity: water, FEED Projects, and TerraCycle. Blake presents the six simple keys for creating or transforming your own life and business, from discovering your core story to being resourceful without resources; from overcoming fear and doubt to incorporating giving into every aspect of your life. No matter what kind of change you’re considering, &lt;em&gt;Start Something That Matters&lt;/em&gt; gives you the stories, ideas, and practical tips that can help you get started.  &lt;br&gt; &lt;br&gt;&lt;strong&gt;Why this book is for you: &lt;/strong&gt;&lt;br&gt;&lt;strong&gt; &lt;/strong&gt;&lt;br&gt;• You’re ready to make a difference in the world—through your own start-up business, a nonprofit organization, or a new project that you create within your current job.&lt;br&gt;• You want to love your work, work for what you love, and have a positive impact on the world—&lt;em&gt;all at the same time&lt;/em&gt;.&lt;br&gt;• You’re inspired by charity: water, method, and FEED Projects and want to learn how these organizations got their start. &lt;br&gt;• You’re curious about how someone who never made a pair of shoes, attended fashion school, or worked in retail created one of the fastest-growing footwear companies in the world by &lt;em&gt;giving&lt;/em&gt; shoes away.&lt;br&gt;• You’re looking for a new model of success to share with your children, students, co-workers, and members of your community.&lt;br&gt; &lt;br&gt;&lt;strong&gt;You’re ready to start something that matters.&lt;/strong&gt;</description>
+<authors>
+  <author>
+    <id>3261733</id>
+    <name>Blake Mycoskie</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1308692761p5/3261733.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1308692761p2/3261733.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3261733.Blake_Mycoskie]]></link>
+    <average_rating>4.07</average_rating>
+    <ratings_count>2683</ratings_count>
+    <text_reviews_count>468</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="currently-reading" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Oct 05 19:31:18 -0700 2011</started_at>
+  <read_at></read_at>
+  <date_added>Wed Oct 05 19:31:18 -0700 2011</date_added>
+  <date_updated>Wed Oct 05 19:31:18 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/219529078]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/219529078]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

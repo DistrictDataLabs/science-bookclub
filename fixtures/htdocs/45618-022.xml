@@ -1,0 +1,3383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[qqkX8sMrWqlyBbkJzzGQ0A]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  <reviews start="4201" end="4255" total="4255">
+    <review>
+  <id>198329293</id>
+    <book>
+  <id type="integer">10425811</id>
+  <isbn>006201451X</isbn>
+  <isbn13>9780062014511</isbn13>
+  <text_reviews_count type="integer">954</text_reviews_count>
+  <title>Liesl &amp; Po</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1298937848m/10425811.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1298937848s/10425811.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/10425811-liesl-po</link>
+  <num_pages>307</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.84</average_rating>
+  <ratings_count>5180</ratings_count>
+  <description>Liesl lives in a tiny attic bedroom, locked away by her cruel stepmother. Her only friends are the shadows and the mice,until one night a ghost appears from the darkness. It is Po, who comes from the Other Side. Both Liesl and Po are lonely, but together they are less alone. &lt;p&gt;That same night, an alchemist's apprentice, Will, bungles an important delivery. He accidentally switches a box containing the most powerful magic in the world with one containing something decidedly less remarkable. &lt;/p&gt;&lt;p&gt;Will's mistake has tremendous consequences for Liesl and Po, and it draws the three of them together on an extraordinary journey. &lt;/p&gt;&lt;p&gt;From &lt;em&gt;New York Times&lt;/em&gt; bestselling author Lauren Oliver comes a luminous and magnificent novel that glows with rare magic, ghostly wonders, and a true friendship that lights even the darkest of places.&lt;/p&gt;</description>
+<authors>
+  <author>
+    <id>2936493</id>
+    <name>Lauren Oliver</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1291156327p5/2936493.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1291156327p2/2936493.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2936493.Lauren_Oliver]]></link>
+    <average_rating>3.99</average_rating>
+    <ratings_count>497836</ratings_count>
+    <text_reviews_count>53316</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Aug 14 07:09:13 -0700 2011</date_added>
+  <date_updated>Sun Aug 14 07:09:13 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/198329293]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/198329293]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>198329264</id>
+    <book>
+  <id type="integer">10884247</id>
+  <isbn>0062070169</isbn>
+  <isbn13>9780062070166</isbn13>
+  <text_reviews_count type="integer">33</text_reviews_count>
+  <title>Swing Low: A Life</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327953471m/10884247.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327953471s/10884247.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/10884247-swing-low</link>
+  <num_pages>240</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperCollins Publishers</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>379</ratings_count>
+  <description>One morning, Mel Toews put on his coat and hat, walked out of town, and took his own life. A loving husband and father, a faithful member of the Mennonite church, and an immensely popular schoolteacher, Mel was a pillar of his close-knit community. Yet after a lifetime of struggling with bipolar disorder, he could no longer face the darkness that clouded his world. In this moving meditation on illness, family, faith, and love, Mel’s daughter, critically acclaimed novelist and reporter Miriam Toews, recounts her father’s life as he would have told it, in his own voice, right up to the day of his final walk.&lt;br&gt;&lt;br&gt;&lt;em&gt;Swing Low&lt;/em&gt; is a bold, gracefully written, and compassionate recounting of one man’s heartbreaking battle with depression.</description>
+<authors>
+  <author>
+    <id>8359</id>
+    <name>Miriam Toews</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1322022303p5/8359.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1322022303p2/8359.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/8359.Miriam_Toews]]></link>
+    <average_rating>3.58</average_rating>
+    <ratings_count>15662</ratings_count>
+    <text_reviews_count>1649</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-get-from-liberry" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Aug 14 07:09:06 -0700 2011</date_added>
+  <date_updated>Sat Aug 17 13:38:20 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/198329264]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/198329264]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>198329227</id>
+    <book>
+  <id type="integer">10428069</id>
+  <isbn>0062070185</isbn>
+  <isbn13>9780062070180</isbn13>
+  <text_reviews_count type="integer">29</text_reviews_count>
+  <title>Irma Voth</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327953156m/10428069.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1327953156s/10428069.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/10428069-irma-voth</link>
+  <num_pages>272</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harper</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.35</average_rating>
+  <ratings_count>1546</ratings_count>
+  <description>That rare coming-of-age story able to blend the dark with the uplifting, &lt;em&gt;Irma Voth&lt;/em&gt; follows a young Mennonite woman, vulnerable yet wise beyond her years, who carries a terrible family secret with her on a remarkable journey to survival and redemption.&lt;br&gt;&lt;br&gt;Nineteen-year-old Irma lives in a rural Mennonite community in Mexico. She has already been cast out of her family for marrying a young Mexican ne’er-do-well she barely knows, although she remains close to her rebellious younger sister and yearns for the lost intimacy with her mother. With a husband who proves elusive and often absent, a punishing father, and a faith in God damaged beyond repair, Irma appears trapped in an untenable and desperate situation. When a celebrated Mexican filmmaker and his crew arrive from Mexico City to make a movie about the insular community in which she was raised, Irma is immediately drawn to the outsiders and is soon hired as a translator on the set. But her father, intractable and domineering, is determined to destroy the film and get rid of the interlopers. His action sets Irma on an irrevocable path toward something that feels like freedom.&lt;br&gt;&lt;br&gt;A novel of great humanity, written with dry wit, edgy humor, and emotional poignancy, &lt;em&gt;Irma Voth&lt;/em&gt; is the powerful story of a young woman’s quest to discover all that she may become in the unexpectedly rich and confounding world that lies beyond the stifling, observant community she knows.</description>
+<authors>
+  <author>
+    <id>8359</id>
+    <name>Miriam Toews</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1322022303p5/8359.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1322022303p2/8359.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/8359.Miriam_Toews]]></link>
+    <average_rating>3.58</average_rating>
+    <ratings_count>15662</ratings_count>
+    <text_reviews_count>1649</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-get-from-liberry" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Aug 14 07:08:58 -0700 2011</date_added>
+  <date_updated>Sat Aug 17 13:38:09 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/198329227]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/198329227]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>195412811</id>
+    <book>
+  <id type="integer">9532749</id>
+  <isbn>1423134125</isbn>
+  <isbn13>9781423134121</isbn13>
+  <text_reviews_count type="integer">66</text_reviews_count>
+  <title>The Dead (The Enemy #2)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328556482m/9532749.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328556482s/9532749.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/9532749-the-dead</link>
+  <num_pages>496</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Disney-Hyperion</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>3882</ratings_count>
+  <description>THE DEAD begins one year before the action in THE ENEMY, just after the Disaster. A terrible disease has struck everyone over the age of sixteen, leaving them either dead or a decomposing, flesh-eating creature. The action starts in a boarding school just outside London where all the teachers have turned into zombies. Together they begin a terrifying journey to find safety, and home.</description>
+<authors>
+  <author>
+    <id>162326</id>
+    <name>Charlie Higson</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1243477698p5/162326.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1243477698p2/162326.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/162326.Charlie_Higson]]></link>
+    <average_rating>4.06</average_rating>
+    <ratings_count>33493</ratings_count>
+    <text_reviews_count>2970</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-get-from-liberry" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Aug 06 17:19:06 -0700 2011</date_added>
+  <date_updated>Sat Aug 17 13:38:07 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/195412811]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/195412811]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>192226176</id>
+    <book>
+  <id type="integer">6315602</id>
+  <isbn>0373210035</isbn>
+  <isbn13>9780373210039</isbn13>
+  <text_reviews_count type="integer">1772</text_reviews_count>
+  <title>My Soul to Take (Soul Screamers, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1388858050m/6315602.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1388858050s/6315602.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/6315602-my-soul-to-take</link>
+  <num_pages>279</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harlequin Teen</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.93</average_rating>
+  <ratings_count>26548</ratings_count>
+  <description>&lt;strong&gt;She doesn't see dead people. She senses when someone near her is about to die. &lt;/strong&gt; And when that happens, a force beyond her control compels her to scream bloody murder. &lt;em&gt;Literally.&lt;/em&gt;&lt;br&gt;&lt;br&gt;Kaylee just wants to enjoy having caught the attention of the hottest guy in school. But a normal date is hard to come by when Nash seems to know more about her need to scream than she does. And when classmates start dropping dead for no apparent reason, only Kaylee knows who'll be next.</description>
+<authors>
+  <author>
+    <id>415967</id>
+    <name>Rachel Vincent</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1394768659p5/415967.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1394768659p2/415967.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/415967.Rachel_Vincent]]></link>
+    <average_rating>4.07</average_rating>
+    <ratings_count>195095</ratings_count>
+    <text_reviews_count>15147</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-get-from-liberry" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Jul 30 11:19:07 -0700 2011</date_added>
+  <date_updated>Sat Aug 17 13:38:03 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/192226176]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/192226176]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>187203987</id>
+    <book>
+  <id type="integer">421118</id>
+  <isbn>0152050825</isbn>
+  <isbn13>9780152050825</isbn13>
+  <text_reviews_count type="integer">80</text_reviews_count>
+  <title>Ugly Fish</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328875632m/421118.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328875632s/421118.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/421118.Ugly_Fish</link>
+  <num_pages>40</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HMH Books for Young Readers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.98</average_rating>
+  <ratings_count>321</ratings_count>
+  <description>Ugly Fish is ugly and big and mean, and he won't share his driftwood tunnel or his special briny flakes with anyone. And that means the wimpy little fish who keep showing up in his tank have &lt;em&gt;got to go&lt;/em&gt;. But then one day someone bigger and uglier and maybe even meaner arrives . . . and suddenly Ugly Fish isn't feeling &lt;em&gt;quite&lt;/em&gt; so confident anymore.&lt;br&gt;&lt;br&gt;From Kara LaReau, author of the Rocko and Spanky series, here is an irreverent and terrifically funny book about a bully who at last gets his comeuppance.&lt;br&gt;</description>
+<authors>
+  <author>
+    <id>237510</id>
+    <name>Kara LaReau</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1279853771p5/237510.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1279853771p2/237510.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/237510.Kara_LaReau]]></link>
+    <average_rating>3.75</average_rating>
+    <ratings_count>748</ratings_count>
+    <text_reviews_count>183</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Jul 22 04:33:53 -0700 2011</date_added>
+  <date_updated>Fri Jul 22 04:33:53 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/187203987]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/187203987]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>187061540</id>
+    <book>
+  <id type="integer">11093751</id>
+  <isbn>159448807X</isbn>
+  <isbn13>9781594488078</isbn13>
+  <text_reviews_count type="integer">76</text_reviews_count>
+  <title>Mr. Fox</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1362148611m/11093751.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1362148611s/11093751.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/11093751-mr-fox</link>
+  <num_pages>325</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Riverhead Hardcover</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.52</average_rating>
+  <ratings_count>1999</ratings_count>
+  <description>&lt;strong&gt;From a prizewinning young writer, a brilliant and inventive story of love, lies, and inspiration. &lt;/strong&gt;&lt;br&gt;&lt;br&gt;Fairy-tale romances end with a wedding, and the fairy tales don't get complicated. In this book, the celebrated writer Mr. Fox can't stop himself from killing off the heroines of his novels, and neither can his wife, Daphne. It's not until Mary, his muse, comes to life and transforms him from author into subject that his story begins to unfold differently.&lt;br&gt;&lt;br&gt;Mary challenges Mr. Fox to join her in stories of their own devising; and in different times and places, the two of them seek each other, find each other, thwart each other, and try to stay together, even when the roles they inhabit seem to forbid it. Their adventures twist the fairy tale into nine variations, exploding and teasing conventions of genre and romance, and each iteration explores the fears that come with accepting a lifelong bond. Meanwhile, Daphne becomes convinced that her husband is having an affair, and finds her way into Mary and Mr. Fox's game. And so Mr. Fox is offered a choice: Will it be a life with the girl of his dreams, or a life with an all-too-real woman who delights him more than he cares to admit?&lt;br&gt;&lt;br&gt;The extraordinarily gifted Helen Oyeyemi has written a love story like no other. &lt;em&gt;Mr. Fox&lt;/em&gt; is a magical book, endlessly inventive, as witty and charming as it is profound in its truths about how we learn to be with one another.</description>
+<authors>
+  <author>
+    <id>80808</id>
+    <name>Helen Oyeyemi</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1294686693p5/80808.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1294686693p2/80808.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/80808.Helen_Oyeyemi]]></link>
+    <average_rating>3.50</average_rating>
+    <ratings_count>5158</ratings_count>
+    <text_reviews_count>1057</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jul 21 15:08:47 -0700 2011</date_added>
+  <date_updated>Thu Jul 21 15:08:47 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/187061540]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/187061540]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>185392299</id>
+    <book>
+  <id type="integer">10896479</id>
+  <isbn>0762440481</isbn>
+  <isbn13>9780762440481</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>The Big New York Sandwich Book: 99 Delicious Creations from the City's Greatest Restaurants and Chefs</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328815800m/10896479.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328815800s/10896479.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/10896479-the-big-new-york-sandwich-book</link>
+  <num_pages>272</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Running Press</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>2.78</average_rating>
+  <ratings_count>9</ratings_count>
+  <description>What better way to celebrate the Golden Age of the Sandwich than with the &lt;em&gt;Big New York Sandwich Book&lt;/em&gt;. A gorgeous collection of more than 99 delicious sandwich recipes from a "who's who" of talented chefs, such as Dan Barber, Daniel Boulud, Jean-Georges Vongherichten, Mario Batali, and beloved restaurants in New York City, it is a virtual map--in sandwiches--of New York's diversity. From the classic deli-style sandwich to the exotic haute sandwiches, there is a sandwich for everyone.&lt;br&gt;&lt;br&gt; Heavily illustrated with images of the chefs and restaurants as well as beautiful full-color photographs of the sandwiches themselves, this book is a keepsake as well as a practical recipe book for big New York sandwiches.</description>
+<authors>
+  <author>
+    <id>4747115</id>
+    <name>Sara Reistad-Long</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/4747115.Sara_Reistad_Long]]></link>
+    <average_rating>2.78</average_rating>
+    <ratings_count>9</ratings_count>
+    <text_reviews_count>1</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Jul 15 20:58:21 -0700 2011</date_added>
+  <date_updated>Fri Jul 15 20:58:21 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/185392299]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/185392299]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>180362655</id>
+    <book>
+  <id type="integer">11438556</id>
+  <isbn>0451232542</isbn>
+  <isbn13>9780451232540</isbn13>
+  <text_reviews_count type="integer">32</text_reviews_count>
+  <title>Take it Like a Mom</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/11438556-take-it-like-a-mom</link>
+  <num_pages>320</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>NAL Trade</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.27</average_rating>
+  <ratings_count>101</ratings_count>
+  <description>&lt;strong&gt;One thing sets her apart from other modern-day superheroes: mom genes. &lt;/strong&gt;&lt;br&gt;&lt;br&gt; Annie Fingardt Forster used to be a lawyer who wore dry-clean only and shaved both legs. But things have changed. Now a stay-at-home mom, she wears cargo pants and ponytails and harbors a nearly pathological hatred towards hipster parents.&lt;br&gt;&lt;br&gt; With a three-year-old and a baby on the way, Annie knows what to expect...at least, she thought she did. Faced with her husband's job loss, pre-school politics, and a playground throwdown with her arch nemesis, Annie realizes that even with her husband and friends by her side, what she really needs is to learn to suck it up-and take it like a mom.&lt;br&gt;&lt;br&gt;</description>
+<authors>
+  <author>
+    <id>4715870</id>
+    <name>Stephanie Stiles</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/4715870.Stephanie_Stiles]]></link>
+    <average_rating>3.27</average_rating>
+    <ratings_count>101</ratings_count>
+    <text_reviews_count>32</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>20</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="books-about-greg-s-mom" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jun 28 13:02:13 -0700 2011</date_added>
+  <date_updated>Sat Aug 31 14:57:31 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[well, if we are talking about greg's mom, this book needs to be longer...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/180362655]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/180362655]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>179115927</id>
+    <book>
+  <id type="integer">7990312</id>
+  <isbn>0749942371</isbn>
+  <isbn13>9780749942373</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <title>Arcadia Falls</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/7990312-arcadia-falls</link>
+  <num_pages>386</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Piatkus Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.62</average_rating>
+  <ratings_count>2829</ratings_count>
+  <description>&lt;p&gt;In debt after her husband’s unexpected death, Meg Rosenthal secures a job as a teacher at an upstate New York boarding school. Leaving suburban Long Island, Meg and her teenage daughter, Sally, embark on a new life in Arcadia Falls, a beautiful but isolated small town and the inspiration for a number of magically eerie fairy tales. It soon becomes clear to Meg that this isolated community hides deeply rooted and deadly secrets. And after a mysterious death, Arcadia Falls begins to reveal a disturbing dark side.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+<authors>
+  <author>
+    <id>18130</id>
+    <name>Carol Goodman</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1267734046p5/18130.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1267734046p2/18130.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/18130.Carol_Goodman]]></link>
+    <average_rating>3.71</average_rating>
+    <ratings_count>25525</ratings_count>
+    <text_reviews_count>3605</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="books-claiming-to-be-just-like-secr" />
+      <shelf name="to-get-from-liberry" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 23 13:56:37 -0700 2011</date_added>
+  <date_updated>Sat Aug 17 13:37:56 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/179115927]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/179115927]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>179115909</id>
+    <book>
+  <id type="integer">8572235</id>
+  <isbn>055277684X</isbn>
+  <isbn13>9780552776844</isbn13>
+  <text_reviews_count type="integer">27</text_reviews_count>
+  <title>Prep</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328001136m/8572235.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328001136s/8572235.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/8572235-prep</link>
+  <num_pages>480</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Random House</publisher>
+  <publication_day/>
+  <publication_year>2010</publication_year>
+  <publication_month/>
+  <average_rating>3.32</average_rating>
+  <ratings_count>41282</ratings_count>
+  <description>Curtis Sittenfeld’s debut novel, Prep, is an insightful, achingly funny coming-of-age story as well as a brilliant dissection of class, race, and gender in a hothouse of adolescent angst and ambition.&lt;br&gt;&lt;br&gt;Lee Fiora is an intelligent, observant fourteen-year-old when her father drops her off in front of her dorm at the prestigious Ault School in Massachusetts. She leaves her animated, affectionate family in South Bend, Indiana, at least in part because of the boarding school’s glossy brochure, in which boys in sweaters chat in front of old brick buildings, girls in kilts hold lacrosse sticks on pristinely mown athletic fields, and everyone sings hymns in chapel. &lt;br&gt;&lt;br&gt;As Lee soon learns, Ault is a cloistered world of jaded, attractive teenagers who spend summers on Nantucket and speak in their own clever shorthand. Both intimidated and fascinated by her classmates, Lee becomes a shrewd observer of–and, ultimately, a participant in–their rituals and mores. As a scholarship student, she constantly feels like an outsider and is both drawn to and repelled by other loners. By the time she’s a senior, Lee has created a hard-won place for herself at Ault. But when her behavior takes a self-destructive and highly public turn, her carefully crafted identity within the community is shattered.&lt;br&gt;&lt;br&gt;Ultimately, Lee’s experiences–complicated relationships with teachers; intense friendships with other girls; an all-consuming preoccupation with a classmate who is less than a boyfriend and more than a crush; conflicts with her parents, from whom Lee feels increasingly distant, coalesce into a singular portrait of the painful and thrilling adolescence universal to us all.</description>
+<authors>
+  <author>
+    <id>6429</id>
+    <name>Curtis Sittenfeld</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1371752798p5/6429.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1371752798p2/6429.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/6429.Curtis_Sittenfeld]]></link>
+    <average_rating>3.43</average_rating>
+    <ratings_count>92565</ratings_count>
+    <text_reviews_count>11612</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="books-claiming-to-be-just-like-secr" />
+      <shelf name="to-get-from-liberry" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 23 13:56:33 -0700 2011</date_added>
+  <date_updated>Sat Aug 17 13:37:50 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/179115909]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/179115909]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>179115882</id>
+    <book>
+  <id type="integer">6649853</id>
+  <isbn>0340834684</isbn>
+  <isbn13>9780340834688</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Serious Things</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328093216m/6649853.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328093216s/6649853.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/6649853-serious-things</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Sceptre</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.29</average_rating>
+  <ratings_count>35</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>140344</id>
+    <name>Gregory Norminton</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1354804445p5/140344.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1354804445p2/140344.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/140344.Gregory_Norminton]]></link>
+    <average_rating>3.39</average_rating>
+    <ratings_count>119</ratings_count>
+    <text_reviews_count>20</text_reviews_count>
+  </author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="buy-for-me-thanks" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 23 13:56:25 -0700 2011</date_added>
+  <date_updated>Sat Aug 31 15:09:44 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/179115882]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/179115882]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>178475942</id>
+    <book>
+  <id type="integer">1335568</id>
+  <isbn>0553131990</isbn>
+  <isbn13>9780553131994</isbn13>
+  <text_reviews_count type="integer">49</text_reviews_count>
+  <title>Engine Summer</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/1335568.Engine_Summer</link>
+  <num_pages>209</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Bantam</publisher>
+  <publication_day/>
+  <publication_year>1980</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>748</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>52074</id>
+    <name>John Crowley</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1223869920p5/52074.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1223869920p2/52074.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/52074.John_Crowley]]></link>
+    <average_rating>3.85</average_rating>
+    <ratings_count>15907</ratings_count>
+    <text_reviews_count>2009</text_reviews_count>
+  </author>
+</authors>
+  <published>1980</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-get-from-liberry" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jun 21 08:47:13 -0700 2011</date_added>
+  <date_updated>Sat Aug 17 13:37:44 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/178475942]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/178475942]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>176994722</id>
+    <book>
+  <id type="integer">1073812</id>
+  <isbn>0952488167</isbn>
+  <isbn13>9780952488163</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>What Will I Do With All Those Zucchini</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328862357m/1073812.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328862357s/1073812.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/1073812.What_Will_I_Do_With_All_Those_Zucchini</link>
+  <num_pages>174</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Fidelio Press Inc</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description>Now there is a cookbook for a garden full of zucchini! This book has more than 150 recipes using this amazingly versatile vegetable.</description>
+<authors>
+  <author>
+    <id>70096</id>
+    <name>Elaine Borish</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/70096.Elaine_Borish]]></link>
+    <average_rating>3.33</average_rating>
+    <ratings_count>9</ratings_count>
+    <text_reviews_count>3</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>23</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="books-about-greg-s-mom" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 15 16:03:21 -0700 2011</date_added>
+  <date_updated>Wed Jan 22 10:49:22 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      ASK GREG&apos;S MOM!!
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/176994722]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/176994722]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>176698712</id>
+    <book>
+  <id type="integer">400723</id>
+  <isbn>0385094787</isbn>
+  <isbn13>9780385094788</isbn13>
+  <text_reviews_count type="integer">86</text_reviews_count>
+  <title>Archy and Mehitabel</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1320504090m/400723.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1320504090s/400723.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/400723.Archy_and_Mehitabel</link>
+  <num_pages>192</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Anchor</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>1987</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.30</average_rating>
+  <ratings_count>807</ratings_count>
+  <description>The now classic tale of Archy the cockroach and Mehitabel the cat in her ninth life. First published in 1927, this free verse poem has become an essential part of American literature.</description>
+<authors>
+  <author>
+    <id>16197</id>
+    <name>Don Marquis</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1349676344p5/16197.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1349676344p2/16197.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/16197.Don_Marquis]]></link>
+    <average_rating>4.25</average_rating>
+    <ratings_count>1280</ratings_count>
+    <text_reviews_count>168</text_reviews_count>
+  </author>
+</authors>
+  <published>1987</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-get-from-liberry" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jun 14 17:07:25 -0700 2011</date_added>
+  <date_updated>Sat Aug 17 13:37:35 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/176698712]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/176698712]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>175977987</id>
+    <book>
+  <id type="integer">11235617</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <title>Puttypaw</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/11235617-puttypaw</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher/>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>4.50</average_rating>
+  <ratings_count>6</ratings_count>
+  <description>Toby has shut himself off from the world. Since the accident that killed his mother he has spent each day simply waiting to return to bed, and sleep. But one night he is woken by an immense, yowling tabby cat that tears his room apart, searching for its missing 'mousey'. And Toby knows from that moment that life is only going to get stranger.&lt;br&gt;&lt;br&gt;'Puttypaw' is a book about cats; man-sized, talking cats. (One of which specialises in casual malevolence and unspeakable sarcasm.) It is also about gods and their slippers. It is about growing up and friendship and loss and adventure. It is about rats and blood. It is about mirrors and deserts and fighting. It is about death - but then all stories are, in the end. Most of all, though, it is a book about Toby and his dreams. It begins with these words: "Toby slept. Toby dreamt..."</description>
+<authors>
+  <author>
+    <id>4819755</id>
+    <name>Tom North</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/m_200x266-e1021c586c5c6da845174faa816a3406.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/m_50x66-e89fc14c32a41c0eb4298dfafe929b65.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/4819755.Tom_North]]></link>
+    <average_rating>4.40</average_rating>
+    <ratings_count>20</ratings_count>
+    <text_reviews_count>9</text_reviews_count>
+  </author>
+</authors>
+  <published/>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="buy-for-me-thanks" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jun 12 09:08:30 -0700 2011</date_added>
+  <date_updated>Sat Aug 31 15:09:44 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/175977987]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/175977987]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>169256140</id>
+    <book>
+  <id type="integer">726054</id>
+  <isbn>1590170482</isbn>
+  <isbn13>9781590170489</isbn13>
+  <text_reviews_count type="integer">22</text_reviews_count>
+  <title>The Little Book Room</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/726054.The_Little_Book_Room</link>
+  <num_pages>314</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>New York Review Children's Collection</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.12</average_rating>
+  <ratings_count>275</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>227924</id>
+    <name>Eleanor Farjeon</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1302012775p5/227924.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1302012775p2/227924.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/227924.Eleanor_Farjeon]]></link>
+    <average_rating>4.10</average_rating>
+    <ratings_count>1013</ratings_count>
+    <text_reviews_count>159</text_reviews_count>
+  </author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-get-from-liberry" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed May 18 13:10:38 -0700 2011</date_added>
+  <date_updated>Sat Aug 17 13:37:27 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/169256140]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/169256140]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>168396133</id>
+    <book>
+  <id type="integer">11113183</id>
+  <isbn>076365339X</isbn>
+  <isbn13>9780763653392</isbn13>
+  <text_reviews_count type="integer">22</text_reviews_count>
+  <title>The Midnight Zoo</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1320566357m/11113183.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1320566357s/11113183.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/11113183-the-midnight-zoo</link>
+  <num_pages>208</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Candlewick</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.58</average_rating>
+  <ratings_count>586</ratings_count>
+  <description>&lt;strong&gt;Master storyteller Sonya Hartnett crafts a magical and moving fable about war and redemption . . . and what it means to be free.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;When the Germans attack their Romany encampment during World War II, Andrej and his younger brother, Tomas, flee through a ravaged countryside under cover of darkness, guarding a secret bundle. Their journey leads to a bombed-out town, where the boys discover a hidden wonder: a zoo filled with creatures in need of hope. Like Andrej and Tomas, the animals--wolf and eagle, monkey and bear, lioness and seal, kangaroo and llama-- have stories to share and a mission to reclaim their lives.</description>
+<authors>
+  <author>
+    <id>138742</id>
+    <name>Sonya Hartnett</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1203041513p5/138742.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1203041513p2/138742.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/138742.Sonya_Hartnett]]></link>
+    <average_rating>3.66</average_rating>
+    <ratings_count>5881</ratings_count>
+    <text_reviews_count>1053</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-get-from-liberry" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun May 15 10:05:45 -0700 2011</date_added>
+  <date_updated>Sat Aug 17 13:37:22 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/168396133]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/168396133]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>165494892</id>
+    <book>
+  <id type="integer">4015859</id>
+  <isbn>0590711482</isbn>
+  <isbn13>9780590711487</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Who Cares About Karen?</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1338420137m/4015859.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1338420137s/4015859.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/4015859-who-cares-about-karen</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.50</average_rating>
+  <ratings_count>12</ratings_count>
+  <description>&lt;em&gt;Directly ahead of us a wall of rock and mud blocked half the road. Where the other half should have been was nothing - black, yawning nothing...&lt;/em&gt;&lt;br&gt;&lt;br&gt;After their car plunges down a steep cliff into Suicide Gulch, five students try to survive in the bleak British Columbia mountains until one of them can climb back up the cliff to get help. For shy Karen the days in the bush seem like years. Shelley, Karen's "big sister" friend, is badly injured and needs help herself. Stanley can't seem to knock off his clown act, even in an emergency. And Dave doesn't seem to notice that Karen's around. Then there's Ward, who looks as if he could be triggered into one of his black rages by anything at all.&lt;br&gt;&lt;br&gt;Suddenly it's Karen who has to handle everybody else's problems...but who is there to care about her?</description>
+<authors>
+  <author>
+    <id>6151405</id>
+    <name>Alison Lohans Pirot</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/6151405.Alison_Lohans_Pirot]]></link>
+    <average_rating>3.50</average_rating>
+    <ratings_count>12</ratings_count>
+    <text_reviews_count>1</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>45</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="kiddiwinx" />
+      <shelf name="thanks-for-prezzies" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by>dave</recommended_by>
+  <started_at>Wed May 30 00:00:00 -0700 2012</started_at>
+  <read_at>Wed May 30 00:00:00 -0700 2012</read_at>
+  <date_added>Wed May 04 06:11:32 -0700 2011</date_added>
+  <date_updated>Thu May 31 05:02:34 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<br />i would love to find out.<br />..............................................................................................<br /><br />BREAKING NEWS! i have now read this book, because<br />LAIMA is amazing and just had this lying around, and mailed it to me!! ME!!!<br /><br />now i know the answer: laima cares about me.<br /><br />so, i cou...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/165494892]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/165494892]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>163960537</id>
+    <book>
+  <id type="integer">7944553</id>
+  <isbn>0823026647</isbn>
+  <isbn13>9780823026647</isbn13>
+  <text_reviews_count type="integer">19</text_reviews_count>
+  <title>Knitting Mochimochi: 20 Super-Cute Strange Designs for Knitted Amigurumi</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1320517970m/7944553.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1320517970s/7944553.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/7944553-knitting-mochimochi</link>
+  <num_pages>144</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Potter Craft</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.94</average_rating>
+  <ratings_count>138</ratings_count>
+  <description>Toys, people! Who doesn't love toys? They make you smile, give you something to squeeze and hug, and can even sit on the couch and watch TV with you. But could the toy &lt;strong&gt;be&lt;/strong&gt; a couch, or an old-fashioned television? Is that too weird? Not if the toy is &lt;strong&gt;mochimochi&lt;/strong&gt;, the super-cute and strange knitted toys author Anna Hrachovec created after fallingi n love with the bizarre character designs that are popular in Japan. &lt;br&gt;&lt;br&gt;A &lt;strong&gt;mochimochi &lt;/strong&gt;can be anything, from fearsome baby gators to pigs with beehive hairdos, from the toe-nibbling monster slippers to an assortment of itty-bitty hamsters, micro mountains, and human beans complete with comb-overs!&lt;br&gt;&lt;br&gt;And what knitter doesn't need a diversion from the usual socks, hats, and scarves? Many of these toys take less than an hour to make. Don't worry, even a beginner can learn to knit &lt;strong&gt;mochimochi&lt;/strong&gt;. If your toy comes out a little lumpy, it'll only add to its personality!&lt;br&gt;&lt;br&gt;Whether it's a bite-free bed bug, a smiling smokestack, or a grouchy couch--these 20 toys are quirkier than teddy bears but every bit as adorable.</description>
+<authors>
+  <author>
+    <id>3450548</id>
+    <name>Anna Hrachovec</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3450548.Anna_Hrachovec]]></link>
+    <average_rating>4.18</average_rating>
+    <ratings_count>233</ratings_count>
+    <text_reviews_count>33</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>25</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="reviewed-for-fun" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 27 10:37:20 -0700 2011</date_added>
+  <date_updated>Sat Aug 31 14:58:11 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>michelle is the winner!! and her winning has made me a winner!!!</strong><br />                    photos at the end of the review.<br /><br />i cannot knit.<br /><br />i will never learn to knit. i seem to have more fingers than is useful.<br /><br />it is very sad.<br /><br />however, i can make cookies.<br /><br /><br />and if, say, someone on here with the proper amount of fingers would lik...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/163960537]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/163960537]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>161644740</id>
+    <book>
+  <id type="integer">10218227</id>
+  <isbn>0373730896</isbn>
+  <isbn13>9780373730896</isbn13>
+  <text_reviews_count type="integer">14</text_reviews_count>
+  <title>Promoted to Wife?</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/10218227-promoted-to-wife</link>
+  <num_pages>172</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harlequin Desire</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.18</average_rating>
+  <ratings_count>93</ratings_count>
+  <description>Running a multibillion-dollar company meant long hours for Zac Prescott. Thankfully, his efficient assistant made the workload almost bearable. Theirs was a strictly professional relationship...until the night Emily Reynolds finally let her hair down. And the tycoon took full advantage by stealing a kiss.Suddenly, all Zac could concentrate on was his once plain-Jane secretary. Too bad that after the kiss, she'd quit! Could he lure her back with better prospects...and add some pleasure to the job description? Or was Emily looking for the ultimate promotion...to wife?</description>
+<authors>
+  <author>
+    <id>1106805</id>
+    <name>Paula Roe</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1245807638p5/1106805.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1245807638p2/1106805.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1106805.Paula_Roe]]></link>
+    <average_rating>3.62</average_rating>
+    <ratings_count>515</ratings_count>
+    <text_reviews_count>67</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>48</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="for-that-bodice-ripper-group" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Apr 17 00:00:00 -0700 2011</started_at>
+  <read_at>Mon Apr 18 00:00:00 -0700 2011</read_at>
+  <date_added>Sun Apr 17 08:48:43 -0700 2011</date_added>
+  <date_updated>Thu Dec 26 10:15:40 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[to whom it may concern:<br /><br />please excuse emily from work today. she has so many physical ailments, i felt it was best to put her to bed immediately. among her complaints are: flushed thighs, racing blood, loss/faltering of breath, redness of cheeks, melting bones, burning skin, racing pulse, and "exp...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/161644740]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/161644740]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>149391767</id>
+    <book>
+  <id type="integer">3247277</id>
+  <isbn>8120811216</isbn>
+  <isbn13>9788120811218</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Alice Boner Diaries</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/3247277-alice-boner-diaries</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>351325</id>
+    <name>Alice Boner</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/351325.Alice_Boner]]></link>
+    <average_rating>3.50</average_rating>
+    <ratings_count>2</ratings_count>
+    <text_reviews_count>1</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>16</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="reviewed-for-fun" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by>eh!!</recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Feb 20 08:54:02 -0800 2011</date_added>
+  <date_updated>Sat Aug 31 15:03:09 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      boner.
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/149391767]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/149391767]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>146284820</id>
+    <book>
+  <id type="integer">8063435</id>
+  <isbn>0008254656</isbn>
+  <isbn13>2940008254655</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Cessation of intercourse with the British minister</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1296409175m/8063435.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1296409175s/8063435.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/8063435-cessation-of-intercourse-with-the-british-minister</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.00</average_rating>
+  <ratings_count>2</ratings_count>
+  <description>&lt;strong&gt;Message&lt;/strong&gt;&lt;br&gt;from the&lt;br&gt;&lt;strong&gt;President of the United States&lt;/strong&gt;&lt;br&gt;communicating&lt;br&gt;&lt;strong&gt;Cessation of intercourse with the Envoy Extraordinary and Minister Plenipotentiary of Great Britain&lt;/strong&gt;&lt;br&gt;&lt;br&gt;Referred to the Committee on Foreign Affairs</description>
+<authors>
+  <author>
+    <id>1079622</id>
+    <name>Franklin Pierce</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1272651968p5/1079622.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1272651968p2/1079622.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1079622.Franklin_Pierce]]></link>
+    <average_rating>3.75</average_rating>
+    <ratings_count>8</ratings_count>
+    <text_reviews_count>1</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="currently-reading" />
+      <shelf name="thats-what-she-said" />
+      <shelf name="americas-favorite-president" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Feb 06 00:00:00 -0800 2011</started_at>
+  <read_at></read_at>
+  <date_added>Sun Feb 06 08:43:18 -0800 2011</date_added>
+  <date_updated>Sun Feb 06 08:43:38 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/146284820]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/146284820]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>141777678</id>
+    <book>
+  <id type="integer">9216061</id>
+  <isbn>0373618522</isbn>
+  <isbn13>9780373618521</isbn13>
+  <text_reviews_count type="integer">16</text_reviews_count>
+  <title>Vampire Sheikh (Immortal Sheikhs, #3)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1290849399m/9216061.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1290849399s/9216061.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/9216061-vampire-sheikh</link>
+  <num_pages>283</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harlequin</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.68</average_rating>
+  <ratings_count>115</ratings_count>
+  <description>Demigod Seth is enraged. The recent defections of his two favorite lieutenants have sparked a conflagration of fury within him and a bitter need for vengeance. Someone will pay, and pay dearly!&lt;p&gt;Who better than Josslyn Haliday? Her two scheming sisters seduced and destroyed his friends, luring them straight into the camp of his mortal enemy.&lt;/p&gt;&lt;p&gt;What Seth doesn't count on is Joss's own anger. After losing her parents as a child, she'll now do anything to find her two dear sisters and bring them back to safety. Anything.&lt;/p&gt;&lt;p&gt;Including making a deal with the devil—him. But how far is the soft, pliant temptress willing to go?&lt;/p&gt;</description>
+<authors>
+  <author>
+    <id>50896</id>
+    <name>Nina Bruhns</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1322691982p5/50896.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1322691982p2/50896.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/50896.Nina_Bruhns]]></link>
+    <average_rating>3.90</average_rating>
+    <ratings_count>6150</ratings_count>
+    <text_reviews_count>639</text_reviews_count>
+  </author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>19</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jan 18 12:16:10 -0800 2011</date_added>
+  <date_updated>Thu Dec 26 10:15:03 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[a vampire sheikh. fucking finally, romance publishers...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/141777678]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/141777678]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>133683393</id>
+    <book>
+  <id type="integer">9641032</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Falco: The Dark Guardian</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/9641032-falco</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information>Harlequin Presents #2953</edition_information>
+  <publisher>Harlequin</publisher>
+  <publication_day/>
+  <publication_year>2010</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.65</average_rating>
+  <ratings_count>187</ratings_count>
+  <description>Duty - or desire? Revered businessman Falco Orsini has left life in the Special Forces behind - though he uses his powerful skills occasionally, when duty calls. But duty is always on Falco-s terms! When his estranged father asks him to protect a young model who is being stalked, he begrudgingly agrees-only because of the vulnerability he can see in her eyes. Elle Bissette won-t be a victim - she can take care of herself! And surely big, dark, devilish Falco is dangerous? Because one kiss from a man like him will leave her breathless- The Orsini Brothers Darkly handsome - proud and arrogant The perfect Sicilian husbands!</description>
+<authors>
+  <author>
+    <id>145593</id>
+    <name>Sandra Marton</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/f_200x266-b99540df8c97ddfd3e621751f7699070.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/f_50x66-e0ba3b90c110cd67123d6a850d85373e.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/145593.Sandra_Marton]]></link>
+    <average_rating>3.60</average_rating>
+    <ratings_count>9627</ratings_count>
+    <text_reviews_count>976</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>18</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Dec 05 07:34:52 -0800 2010</date_added>
+  <date_updated>Thu Dec 16 23:23:40 -0800 2010</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<a href="http://www.youtube.com/watch?v=wjNmRwKiy88" rel="nofollow">fuck me, amadeus</a>]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/133683393]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/133683393]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>131073633</id>
+    <book>
+  <id type="integer">9714588</id>
+  <isbn>037365569X</isbn>
+  <isbn13>9780373655694</isbn13>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>Twins Under His Tree</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/9714588-twins-under-his-tree</link>
+  <num_pages>218</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Silhouette Books</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.31</average_rating>
+  <ratings_count>32</ratings_count>
+  <description>She'd just gone into labor......seven weeks early! Now Dr. Lily Wescott was the proud mother of twin baby girls. But she couldn't have done it without Mitch Cortega. The decorated combat surgeon was with her every step of the way. And the young widow was finding it awfully hard to resist Mitch's overpowering masculinity....&lt;br&gt;&lt;br&gt;Spending time with Lily and her infant daughters was making Mitch yearn for something he'd never known was missing. The wounded combat surgeon knew they both needed time to heal.&lt;br&gt;&lt;br&gt;But how much longer could they fight their attraction? With Christmas just around the corner, it was time to move on and trust in a love that could transform the past into a future filled with the true joy of giving!</description>
+<authors>
+  <author>
+    <id>21863</id>
+    <name>Karen Rose Smith</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1361487465p5/21863.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1361487465p2/21863.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/21863.Karen_Rose_Smith]]></link>
+    <average_rating>3.53</average_rating>
+    <ratings_count>2840</ratings_count>
+    <text_reviews_count>365</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>18</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Nov 16 12:42:04 -0800 2010</date_added>
+  <date_updated>Tue Nov 16 12:42:34 -0800 2010</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[and by "twins", he means "testicles". <br /><br />and by "tree,".... class??]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/131073633]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/131073633]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>130631843</id>
+    <book>
+  <id type="integer">3269793</id>
+  <isbn>0979901561</isbn>
+  <isbn13>9780979901560</isbn13>
+  <text_reviews_count type="integer">23</text_reviews_count>
+  <title>Torn</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/3269793-torn</link>
+  <num_pages>108</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.38</average_rating>
+  <ratings_count>312</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>1386480</id>
+    <name>Sage Whistler</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1378588304p5/1386480.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1378588304p2/1386480.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1386480.Sage_Whistler]]></link>
+    <average_rating>3.44</average_rating>
+    <ratings_count>1068</ratings_count>
+    <text_reviews_count>95</text_reviews_count>
+  </author>
+</authors>
+  <published></published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>100</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="bore-rotica" />
+      <shelf name="books-are-dirrrrrrty" />
+      <shelf name="for-that-bodice-ripper-group" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Nov 13 00:00:00 -0800 2010</started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 13 16:37:43 -0800 2010</date_added>
+  <date_updated>Thu Dec 26 10:14:49 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[the origin of twincest:<br /><br />"go fuck yourself!!"<br /><br />...don't mind if i do.<br /><br />hahaahhahahahahaaa<br /><br /><br />hey twins, get a womb!!<br /><br />hahhahhaahahahahahaa<br /><br />oh, god, twincest humor; i kill me!<br /><br />twins are the devil's joke on Man, and by now, you all should know my feelings on them, so i am just briefly reminding you, so you know...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/130631843]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/130631843]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>130186598</id>
+    <book>
+  <id type="integer">8960764</id>
+  <isbn>0373716664</isbn>
+  <isbn13>9780373716661</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <title>That Runaway Summer</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/8960764-that-runaway-summer</link>
+  <num_pages>256</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harlequin</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.47</average_rating>
+  <ratings_count>15</ratings_count>
+  <description>For Jill Jacobi, who's on the run with her younger brother, Indigo Springs is the perfect place to hide. So no matter how powerfully attracted she is to the kind veterinarian, Dan Maguire is a risk she can't afford to take.&lt;br&gt;&lt;br&gt;Except every instinct is telling her he's a man she can count on. And Dan seems so sure that they'd be right together. It's tempting to lose herself in her own growing feelings for this tender, handsome man. If she could only trust him with her secret…&lt;br&gt;&lt;br&gt;Lies brought her here. Will lies keep them apart?</description>
+<authors>
+  <author>
+    <id>29623</id>
+    <name>Darlene Gardner</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1361803491p5/29623.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1361803491p2/29623.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/29623.Darlene_Gardner]]></link>
+    <average_rating>3.43</average_rating>
+    <ratings_count>780</ratings_count>
+    <text_reviews_count>139</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>18</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Nov 10 14:40:24 -0800 2010</date_added>
+  <date_updated>Fri Apr 26 17:15:34 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<br />so many runaways, so little time...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/130186598]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/130186598]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>129523743</id>
+    <book>
+  <id type="integer">113380</id>
+  <isbn>0345410122</isbn>
+  <isbn13>9780345410122</isbn13>
+  <text_reviews_count type="integer">144</text_reviews_count>
+  <title>Maiden Voyage</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/113380.Maiden_Voyage</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Ballantine Books</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>1996</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.12</average_rating>
+  <ratings_count>1039</ratings_count>
+  <description>Tania Aebe was an eighteen-year-old dropout and barfly. She was going nowhere until her father offered her a challenge. He would offer her either a college education or a twenty-six-foot sloop in which she had to sail around the world alone. She chose the boat and for two years it was her home, as she negotiated weather, illness, fear, and ultimately, a spiritual quest that brought her home to herself....&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;From the Paperback edition.&lt;/em&gt;</description>
+<authors>
+  <author>
+    <id>65639</id>
+    <name>Tania Aebi</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/f_200x266-b99540df8c97ddfd3e621751f7699070.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/f_50x66-e0ba3b90c110cd67123d6a850d85373e.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/65639.Tania_Aebi]]></link>
+    <average_rating>4.09</average_rating>
+    <ratings_count>1076</ratings_count>
+    <text_reviews_count>156</text_reviews_count>
+  </author>
+</authors>
+  <published>1996</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-get-from-liberry" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 06 08:19:39 -0700 2010</date_added>
+  <date_updated>Sat Aug 17 14:18:03 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/129523743]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/129523743]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>124704309</id>
+    <book>
+  <id type="integer">7840834</id>
+  <isbn>1439163146</isbn>
+  <isbn13>9781439163146</isbn13>
+  <text_reviews_count type="integer">430</text_reviews_count>
+  <title>Palo Alto</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/7840834-palo-alto</link>
+  <num_pages>208</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scribner</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>2.86</average_rating>
+  <ratings_count>2793</ratings_count>
+  <description>A fiercely vivid collection of stories about troubled California  teenagers and misfits--violent and harrowing, from the astonishingly talented actor and artist James Franco.&lt;p&gt;&lt;em&gt;Palo Alto&lt;/em&gt; is the debut of a surprising and powerful new literary voice. Written with an immediate sense of place--claustrophobic and ominous--James Franco's collection traces the lives of an extended group of teenagers as they experiment with vices of all kinds, struggle with their families and one another, and succumb to self-destructive, often heartless nihilism. In "Lockheed" a young woman's summer--spent working a dull internship--is suddenly upended by a spectacular incident of violence at a house party.  In "American History" a high school freshman attempts to impress a girl during a classroom skit with a realistic portrayal of a slave owner—only to have his feigned bigotry avenged. In "I Could Kill Someone," a lonely teenager buys a gun with the aim of killing his high school tormentor, but begins to wonder about his bully's own inner life. &lt;/p&gt;&lt;p&gt;These linked stories, stark, vivid, and disturbing, are a compelling portrait of lives on the rough fringes of youth.&lt;/p&gt;</description>
+<authors>
+  <author>
+    <id>3369521</id>
+    <name>James Franco</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1345762575p5/3369521.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1345762575p2/3369521.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3369521.James_Franco]]></link>
+    <average_rating>3.04</average_rating>
+    <ratings_count>4590</ratings_count>
+    <text_reviews_count>967</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>120</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="reviewed-for-fun" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Oct 04 11:48:02 -0700 2010</date_added>
+  <date_updated>Sun Jan 12 06:50:23 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[i don't know why, but i really want to shove this book down my pants...<br /><br /><img src="http://t1.gstatic.com/images?q=tbn:yB_pYE0vPqxT_M:http://i850.photobucket.com/albums/ab68/illmaticc/JamesFranco5.jpg&amp;t=1" class="escapedImg" /><br /><br />oh, yeah - <em>that's</em> why...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/124704309]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/124704309]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>123112231</id>
+    <book>
+  <id type="integer">7824905</id>
+  <isbn>1568988907</isbn>
+  <isbn13>9781568988900</isbn13>
+  <text_reviews_count type="integer">15</text_reviews_count>
+  <title>Obsessive Consumption: What Did You Buy Today?</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/7824905-obsessive-consumption</link>
+  <num_pages>206</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Princeton Architectural Press</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.77</average_rating>
+  <ratings_count>83</ratings_count>
+  <description>Our daily lives are filled with consumption—$1.50 for a cup of coffee, $5.95 for a magazine, $17.99 for headphones, $1.79 for cough drops, $36.00 for a haircut. Whether bought out of necessity or indulgence, purchased alone or in a group, everything we buy has its own story to tell. We buy art supplies while feeling inspired, CDs while shopping with friends, and a new pair of jeans to give us a lift when we are feeling blue. Yet, these powerfully emotional experiences can be fleeting—quickly erased by the pull of the next "must-have" acquisition. In&lt;em&gt;Obsessive Consumption&lt;/em&gt;, Portland-based artist Kate Bingaman-Burt holds up a mirror to her own obsession with shopping and acquisition. Faced with a mounting pile of postgraduation credit card debt, Bingaman-Burt concocted a unique artistic response to this all-too-common dilemma. She picked up a pen and began drawing her monthly credit card statements, painstakingly recreating every last ledger line and decimal point, vowing to continue serving her artistic penance until her debt was repaid. As a relief from this project—turning the idea of "retail therapy" on its ear—Bingaman-Burt began drawing one of her purchases from each day, losing herself in the items, patterns, simple lines, and typography.&lt;br&gt;&lt;br&gt;&lt;em&gt;Obsessive Consumption&lt;/em&gt; represents a selection of three years of Bingaman-Burt's delightful ink drawings of sundry items. Accompanied by witty and insightful annotations, these drawings mock her own relationship with her purchases and put a personal face on the mass-produced items of our shared experience. Readers can catch a glimpse into the life of the artist from the collection, which includes wedding bands, a dog, a moving truck, handmade items from friends, Mississippi beer, Portland pizza, and lots of pens and drawing paper to support her drawing habit. A celebration of the beauty of the everyday, &lt;em&gt;Obsessive Consumption&lt;/em&gt; presents a microcosm of consumer culture that will appeal to everyone from a thirteen-year-old mall-dweller to a middle-aged anticonsumerism advocate.</description>
+<authors>
+  <author>
+    <id>3407641</id>
+    <name>Kate Bingaman-Burt</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3407641.Kate_Bingaman_Burt]]></link>
+    <average_rating>3.62</average_rating>
+    <ratings_count>194</ratings_count>
+    <text_reviews_count>44</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>84</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="books-i-hate-more-than-most-other-t" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Sep 23 17:30:14 -0700 2010</date_added>
+  <date_updated>Wed Sep 29 18:23:16 -0700 2010</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[omphaloskepsis times two!!<br /><br />seriously, i have reached the limit of my tolerance for cutie-pie hipsters who think they are the center of the ever-lovin' universe.<br /><br />i am through.<br /><br />little drawings of little things you bought every day?? not even good drawings?? and for this you get a book deal because you...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/123112231]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/123112231]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>122146460</id>
+    <book>
+  <id type="integer">7650538</id>
+  <isbn>1400300894</isbn>
+  <isbn13>9781400300891</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Everyone Is Special</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/7650538-everyone-is-special</link>
+  <num_pages>30</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Thomas Nelson Publishers</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description>To prevent Mr. Bump from discovering plans for a special surprise birthday party, the kids come up with a variety of excuses to keep him away until the big surprise. Mr. Bump however, feels he is being rejected and is very lonely. Lauryn is experiencing the same feelings because she has a new baby brother and is afraid that he has taken her place.&lt;br&gt;&lt;br&gt;Lauryn seeks out the hiding Mr. Bump and brings him to the Flip Flop Shop and he hesitantly enters. He is greeted with the happy sounds of his surprise birthday party celebration and is once again a happy man.&lt;br&gt;&lt;br&gt;Mary Lou ends with the message that just like every fingerprint and every single snowflake that falls, each one of us is special and one of a kind. All of us are important for who we are and there is no one in the world who could take our place. She reminds us that we saw how easily Lauryn and Mr. Bump could feel rejected because of what others do or say. She also reminds us to remember to tell all those we love how special they are and how much they mean to us ... and not just on birthdays!</description>
+<authors>
+  <author>
+    <id>73185</id>
+    <name>Thomas Nelson Publishers</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/73185.Thomas_Nelson_Publishers]]></link>
+    <average_rating>4.17</average_rating>
+    <ratings_count>763</ratings_count>
+    <text_reviews_count>138</text_reviews_count>
+  </author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>24</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+      <shelf name="titles-that-lie" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Sep 17 14:12:33 -0700 2010</date_added>
+  <date_updated>Sat Sep 18 06:32:37 -0700 2010</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[retton power!<br /><br /><br />this is a book written by a spunky gymnast about a character named mr bump (wow) in which she ends up lying to her fans because at the end of the day, everyone is decidedly not special, and many people lead sad and desperate lives and not all of us can win a friggin' gold medal so st...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/122146460]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/122146460]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>118592688</id>
+    <book>
+  <id type="integer">8456297</id>
+  <isbn>0373129394</isbn>
+  <isbn13>9780373129393</isbn13>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <title>Marriage: To Claim His Twins</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/8456297-marriage</link>
+  <num_pages>192</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harlequin</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.37</average_rating>
+  <ratings_count>237</ratings_count>
+  <description>Alexander Konstantinakos has discovered that one passionate night in England had its consequences: two, to be precise. Out of the blue he's turned up on Ruby Wareham's doorstep--to take his twin sons back to Greece!Ruby's shocked that she's still so attracted to dark, sexy and powerful Alexander. She's afraid she might lose her beautiful boys, whom she's struggled to bring up on her own, but maybe there's a solution.... Can she wed Sander--a virtual stranger--and live as his wife, and in his bed?</description>
+<authors>
+  <author>
+    <id>19687</id>
+    <name>Penny Jordan</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1266446990p5/19687.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1266446990p2/19687.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/19687.Penny_Jordan]]></link>
+    <average_rating>3.24</average_rating>
+    <ratings_count>12376</ratings_count>
+    <text_reviews_count>992</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>22</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Aug 25 15:48:18 -0700 2010</date_added>
+  <date_updated>Mon Dec 30 08:33:10 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[and by "twins" he means "boobs"]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/118592688]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/118592688]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>117427565</id>
+    <book>
+  <id type="integer">7291416</id>
+  <isbn>0345502620</isbn>
+  <isbn13>9780345502629</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>8 in the Box: A Novel of Suspense</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1320435163m/7291416.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1320435163s/7291416.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/7291416-8-in-the-box</link>
+  <num_pages>352</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Ballantine Books</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.38</average_rating>
+  <ratings_count>103</ratings_count>
+  <description>The harrowing scene is always the same: the home of a single woman, no signs of forced entry, no evidence of an intruder, and no victim—only a bathtub filled with blood. Newly promoted homicide detective Angel Alves wants to make his mark in the department and a difference on the streets, but tracking this elusive serial killer sorely challenges his commitment and skills. Meanwhile, assistant DA Conrad Darget has his own hands full mentoring an ambitious young law student and rallying his fellow attorneys in their daily courtroom battles. With each new attack the twisted mystery only deepens, and the hunger for answers—and action—intensifies. No sane mind could comprehend the dark design behind it all. And no one can anticipate the final fateful strokes that will lead to a shocking endgame.&lt;br&gt; </description>
+<authors>
+  <author>
+    <id>1223947</id>
+    <name>Raffi Yessayan</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1223947.Raffi_Yessayan]]></link>
+    <average_rating>3.36</average_rating>
+    <ratings_count>154</ratings_count>
+    <text_reviews_count>32</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>26</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="books-about-greg-s-mom" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Aug 18 10:08:43 -0700 2010</date_added>
+  <date_updated>Thu Jan 02 17:46:33 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[the much-anticipated biography of greg's mom - now available!!!]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/117427565]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/117427565]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>109715995</id>
+    <book>
+  <id type="integer">41865</id>
+  <isbn>0316015849</isbn>
+  <isbn13>9780316015844</isbn13>
+  <text_reviews_count type="integer">80302</text_reviews_count>
+  <title>Twilight (Twilight, #1)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1361039443m/41865.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1361039443s/41865.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/41865.Twilight</link>
+  <num_pages>498</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.57</average_rating>
+  <ratings_count>2192225</ratings_count>
+  <description>&lt;em&gt;About three things I was absolutely positive:&lt;br&gt;&lt;br&gt;First, Edward was a vampire.&lt;br&gt;&lt;br&gt;Second, there was a part of him - and I didn't know how dominant that part might be - that thirsted for my blood.&lt;br&gt;&lt;br&gt;And third, I was unconditionally and irrevocably in love with him.&lt;/em&gt;&lt;br&gt;&lt;br&gt;When Bella Swan moves to the gloomy town of Forks and meets Edward Cullen, her life takes a thrilling and terrifying turn. With his porcelain skin, golden eyes, mesmerizing voice, and supernatural gifts, Edward is both irresistible and impenetrable. Up until now, he has managed to keep his true identity hidden, but Bella is determined to uncover his dark secret.&lt;br&gt;&lt;br&gt;What Bella doesn't realize is the closer she gets to him, the more she is putting herself and those around her at risk. And it might be too late to turn back...</description>
+<authors>
+  <author>
+    <id>941441</id>
+    <name>Stephenie Meyer</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1395583393p5/941441.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1395583393p2/941441.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
+    <average_rating>3.66</average_rating>
+    <ratings_count>5721243</ratings_count>
+    <text_reviews_count>257261</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>288</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+      <shelf name="death-is-not-the-end" />
+      <shelf name="and-so-this-is-grad-school" />
+      <shelf name="why-yes-i-ya" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jul 02 00:00:00 -0700 2010</started_at>
+  <read_at></read_at>
+  <date_added>Fri Jul 02 07:30:05 -0700 2010</date_added>
+  <date_updated>Tue Dec 31 08:52:00 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[spoiler alert: he's a <em>vampire</em>!!!<br /><br />has anyone heard any press on this book yet?? i think that once the teens hear about it, the author will be quite successful. definite cinematic potential here.<br />................................................................................<br /><br />pop - there goes my meyer...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/109715995]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/109715995]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>103351831</id>
+    <book>
+  <id type="integer">2296399</id>
+  <isbn>089793508X</isbn>
+  <isbn13>9780897935081</isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <title>Instant Orgasm: Excitement at First Touch</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328768955m/2296399.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1328768955s/2296399.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/2296399.Instant_Orgasm</link>
+  <num_pages>228</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Hunter House</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.22</average_rating>
+  <ratings_count>9</ratings_count>
+  <description>In their latest book, noted sexperts Steve and Vera Bodansky show readers how to take their sexual pleasure to the max by becoming instantly orgasmic. In the first part of the book, they describe the concept of instant orgasm and explain why humankind’s natural ability to experience ecstasy has been stifled through cultural brainwashing. They then present specific techniques for becoming instantly orgasmic by using a �Ground Hog” approach: starting and stopping over and over again, each time with additional knowledge gained until the concept is totally integrated into actual sensation and feelings. A chapter on pleasurable peaking describes the technique in more detail than ever before, with added emphasis on each peak starting with a first stroke mentality. The authors also delve into the reasons why some people resist pleasure and offer ways to handle those resistances, allowing anyone to become a fully sensual beings.</description>
+<authors>
+  <author>
+    <id>204862</id>
+    <name>Steve Bodansky</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/204862.Steve_Bodansky]]></link>
+    <average_rating>4.04</average_rating>
+    <ratings_count>50</ratings_count>
+    <text_reviews_count>14</text_reviews_count>
+  </author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>33</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 18 17:19:06 -0700 2010</date_added>
+  <date_updated>Fri Jan 21 07:06:56 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[this is not a romance cover i have loved but i just want to share that some dude has been reading this in the aisle for like 40 minutes.<br /><br />just think how many orgasms he has had...<br /><br />i am not touching that book afterward, i'll tell you that much.]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/103351831]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/103351831]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>99994914</id>
+    <book>
+  <id type="integer">700399</id>
+  <isbn>1931561338</isbn>
+  <isbn13>9781931561334</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <title>The Average Human</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/700399.The_Average_Human</link>
+  <num_pages>260</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>MacAdam/Cage Publishing</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.35</average_rating>
+  <ratings_count>23</ratings_count>
+  <description>Every small town in America has one: the family whose daughters are perpetually pregnant and whose sons go directly from the eleventh grade to the county lock-up. In the town of Loomis, in rural New York, that family is the Mayborns. Long haunted by accusations of incest and infanticide, the Mayborns have become a tribal clan of pariahs, with a roster of monstrosities attached to their name. June Mayborn, a fourteen-year-old with a preternatural sense of smell and a dubious code of morals, has an affair with a married candy-store owner. When the affair sours, June sets a deadly fire, accidentally killing an elderly man who had, over a decade before, established a cult-like commune in the foothills of Loomis. The subsequent funeral draws the beautiful and capricious Iris Utter, whose two-year-old son went missing from Loomis eight years earlier. Both Iris and her somber sixteen-year-old daughter, Lee, embark upon a dangerous and disturbing relationship with the Mayborns, which will both ravage and redeem their lives. When I was a child, my family rented a cabin in rural upstate New York, and down the road lived a family of local pariahs. Tales of their alleged misdeeds ranged from petit larceny to incest to murder, turning them into a band of provincial monsters. And, as if to cinch the case against them, all the daughters in the family had fingernails that were black and twisted, as though corruption sprouted directly from their fingertips. They kept to themselves, the girls bearing a disturbing shell-shocked look in their pale eyes, until they all simply picked up and left one day without a word, providing the town with yet more fodder for gossip. Only later, when I wrote about thefictional Mayborns, a much fiercer version of this real-life family, did I wonder about their aura of impending doom. Had they simply become trapped within the town's collective fiction of them, or were they truly a monstrous second cousin to the average human? For me, my first novel, The Average Human, will always be associated with schlepping bowls of pad thai, since I wrote the bulk of it while I waitressed in a Thai restaurant. Another waitress at the restaurant was also writing a novel, and together we made a pact to exchange at least two pages of writing every day. We kept the storylines and the characters alive by speculating about them endlessly, in between hauling plates of curried chicken or while we were polishing silverware. I'm sure we annoyed the hell out of the rest of the wait staff, but we finished our novels within months of each other. And we were each other's constant reminder that we were writers, not waitresses, despite the peanut sauce stains on our shirtsleeves. The Average Human is vivid, flawlessly written, and perfectly constructed. It's easy to remember whole passages at a time, because they instantly take root in your imagination. Ellen is the type of writer that readers will clamor for more of as soon as they finish this book.--P.W.</description>
+<authors>
+  <author>
+    <id>373814</id>
+    <name>Ellen Toby-Potter</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/373814.Ellen_Toby_Potter]]></link>
+    <average_rating>3.35</average_rating>
+    <ratings_count>23</ratings_count>
+    <text_reviews_count>5</text_reviews_count>
+  </author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-get-from-liberry" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Apr 25 08:30:33 -0700 2010</date_added>
+  <date_updated>Sat Aug 17 13:37:11 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/99994914]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/99994914]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>94979767</id>
+    <book>
+  <id type="integer">6640958</id>
+  <isbn>1419959301</isbn>
+  <isbn13>9781419959301</isbn13>
+  <text_reviews_count type="integer">19</text_reviews_count>
+  <title>Surrender To Fire</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/6640958-surrender-to-fire</link>
+  <num_pages>220</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Ellora's Cave</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>4938</ratings_count>
+  <description>Fyre Brand: She holds the elemental power of fire within her grasp, able to sear, to destroy. But her heart holds the fear of repeating her ancestors' mistakes. Now, amid a world fighting to rebuild, Carmella must learn that she cannot control the power surging through her fragile body alone. She'll need help...,&lt;br&gt;&lt;br&gt;Surrender: Cole has wanted Tess for years. And he's warned her of this several times. He's also warned her HOW he wants her. Tied down in his bed, under his domination, surrendering to his desires...</description>
+<authors>
+  <author>
+    <id>2614</id>
+    <name>Lora Leigh</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1211464290p5/2614.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1211464290p2/2614.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2614.Lora_Leigh]]></link>
+    <average_rating>4.11</average_rating>
+    <ratings_count>343920</ratings_count>
+    <text_reviews_count>13239</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>54</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Mar 20 17:20:18 -0700 2010</date_added>
+  <date_updated>Mon Jan 13 12:57:59 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[how can her tits be this big and yet not a nipple to be seen??<br />discuss.]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/94979767]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/94979767]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>87249448</id>
+    <book>
+  <id type="integer">7261641</id>
+  <isbn>0373128975</isbn>
+  <isbn13>9780373128976</isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <title>Magnate's Mistress...Accidentally Pregnant!</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/7261641-magnate-s-mistress-accidentally-pregnant</link>
+  <num_pages>192</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harlequin</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.62</average_rating>
+  <ratings_count>120</ratings_count>
+  <description>Ally Smith might have dumped her cheating fiance, but she refuses to waste her nonrefundable honeymoon in the Caribbean!Trying to embrace her freedom, Ally meets sexy stranger Chris Wells.... Not recognizing him as the famous thrill-seeking tycoon, Ally throws caution to the wind and allows Chris, with his hot body, to sweep her into an even hotter summer fling!&lt;br&gt;&lt;br&gt;But back home Ally realizes that, unlike her tan, memories of their wild night will never fade.... Oh-so-sensible Ally is pregnant by the playboy!</description>
+<authors>
+  <author>
+    <id>2778721</id>
+    <name>Kimberly Lang</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1360204598p5/2778721.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1360204598p2/2778721.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2778721.Kimberly_Lang]]></link>
+    <average_rating>3.65</average_rating>
+    <ratings_count>1270</ratings_count>
+    <text_reviews_count>252</text_reviews_count>
+  </author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>18</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jan 28 20:04:01 -0800 2010</date_added>
+  <date_updated>Thu Feb 11 12:29:07 -0800 2010</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[raise your hand if you believe it was an accident...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/87249448]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/87249448]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>78888384</id>
+    <book>
+  <id type="integer">7194275</id>
+  <isbn>1426844484</isbn>
+  <isbn13>9781426844485</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Bedded for Passion, Purchased for Pregnancy (Harlequin Presents , #2879)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1259103038m/7194275.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1259103038s/7194275.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/7194275-bedded-for-passion-purchased-for-pregnancy</link>
+  <num_pages>192</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Harlequin</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.28</average_rating>
+  <ratings_count>101</ratings_count>
+  <description>&lt;p&gt;When Zarios D'Amilo meets Emma Hayes again, she is no longer the awkward teenager who tried to kiss him, but a beautiful, confident woman. Now he wants her!&lt;br&gt;&lt;br&gt;To claim his inheritance, this untamed tycoon must curb his wild ways. He needs a convenient fiancée, and Emma needs a million dollars. So Zarios seizes his opportunity--he &lt;em&gt;will&lt;/em&gt; have her! But passion soon leads to pregnancy, and suddenly, the stakes are higher....&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description>
+<authors>
+  <author>
+    <id>4990</id>
+    <name>Carol Marinelli</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1356217416p5/4990.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1356217416p2/4990.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/4990.Carol_Marinelli]]></link>
+    <average_rating>3.54</average_rating>
+    <ratings_count>6308</ratings_count>
+    <text_reviews_count>746</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>21</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Nov 24 14:51:57 -0800 2009</date_added>
+  <date_updated>Tue Sep 24 19:19:10 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[truly one of the most romantic titles i have ever come across. nothing says true love like a sales receipt. <br /><br />"now he wants her!"]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/78888384]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/78888384]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>73264744</id>
+    <book>
+  <id type="integer">6640378</id>
+  <isbn>1441480455</isbn>
+  <isbn13>9781441480453</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Thai Tranny Tales</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1335552086m/6640378.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1335552086s/6640378.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/6640378-thai-tranny-tales</link>
+  <num_pages>228</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>CreateSpace</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.43</average_rating>
+  <ratings_count>7</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>2839462</id>
+    <name>Half-Lady Lisa</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1277751648p5/2839462.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1277751648p2/2839462.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2839462.Half_Lady_Lisa]]></link>
+    <average_rating>2.75</average_rating>
+    <ratings_count>24</ratings_count>
+    <text_reviews_count>18</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>19</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Oct 02 20:16:28 -0700 2009</date_added>
+  <date_updated>Thu Dec 26 10:13:36 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[this cover is best enjoyed very large. it might be my favorite yet, although im not sure it is a "romance" cover i have loved. i haven't read it yet, except for the back cover and blurbs, but it lists as y/a in our system, somehow. as far as covers go, though - thumbs up. (is that what that is??)]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/73264744]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/73264744]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>70237645</id>
+    <book>
+  <id type="integer">6589772</id>
+  <isbn>0373769660</isbn>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">10</text_reviews_count>
+  <title>One Night, Two Babies (Silhouette Desire, #1966)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/6589772-one-night-two-babies</link>
+  <num_pages>184</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Silhouette Books</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.52</average_rating>
+  <ratings_count>198</ratings_count>
+  <description>Heiress Arielle Garnier was pregnant and the father-to-be was nowhere in sight--until he barged into her office. Zach Forsythe, billionaire resort owner, was the same man she'd had a week-long affair with. How could she trust Zach when he'd lied about his name and left her without a word?&lt;p&gt;He hadn't forgotten the auburn-haired siren who'd given him seven days of bliss. Though finding her again...expecting his twins...was a surprise. As was her refusal of his marriage proposal. It seemed Arielle wanted "love" with her wedding ring.&lt;/p&gt;</description>
+<authors>
+  <author>
+    <id>326052</id>
+    <name>Kathie DeNosky</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/f_200x266-b99540df8c97ddfd3e621751f7699070.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/f_50x66-e0ba3b90c110cd67123d6a850d85373e.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/326052.Kathie_DeNosky]]></link>
+    <average_rating>3.69</average_rating>
+    <ratings_count>2538</ratings_count>
+    <text_reviews_count>251</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>15</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Sep 06 06:39:20 -0700 2009</date_added>
+  <date_updated>Tue Sep 24 19:17:38 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[and that's the story of my life...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/70237645]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/70237645]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>70237446</id>
+    <book>
+  <id type="integer">6681429</id>
+  <isbn>0373694253</isbn>
+  <isbn13>9780373694259</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <title>His Best Friend's Baby</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/6681429-his-best-friend-s-baby</link>
+  <num_pages>217</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harlequin</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.50</average_rating>
+  <ratings_count>24</ratings_count>
+  <description>Former air forces special ops soldier Matt Parker is a weather and survival expert. So when he found out his best friend's widow's baby boy was being held for ransom, he vowed to stop at nothing to put the child safely back into his mother's arms.Aimee Vick didn't want help from the man who let her husband die. But the kidnapper was holding her baby on a remote mountain peak, making Matt her best hope for the reunion that she ached for.As they followed the kidnapper's trail, Matt and Aimee discovered that the baby was merely a pawn in an international game of terror. Aimee trusted Matt with her son's life, but could she trust him with her heart?</description>
+<authors>
+  <author>
+    <id>355489</id>
+    <name>Mallory Kane</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1369662895p5/355489.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1369662895p2/355489.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/355489.Mallory_Kane]]></link>
+    <average_rating>3.58</average_rating>
+    <ratings_count>1334</ratings_count>
+    <text_reviews_count>188</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>14</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Sep 06 06:35:58 -0700 2009</date_added>
+  <date_updated>Tue Sep 24 19:17:07 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[okay, another cowboy with a baby! his best friend's baby! he is taking his best friend's baby into the snowy black hills, where i think cartoon villains live. cowboys should never babysit, even if they are former special ops air force whatevers-turned-cowboys...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/70237446]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/70237446]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>70237173</id>
+    <book>
+  <id type="integer">6681816</id>
+  <isbn>037369427X</isbn>
+  <isbn13>9780373694273</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Covert Cootchie-Cootchie-Coo</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/6681816-covert-cootchie-cootchie-coo</link>
+  <num_pages>219</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harlequin</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.46</average_rating>
+  <ratings_count>13</ratings_count>
+  <description>Please hide and protect my baby boy, Troy.Those few words told Reed Tanner all he needed to know about the infant left on his boat: the baby was in danger and it was his job to keep him safe. But trying to find answers only led to more questions, forcing Reed to accept the help of Josie Dionne, a way too sexy--and way too secretive--P.I. Together they tracked down clues while never leaving each other's side, slowly closing in on the truth. Unfortunately, they also awakened a vicious enemy, someone willing to shoot first, ask questions later. Safeguarding both baby and beauty became the only focus of this once-dedicated bachelor. Losing either would be his undoing...</description>
+<authors>
+  <author>
+    <id>232972</id>
+    <name>Ann Voss Peterson</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/232972.Ann_Voss_Peterson]]></link>
+    <average_rating>3.69</average_rating>
+    <ratings_count>1883</ratings_count>
+    <text_reviews_count>301</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>14</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Sep 06 06:29:58 -0700 2009</date_added>
+  <date_updated>Tue Sep 24 19:16:39 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[okay - a new batch of bizarre series romance books have arrived!! i dont even need to "review" this one - it should be enough to just look at the cover and shake head despairingly. the expression on that baby's face pretty much telegraphs that it does not enjoy the cowboy's holding of it, nor doe...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/70237173]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/70237173]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>64072873</id>
+    <book>
+  <id type="integer">3369750</id>
+  <isbn>0525945601</isbn>
+  <isbn13>9780525945604</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>7 Steps to A Pain-Free Life: How to Rapidly Relieve Back and Neck Pain Using the McKenzie Method</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1309283467m/3369750.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1309283467s/3369750.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/3369750-7-steps-to-a-pain-free-life</link>
+  <num_pages>224</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton Adult</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.74</average_rating>
+  <ratings_count>54</ratings_count>
+  <description>Hailed as the ultimate cure for back and neck pain, the simple, easy-to-follow exercises that make up the McKenzie Method have become generally accepted as the standard for treating the debilitating pain that affects as many as 80% of adults in Western Countries. The growth of the McKenzie Method as a favored treatment has been more than phenomenal: It has become the basis for back and neck care in 25 countries including the U.S., where nearly 500 clinicians are approved to employ the program. More impressively, since 1980, when McKenzie first self-published his method for curing back pain, more than 3.5 million people worldwide have purchased it from physicians, chiropractors, and physical therapists. Nearly 2 million have purchased his self-published method for curing neck pain. While these works have been translated into 17 languages, they have never been available in U.S. bookstores. Complete with illustrations that are easy to follow, 7 Steps to a Pain-Free Life is an invaluable tool for better health.</description>
+<authors>
+  <author>
+    <id>69240</id>
+    <name>Robin McKenzie</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/69240.Robin_McKenzie]]></link>
+    <average_rating>3.98</average_rating>
+    <ratings_count>253</ratings_count>
+    <text_reviews_count>49</text_reviews_count>
+  </author>
+</authors>
+  <published>2000</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>14</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jul 19 06:10:44 -0700 2009</date_added>
+  <date_updated>Sun Sep 16 13:40:24 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      heres hoping...
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/64072873]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/64072873]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>59737782</id>
+    <book>
+  <id type="integer">202749</id>
+  <isbn>0971708959</isbn>
+  <isbn13>9780971708952</isbn13>
+  <text_reviews_count type="integer">66</text_reviews_count>
+  <title>Discreet Young Gentleman</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1315687142m/202749.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1315687142s/202749.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/202749.Discreet_Young_Gentleman</link>
+  <num_pages>194</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Seventh Window Publications</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>345</ratings_count>
+  <description>All hell breaks loose when Dean Smith, Earl of Carwick, is tricked into being discovered in the company of Rob, a handsome male prostitute. Now Dean needs to repair his broken engagement to a wealthy heiress…and Rob is the only one who can identify the man who set him up, proving to Dean's fiancée that things weren't as they appeared.&lt;br&gt;&lt;br&gt;The trip from Worcester to Bath turns into a journey of self-discovery, as Dean finds himself becoming increasingly attracted to Rob. His charming companion stirs feelings Dean has long kept repressed, but acting on them would make true the accusations that destroyed his engagement. Torn between duty and desire, Dean's destiny lies in the hands of a &lt;em&gt;Discreet Young Gentleman&lt;/em&gt;.</description>
+<authors>
+  <author>
+    <id>3132958</id>
+    <name>M.J. Pearson</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1279149201p5/3132958.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1279149201p2/3132958.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3132958.M_J_Pearson]]></link>
+    <average_rating>3.85</average_rating>
+    <ratings_count>751</ratings_count>
+    <text_reviews_count>138</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>16</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jun 15 09:13:19 -0700 2009</date_added>
+  <date_updated>Mon Jun 15 09:13:44 -0700 2009</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[which of these gentlemen is meant to be the discreet one?? dana - you read it, you tell me.]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/59737782]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/59737782]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>59737627</id>
+    <book>
+  <id type="integer">534652</id>
+  <isbn>0971708932</isbn>
+  <isbn13>9780971708938</isbn13>
+  <text_reviews_count type="integer">44</text_reviews_count>
+  <title>The Price of Temptation</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/534652.The_Price_of_Temptation</link>
+  <num_pages>208</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Seventh Window Publications</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.80</average_rating>
+  <ratings_count>315</ratings_count>
+  <description>A homoerotic love triangle lands Stephen Clair, Jamie Riley and Julian Jeffries in a situation in which everyone want something and the only way to get it is to scheme and find out how to play one against the other. One tries to avoid financial ruin, one is avoiding his past and one is determined to continue the lifestyle to which he has become accustomed. Fast paced and irreverent, this novel is from the same publishers as the cult book Ten Thick Inches.</description>
+<authors>
+  <author>
+    <id>3132958</id>
+    <name>M.J. Pearson</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1279149201p5/3132958.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1279149201p2/3132958.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/3132958.M_J_Pearson]]></link>
+    <average_rating>3.85</average_rating>
+    <ratings_count>751</ratings_count>
+    <text_reviews_count>138</text_reviews_count>
+  </author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>31</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jun 15 09:12:14 -0700 2009</date_added>
+  <date_updated>Wed Oct 21 14:05:33 -0700 2009</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[the price of temptation appears to be elephantiasis of the testicles.]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/59737627]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/59737627]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>58916861</id>
+    <book>
+  <id type="integer">3430165</id>
+  <isbn>0425225674</isbn>
+  <isbn13>9780425225677</isbn13>
+  <text_reviews_count type="integer">58</text_reviews_count>
+  <title>A Witch's Beauty (Daughters of Arianne, #2)</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1316477093m/3430165.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1316477093s/3430165.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/3430165-a-witch-s-beauty</link>
+  <num_pages>389</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Berkley Trade</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.10</average_rating>
+  <ratings_count>555</ratings_count>
+  <description>&lt;strong&gt;The follow-up to &lt;em&gt;A Mermaid's Kiss&lt;/em&gt;-from a national bestselling author who "stands out in a genre known for its out-of-the-ordinary love play."(&lt;em&gt;The Romance Studio&lt;/em&gt;)&lt;/strong&gt;&lt;br&gt;&lt;br&gt; Mina is the daughter of an unholy union-a mermaid taken by one of the malevolent Dark Ones. While helping to rescue Prime Legion Commander Jonah, she exposed herself as a potentially dangerous weapon, susceptible to the darkness in her own blood. Now, for the general good, Jonah has angels watching over her...&lt;br&gt;&lt;br&gt; Though Mina is resistant to being protected, her attitude begins to change when David, the human-born angel, is awarded the duty. Looking into his eyes, she can sense that he too knows what it means to fight the darkness within. But-as their passion threatens to take over-will it lead them to Heaven or Hell?&lt;br&gt;&lt;br&gt;</description>
+<authors>
+  <author>
+    <id>103359</id>
+    <name>Joey W. Hill</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1229194576p5/103359.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1229194576p2/103359.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/103359.Joey_W_Hill]]></link>
+    <average_rating>4.09</average_rating>
+    <ratings_count>28349</ratings_count>
+    <text_reviews_count>3161</text_reviews_count>
+  </author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>27</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jun 08 16:44:32 -0700 2009</date_added>
+  <date_updated>Fri Dec 27 19:23:47 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[although there is already a very detailed discussion about this cover on the bn page, i thought i would post it here too because it is worth checking out. the feasibility of love between an octopus-woman and a birdman needed to be explored, and i tip my cap to joey hill for being brave enough to...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/58916861]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/58916861]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>58045755</id>
+    <book>
+  <id type="integer">828923</id>
+  <isbn>0373711026</isbn>
+  <isbn13>9780373711024</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <title>North Country Man</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/828923.North_Country_Man</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harlequin Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.00</average_rating>
+  <ratings_count>22</ratings_count>
+  <description>A few years ago, Noah left the woods of Michigan, ready to make a difference in the world. After a tragic accident, he came back -- blamed by some, pitied by others, misunderstood by all. Now the only thing he wants is to be left alone.&lt;br&gt;&lt;br&gt;Then one night, Claire Levander stumbles across his path. Claire's not made for the backwoods -- she's a businesswoman whose idea of the perfect vacation spot is a well-stocked resort. And although he doesn't know it, she has a plan that could change the lives of the few people in his hometown he still cares about. Even worse is the fact that she just might change his.</description>
+<authors>
+  <author>
+    <id>107305</id>
+    <name>Carrie Alexander</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1345065235p5/107305.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1345065235p2/107305.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/107305.Carrie_Alexander]]></link>
+    <average_rating>3.97</average_rating>
+    <ratings_count>4815</ratings_count>
+    <text_reviews_count>190</text_reviews_count>
+  </author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>18</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jun 01 06:39:04 -0700 2009</date_added>
+  <date_updated>Tue Sep 24 19:15:10 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[any time there is not a human couple on the front of one of these things, i realize how nuanced the audience of romance novels truly is. and now narrow minded i myself am. because why can't a man love a baby bear cub the way he loves a woman? ah, karen, you have some growing up to do...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/58045755]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/58045755]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>58044948</id>
+    <book>
+  <id type="integer">1476225</id>
+  <isbn>0373712774</isbn>
+  <isbn13>9780373712779</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>A Little Secret Between Friends</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/1476225.A_Little_Secret_Between_Friends</link>
+  <num_pages>296</num_pages>
+  <format>Paperback</format>
+  <edition_information>Harlequin Superromance #1277</edition_information>
+  <publisher>Harlequin Superromance</publisher>
+  <publication_day/>
+  <publication_year>2005</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.62</average_rating>
+  <ratings_count>16</ratings_count>
+  <description>&lt;em&gt;It's amazing how one decision could change your life&lt;/em&gt;&lt;p&gt;Back in law school Sally Stowe and Colin Foster argued in and out of class. One night, after a study session in the library, Colin offered to drive Sally home. They ended up in his dorm room making love. The next day Sally discovered that her best friend, Beth, was really into this guy in Sally's class - Colin. Sally stepped aside and started seeing someone new.&lt;/p&gt;&lt;p&gt;Sixteen years later Sally is a distinguished lawyer, up for a judicial appointment, and Colin is Beth's widower. As Sally and Colin spend more and more time together, a horrible suspicion takes hold. Could Sally's daughter be Colin's?&lt;/p&gt;</description>
+<authors>
+  <author>
+    <id>125697</id>
+    <name>C.J. Carmichael</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1327455430p5/125697.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1327455430p2/125697.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/125697.C_J_Carmichael]]></link>
+    <average_rating>3.87</average_rating>
+    <ratings_count>977</ratings_count>
+    <text_reviews_count>279</text_reviews_count>
+  </author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>23</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jun 01 06:29:39 -0700 2009</date_added>
+  <date_updated>Thu Dec 26 10:13:14 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[this one makes the all-time list. a truly stunning visual narrative - i only wish the picture on here were bigger so everyone could enjoy it. i bought several copies of this one to be framed, but i feel like i could never have enough. so the title is what it is and then the bottom-half of the cov...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/58044948]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/58044948]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>58044782</id>
+    <book>
+  <id type="integer">6481164</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>He Calls Her Doc (Harlequin Superromance, #1561)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/6481164-he-calls-her-doc</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher/>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>3.21</average_rating>
+  <ratings_count>24</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>2935732</id>
+    <name>Mary Brady</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/2935732.Mary_Brady]]></link>
+    <average_rating>3.32</average_rating>
+    <ratings_count>63</ratings_count>
+    <text_reviews_count>13</text_reviews_count>
+  </author>
+</authors>
+  <published/>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>14</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jun 01 06:27:51 -0700 2009</date_added>
+  <date_updated>Mon Jun 01 06:29:25 -0700 2009</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[this one has a perfectly acceptable cover, but the title is troubling. it may just be the font, but 4 out of 4 people when questioned misread it. so it gets to be included.]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/58044782]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/58044782]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>58044410</id>
+    <book>
+  <id type="integer">2180993</id>
+  <isbn>0373247338</isbn>
+  <isbn13>9780373247332</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>The Three-Way Miracle (Silhouette Special Edition No. 1733) (Silhouette Special Edition)</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/2180993.The_Three_Way_Miracle_Silhouette_Special_Edition_No_1733_</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Silhouette</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>6</ratings_count>
+  <description></description>
+<authors>
+  <author>
+    <id>72986</id>
+    <name>Karen Sandler</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1306186213p5/72986.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1306186213p2/72986.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/72986.Karen_Sandler]]></link>
+    <average_rating>3.64</average_rating>
+    <ratings_count>1171</ratings_count>
+    <text_reviews_count>258</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>19</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="romance-covers-i-have-loved" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jun 01 06:21:26 -0700 2009</date_added>
+  <date_updated>Mon Dec 23 11:11:07 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[this is a book i actually bought when i saw it at work because i was going through a phase of finding funny book covers and framing them for people as gifts. but then i found i couldn't part with this one. and no one has rated it on goodreads.com, so i have no one to approach with my burning ques...]]>
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/58044410]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/58044410]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>6988679</id>
+    <book>
+  <id type="integer">222770</id>
+  <isbn>0312343698</isbn>
+  <isbn13>9780312343699</isbn13>
+  <text_reviews_count type="integer">65</text_reviews_count>
+  <title>Passion: A Novel of the Romantic Poets</title>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1312231481m/222770.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1312231481s/222770.jpg</small_image_url>
+  <link>https://www.goodreads.com/book/show/222770.Passion</link>
+  <num_pages>536</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>St. Martin's Griffin</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>448</ratings_count>
+  <description>Theirs was a world of obsession, genius, and above all…  &lt;br&gt;&lt;br&gt;In the turbulent years of the French Revolution and the Napoleonic Wars, three poets—Byron, Shelley, and Keats—come to prominence, famous and infamous, for their vivid personalities, and their glamorous, shocking, and sometimes tragic lives. In this electrifying novel, those lives are explored through the eyes of the women who knew and loved them—intensely, scandalously.&lt;br&gt;&lt;br&gt;Four women from widely different backgrounds are linked by a sensational fate. Mary Shelley: the gifted daughter of gifted parents, for whom passion leads to exile, loss, and a unique fame. Lady Caroline Lamb: born to fabulous wealth and aristocratic position, who risks everything for the ultimate love affair. Fanny Brawne: her quiet, middle-class girlhood is transformed—and immortalized—by a disturbing encounter with genius. Augusta Leigh: the unassuming poor relation who finds herself flouting the greatest of all taboos.&lt;br&gt;&lt;br&gt;With the originality, richness, and daring of the poets themselves, &lt;em&gt;Passion&lt;/em&gt; presents the Romantic generation in a new and unforgettable light.</description>
+<authors>
+  <author>
+    <id>130345</id>
+    <name>Jude Morgan</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/m_200x266-e1021c586c5c6da845174faa816a3406.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/m_50x66-e89fc14c32a41c0eb4298dfafe929b65.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/130345.Jude_Morgan]]></link>
+    <average_rating>3.75</average_rating>
+    <ratings_count>2772</ratings_count>
+    <text_reviews_count>636</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="what-would-byron-do" />
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Sep 29 07:26:05 -0700 2007</date_added>
+  <date_updated>Sat Sep 29 07:26:05 -0700 2007</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/6988679]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/6988679]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>6988609</id>
+    <book>
+  <id type="integer">90625</id>
+  <isbn>0060556595</isbn>
+  <isbn13>9780060556594</isbn13>
+  <text_reviews_count type="integer">36</text_reviews_count>
+  <title>Lord Byron's Novel: The Evening Land</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/90625.Lord_Byron_s_Novel</link>
+  <num_pages>465</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harper Perennial</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.57</average_rating>
+  <ratings_count>322</ratings_count>
+  <description>One of our most accomplished literary artists, John Crowley imagines the novel the haunted Romantic poet Lord Byron never penned ...but very well might have. Saved from destruction, read, and annotated by Byron's own abandoned daughter, Ada, the manuscript is rediscovered in our time -- and almost not recognized. &lt;em&gt;Lord Byron's Novel&lt;/em&gt; is the story of a dying daughter's attempt to understand the famous father she longed for -- and the young woman who, by learning the secret of Byron's manuscript and Ada's devotion, reconnects with her own father, driven from her life by a crime as terrible as any of which Byron himself was accused.</description>
+<authors>
+  <author>
+    <id>52074</id>
+    <name>John Crowley</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1223869920p5/52074.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1223869920p2/52074.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/52074.John_Crowley]]></link>
+    <average_rating>3.85</average_rating>
+    <ratings_count>15907</ratings_count>
+    <text_reviews_count>2009</text_reviews_count>
+  </author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="to-read" />
+      <shelf name="what-would-byron-do" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Sep 29 07:23:58 -0700 2007</date_added>
+  <date_updated>Sat Sep 29 07:23:58 -0700 2007</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/6988609]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/6988609]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>6988600</id>
+    <book>
+  <id type="integer">534565</id>
+  <isbn>0393329739</isbn>
+  <isbn13>9780393329735</isbn13>
+  <text_reviews_count type="integer">18</text_reviews_count>
+  <title>Imposture</title>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <link>https://www.goodreads.com/book/show/534565.Imposture</link>
+  <num_pages>200</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>W. W. Norton &amp; Company</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.08</average_rating>
+  <ratings_count>108</ratings_count>
+  <description>Lord Byron was the greatest writer and most notorious, scandalous lover of his age - an irresistible attraction for a sheltered, bookish, and passionate young woman like Eliza Esmond. &lt;br&gt;&lt;br&gt;Eliza believes she's met Byron on the doorstep of his publisher, and that her dreams have come true when he arranges to meet her in secret. But what if the man she believes to be Byron is someone else - a look-alike named John Polidori, who once toured Europe as Byron's doctor? &lt;br&gt;&lt;br&gt;And if Polidori is the true author of a wildly successful book everyone believes to have been written by Byron, who is the real imposter?&lt;br&gt;&lt;br&gt;Stylish, subtle, and seductive, 'Imposture' is about ambition, fantasy, the power of artistic greatness, and the consequences of celebrity - by a gifted novelist of true talent.&lt;br&gt;&lt;br&gt;Reading group guide available.</description>
+<authors>
+  <author>
+    <id>295292</id>
+    <name>Benjamin Markovits</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/295292.Benjamin_Markovits]]></link>
+    <average_rating>3.08</average_rating>
+    <ratings_count>299</ratings_count>
+    <text_reviews_count>68</text_reviews_count>
+  </author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+      <shelf name="what-would-byron-do" />
+      <shelf name="to-read" />
+  </shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Sep 29 07:23:30 -0700 2007</date_added>
+  <date_updated>Sat Sep 29 07:23:30 -0700 2007</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>review_comments_count</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/6988600]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/6988600]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>
