@@ -57,7 +57,8 @@ docs/_build/
 # Fixtures - ignore anything but .zip or .tgz
 fixtures/*.tsv
 fixtures/*.csv
-fixtures/*.json
+fixtures/*.xml
+fixtures/htdocs
 
 # Local configurations
 conf/octavo.yaml
