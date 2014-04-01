@@ -158,6 +158,7 @@ class OctavoSettings(Settings):
 
     debug                = False
     htdocs               = os.path.abspath("fixtures/htdocs/")
+    database             = os.path.abspath("fixtures/octavo.db")
     goodreads_access_key = os.environ.get("GOODREADS_ACCESS_KEY", None)
     goodreads_secret_key = os.environ.get("GOODREADS_SECRET_KEY", None)
 
