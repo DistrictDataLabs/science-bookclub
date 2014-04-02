@@ -15,3 +15,6 @@ htdocs: /path/to/htdocs
 ## Specify your GoodReads API keys
 goodreads_access_key: supersecretkey
 goodreads_secret_key: supersecretkey
+
+## Specify database settings
+database: /path/to/octavo.db

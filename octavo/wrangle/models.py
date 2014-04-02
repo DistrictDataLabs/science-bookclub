@@ -83,14 +83,14 @@ class Review(Base):
 ## Database helper methods
 ##########################################################################
 
-def engine(uri=None):
+def get_engine(uri=None):
     uri = uri or settings.get('database')
     uri = 'sqlite:///%s' % uri if uri else 'sqlite://'
     return create_engine(uri)
 
-def session(eng=None):
-    eng = eng or engine()
+def create_session(eng=None):
+    eng = eng or get_engine()
     return sessionmaker(bind=eng)()
 
-def syncdb():
-    Base.metadata.create_all(engine())
+def syncdb(uri=None):
+    Base.metadata.create_all(get_engine(uri))
