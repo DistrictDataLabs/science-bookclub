@@ -25,7 +25,7 @@ import csv
 import argparse
 
 from octavo.ingest.goodreads import Goodreads
-from octavo.wrangle import wrangle as loaddb
+from octavo.wrangle import wrangle_reviews as loaddb
 from octavo.wrangle.models import syncdb as createdb
 
 ##########################################################################

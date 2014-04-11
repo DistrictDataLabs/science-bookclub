@@ -18,6 +18,8 @@ Data wrangling for Octavo App
 ##########################################################################
 
 import os
+import unicodecsv as csv
+
 from models import *
 from extract import extract
 
@@ -34,7 +36,21 @@ def userid_from_path(path):
 
     return name.split('-')[0]
 
-def wrangle(path, userid=None):
+def wrangle_users(path):
+    """
+    For a users CSV file, extracts and loads into database
+    """
+    session = create_session()
+    with open(path, 'r') as data:
+        reader = csv.DictReader(data)
+        for row in reader:
+            user = User(**row)
+            user = session.merge(user)
+
+    session.commit()
+    session.close()
+
+def wrangle_reviews(path, userid=None):
     """
     For a review xml file, extracts and loads into database
     """

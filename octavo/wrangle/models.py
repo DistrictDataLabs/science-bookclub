@@ -40,7 +40,17 @@ class User(Base):
 
     id            = Column(Integer, primary_key=True)
     name          = Column(Unicode(50))
-    #reviews       = relationship("Review", secondary="Review")
+    reviews       = relationship("Review")
+
+    def get_profile_url(self):
+        """
+        Returns a link to the Goodreads profile
+        """
+        base = "https://www.goodreads.com/user/show/%i"
+        return base % self.id
+
+    def __str__(self):
+        return "%i: %s" % (self.id, self.name)
 
 class Book(Base):
 
@@ -54,7 +64,7 @@ class Book(Base):
     published     = Column(Integer)
     description   = Column(UnicodeText)
     authors       = relationship("Author", secondary="book_authors")
-    #reviews       = relationship("Review", secondary="reviews")
+    reviews       = relationship("Review")
 
 class Author(Base):
 
