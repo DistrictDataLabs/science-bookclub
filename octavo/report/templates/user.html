@@ -1,5 +1,16 @@
 {% extends 'base.html' %}
 
+{% block stylesheets %}
+  {{ super() }}
+  <style type="text/css">
+    .text-mono {
+      font-family: "Courier New", Courier, monospace;
+    }
+
+    .spacer { min-height: 10px; }
+  </style>
+{% endblock %}
+
 {% block header %}
   <h1 class="text-center">Science Bookclub</h1>
   <p class="lead text-center">Recommendations and other analytics for <a href="{{ user.get_profile_url() }}">{{ user.name }} ({{ user.id }})</a></p>
@@ -9,17 +20,84 @@
 
   <div class="row">
     <div class="col-md-12">
-        <h3 class="text-center">Current System State</h3>
+      <p class="text-center"><big><strong>Current Model: <span class="text-mono">fixtures/reccod.pickle</span></strong></big></p>
     </div>
 
     <div class="col-md-4">
-     <p class="text-center"><big><strong><i class="fa fa-book"></i> {{ status.books }} Books</strong></big></p>
+      <p class="text-center"><big><strong>
+        <i class="fa fa-book"></i> {{ status.books }} Books
+      </strong></big></p>
     </div>
     <div class="col-md-4">
-      <p class="text-center"><big><strong><i class="fa fa-user"></i> {{ status.users }} Users</strong></big></p>
+      <p class="text-center"><big><strong>
+        <i class="fa fa-user"></i> {{ status.users }} Users
+      </strong></big></p>
     </div>
     <div class="col-md-4">
-      <p class="text-center"><big><strong><i class="fa fa-star-half-o"></i> {{ status.reviews }} Reviews</strong></big>
+      <p class="text-center"><big><strong>
+        <i class="fa fa-star-half-o"></i> {{ status.reviews }} Reviews
+      </strong></big></p>
+    </div>
+
+    <div class="col-md-4">
+      <p class="text-center"><big><strong>
+        <i class="fa fa-clock-o"></i> {{ "%0.3f" | format(status.build_time) }} Seconds Build Time
+      </strong></big></p>
+    </div>
+    <div class="col-md-4">
+      <p class="text-center"><big><strong>
+        <i class="fa fa-table"></i> {{ "%0.3f" | format(status.sparsity) }}% Sparse
+      </strong></big></p>
+    </div>
+    <div class="col-md-4">
+      <p class="text-center"><big><strong>
+        <i class="fa fa-square"></i> {{ status.matrix_size }} Matrix Size
+      </strong></big>
+    </div>
+
+  </div>
+
+  <div class="row"><div class="spacer"></div></div>
+
+  <div class="row">
+    <div class="col-md-12">
+      <h3 class="text-center">Top Picks for {{ user.name }}</h3>
+    </div>
+    <div class="col-md-2">
+    {% for book, estimate in picks %}
+      <a class="thumbnail" href="{{ book.link }}"><img class="img-responsive" src="{{ book.image }}" alt="{{ book.title }}" /></a>
+      <p class="text-center">{{ book.title }}</p>
+      <p class="text-center"><strong>{{ "%0.3f" | format(estimate) }}</strong></p>
+    </div>
+
+    {% if loop.index % 6 == 0 %}
+  </div>
+  <div class="row">
+    {% endif %}
+
+    <div class="col-md-2">
+    {% endfor %}
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-12">
+      <h3 class="text-center">Most Popular Books</h3>
+    </div>
+    <div class="col-md-2">
+    {% for book in popular %}
+      <a class="thumbnail" href="{{ book.link }}"><img class="img-responsive" src="{{ book.image }}" alt="{{ book.title }}" /></a>
+      <p class="text-center">{{ book.title }}</p>
+      <p class="text-center"><strong>{{ "%0.2f" | format(book.average_rating()) }}</strong></p>
+    </div>
+
+    {% if loop.index % 6 == 0 %}
+  </div>
+  <div class="row">
+    {% endif %}
+
+    <div class="col-md-2">
+    {% endfor %}
     </div>
   </div>
 

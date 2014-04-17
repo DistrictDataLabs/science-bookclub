@@ -18,10 +18,13 @@ Data wrangling for Octavo App
 ##########################################################################
 
 import os
+import heapq
 import unicodecsv as csv
 
 from models import *
 from extract import extract
+from sqlalchemy import desc
+from sqlalchemy.sql import func
 
 ##########################################################################
 ## Wrangling
@@ -81,3 +84,26 @@ def wrangle_reviews(path, userid=None):
 
     session.commit()
     session.close()
+
+##########################################################################
+## Some aggregations
+##########################################################################
+
+def popular_books(n=12, reverse=False):
+    """
+    Return most popular books. Give an nvalue for the n best books, use
+    reverse to return the most hated books!
+    """
+    session = create_session()
+    books   = session.query(Book)
+    method  = heapq.nsmallest if reverse else heapq.nlargest
+    return method(n, books, key=lambda b: b.average_rating())
+
+def lazy_popular_books():
+    """
+    Returns a precomputed list of popular books.
+    """
+    session = create_session()
+    bids = [2767052, 136251, 2657, 13496, 6148028, 7260188, 5, 5907, 10572, 16299, 62291, 8051458]
+    for bid in bids:
+        yield session.query(Book).get(bid)

@@ -17,6 +17,8 @@ SQLAlchemy models using the declarative extenstion
 ## Imports
 ##########################################################################
 
+import numpy as np
+
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy import Column, Integer, Unicode, UnicodeText
 from sqlalchemy.orm import relationship, sessionmaker
@@ -40,7 +42,6 @@ class User(Base):
 
     id            = Column(Integer, primary_key=True)
     name          = Column(Unicode(50))
-    reviews       = relationship("Review")
 
     def get_profile_url(self):
         """
@@ -64,7 +65,21 @@ class Book(Base):
     published     = Column(Integer)
     description   = Column(UnicodeText)
     authors       = relationship("Author", secondary="book_authors")
-    reviews       = relationship("Review")
+
+    def average_rating(self, C=5, m=3):
+        """
+        Constructs a query for the average rating of the book using the
+        Bayesian Average instead of a striaght average.
+
+        http://fulmicoton.com/posts/bayesian_rating/
+        """
+        stars = sum(r.rating for r in self.reviews)
+        rates = len([review for review in self.reviews if review.rating > 0])
+        if rates < 1: return rates
+        return (C * m + stars) / float(C+rates)
+
+    def __str__(self):
+        return self.title
 
 class Author(Base):
 
@@ -88,6 +103,8 @@ class Review(Base):
     book_id       = Column(Integer, ForeignKey('books.id'), primary_key=True)
     user_id       = Column(Integer, ForeignKey('users.id'), primary_key=True)
     rating        = Column(Integer, nullable=False)
+    book          = relationship('Book', backref='reviews')
+    user          = relationship('User', backref='reviews')
 
 ##########################################################################
 ## Database helper methods
