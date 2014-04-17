@@ -205,19 +205,6 @@ class Recommender(object):
 
 if __name__ == '__main__':
 
-    #This is the Test case. Expected output is available.
-#    R = numpy.array([
-#            [5,3,0,1],
-#            [4,0,0,1],
-#            [1,1,0,5],
-#            [1,0,0,4],
-#            [0,1,5,4],
-#        ])
-
-#    nP, nQ = nnmf(R)
-#    nR = numpy.dot(nP, nQ.T)
-#    print nR
-
     # This is a terrible idea
     recommender = Recommender()
     recommender.build_model()
