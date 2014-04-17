@@ -62,3 +62,5 @@ fixtures/htdocs
 
 # Local configurations
 conf/octavo.yaml
+
+fixtures/*.pickle
