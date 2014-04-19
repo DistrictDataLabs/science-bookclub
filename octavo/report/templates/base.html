@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>{% block title %}{{ title }}{% endblock %}</title>
+
+  {% block meta %}
+  <meta name="author" content="{% block author %}Benjamin Bengfort{% endblock %}">
+  <meta name="keywords" content="{% block keywords %}Data Science, Analytics, Recommendations{% endblock %}">
+  <meta name="description" content="{% block description %}Science Bookclub!{% endblock %}">
+  {% endblock %}
+
+  {% block link %}
+  <!-- Shortcut Icons -->
+  <link rel="shortcut icon" href="">
+  {% endblock %}
+
+  {% block stylesheets %}
+  <!-- CSS: implied media="all" -->
+  <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" rel="stylesheet">
+  <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+  {% endblock %}
+
+</head>
+<body>
+  {% block body %}
+  <div class="container">
+    {% block page %}
+    <div class="row">
+        <div class="page-header">
+            <div class="col-md-12 center">
+                {% block header %}
+                <h1>{{ title }}</h1>
+                {% endblock %}
+            </div>
+        </div>
+    </div>
+
+    {% block content %}
+
+    {% endblock %}
+    {% endblock %}
+  </div>
+  {% endblock %}
+  {% block javascript %}
+  <!-- Javascript at the bottom of the page for faster loading -->
+  <script type="text/javascript" src="http://codeorigin.jquery.com/jquery-2.0.3.min.js"></script>
+  <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+  <script src="http://code.highcharts.com/highcharts.js"></script>
+  <script src="http://code.highcharts.com/modules/exporting.js"></script>
+  {% endblock %}
+</body>
+</html>
