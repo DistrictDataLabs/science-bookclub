@@ -30,6 +30,7 @@ from octavo.ingest.goodreads import Goodreads
 from octavo.wrangle import wrangle_reviews as loaddb
 from octavo.wrangle.models import syncdb as createdb
 from octavo.recommend.matrix import Recommender
+from octavo.report.user import UserReport
 
 ##########################################################################
 ## Command Line Variables
@@ -133,6 +134,14 @@ def build(args):
     recommender.dump(args.outpath)
     print "Training took %0.3f seconds" % recommender.build_time
 
+def report(args):
+    """
+    Prints out a report for the particular user
+    """
+    report  = UserReport(args.user)
+    outpath = args.outpath or '%s.html' % args.user
+    report.render(outpath)
+
 ##########################################################################
 ## Main Method
 ##########################################################################
@@ -167,6 +176,12 @@ def main(*argv):
     build_parser = subparsers.add_parser('build', help='Builds the model from the current database')
     build_parser.add_argument('outpath', type=str, nargs=1, default='reccod.pickle', help='Path to write the model to.')
     build_parser.set_defaults(func=build)
+
+    # Report command
+    report_parser = subparsers.add_parser('report', help='Create an HTML report for the selected user')
+    report_parser.add_argument('user', type=int, nargs=1, help='User id to write the report for')
+    report_parser.add_argument('-o', '--outpath', type=str, default=None, help='Location to write report to')
+    report_parser.set_defaults(func=report)
 
     # Handle input from the command line
     args = parser.parse_args()            # Parse the arguments
