@@ -27,6 +27,7 @@ import argparse
 from octavo.ingest.goodreads import Goodreads
 from octavo.wrangle import wrangle_reviews as loaddb
 from octavo.wrangle.models import syncdb as createdb
+from octavo.recommend.matrix import Recommender
 
 ##########################################################################
 ## Command Line Variables
@@ -80,6 +81,17 @@ def syncdb(args):
     createdb(args.database)
     print "Database created."
 
+def build(args):
+    """
+    Builds the model from the current database
+    """
+    print "Warning this is going to take hours..."
+    print "Will write the model to '%s' once trained" % args.outpath
+    recommender = Recommender()
+    recommender.build_model()
+    recommender.dump(args.outpath)
+    print "Training took %0.3f seconds" % recommender.build_time
+
 ##########################################################################
 ## Main Method
 ##########################################################################
@@ -109,6 +121,11 @@ def main(*argv):
     syncdb_parser = subparsers.add_parser('syncdb', help='Create the Sqlite3 database and load tables')
     syncdb_parser.add_argument('database', type=str, nargs='?', default=None, help='Path to create a sqlite3 database')
     syncdb_parser.set_defaults(func=syncdb)
+
+    # Build model command
+    build_parser = subparsers.add_parser('build', help='Builds the model from the current database')
+    build_parser.add_argument('outpath', type=str, nargs=1, default='reccod.pickle', help='Path to write the model to.')
+    build_parser.set_defaults(func=build)
 
     # Handle input from the command line
     args = parser.parse_args()            # Parse the arguments
