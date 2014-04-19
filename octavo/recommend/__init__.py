@@ -17,4 +17,4 @@ Performs tasks relating to recommendations
 ## Imports
 ##########################################################################
 
-from factorization import Recommender
+from matrix import Recommender

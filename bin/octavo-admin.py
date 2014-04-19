@@ -27,6 +27,8 @@ import argparse
 from octavo.ingest.goodreads import Goodreads
 from octavo.wrangle import wrangle_reviews as loaddb
 from octavo.wrangle.models import syncdb as createdb
+from octavo.recommend import Recommender
+from octavo.report.user import UserReport
 
 ##########################################################################
 ## Command Line Variables
@@ -80,6 +82,25 @@ def syncdb(args):
     createdb(args.database)
     print "Database created."
 
+def build(args):
+    """
+    Builds the model from the current database
+    """
+    print "Warning this is going to take hours..."
+    print "Will write the model to '%s' once trained" % args.outpath
+    recommender = Recommender()
+    recommender.build_model()
+    recommender.dump(args.outpath)
+    print "Training took %0.3f seconds" % recommender.build_time
+
+def report(args):
+    """
+    Prints out a report for the particular user
+    """
+    report  = UserReport(args.user[0])
+    outpath = args.outpath or '%s.html' % args.user[0]
+    report.render(outpath)
+
 ##########################################################################
 ## Main Method
 ##########################################################################
@@ -109,6 +130,17 @@ def main(*argv):
     syncdb_parser = subparsers.add_parser('syncdb', help='Create the Sqlite3 database and load tables')
     syncdb_parser.add_argument('database', type=str, nargs='?', default=None, help='Path to create a sqlite3 database')
     syncdb_parser.set_defaults(func=syncdb)
+
+    # Build model command
+    build_parser = subparsers.add_parser('build', help='Builds the model from the current database')
+    build_parser.add_argument('outpath', type=str, nargs=1, default='reccod.pickle', help='Path to write the model to.')
+    build_parser.set_defaults(func=build)
+
+    # Report command
+    report_parser = subparsers.add_parser('report', help='Create an HTML report for the selected user')
+    report_parser.add_argument('user', type=int, nargs=1, help='User id to write the report for')
+    report_parser.add_argument('-o', '--outpath', type=str, default=None, help='Location to write report to')
+    report_parser.set_defaults(func=report)
 
     # Handle input from the command line
     args = parser.parse_args()            # Parse the arguments
