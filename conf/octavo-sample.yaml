@@ -1,0 +1,20 @@
+# This is an example configuration file
+# You can add a yaml configuration file at any of the following locations:
+#   /etc/octavo/octavo.yaml
+#   $HOME/.octavo.yaml
+#   $(PWD)/conf/octavo.yaml
+#   $(PWD)/octavo.yaml
+# Where the configuration will automatically be loaded.
+
+## Turn debugging on
+debug: false
+
+## Specify the location of scraped pages
+htdocs: /path/to/htdocs
+
+## Specify your GoodReads API keys
+goodreads_access_key: supersecretkey
+goodreads_secret_key: supersecretkey
+
+## Specify database settings
+database: /path/to/octavo.db
