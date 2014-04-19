@@ -27,6 +27,8 @@ import random
 import argparse
 
 from octavo.ingest.goodreads import Goodreads
+from octavo.wrangle import wrangle_reviews as loaddb
+from octavo.wrangle.models import syncdb as createdb
 
 ##########################################################################
 ## Command Line Variables
@@ -71,6 +73,22 @@ def ingest(args):
 
     return "%i xml files downloaded to %s\n" % (count, api.htdocs)
 
+def wrangle(args):
+    """
+    Load ingested data into the database
+    """
+    for review in args.reviews:
+        if os.path.exists(review):
+            loaddb(review)
+    print "Loaded reviews from %i files" % len(args.reviews)
+
+def syncdb(args):
+    """
+    Creates the database at the config location or specified location.
+    """
+    createdb(args.database)
+    print "Database created."
+
 ##########################################################################
 ## Main Method
 ##########################################################################
@@ -90,6 +108,16 @@ def main(*argv):
                                required=False, help='Bulk load from CSV file')
     ingest_parser.add_argument('userid', type=int, nargs='*', help='userid to collect reviews for')
     ingest_parser.set_defaults(func=ingest)
+
+    # Wrangle Reviews Command
+    wrangle_parser = subparsers.add_parser('wrangle', help='Load review xml data into database')
+    wrangle_parser.add_argument('reviews', type=str, nargs="+", help='Downloaded XML files to load')
+    wrangle_parser.set_defaults(func=wrangle)
+
+    # Syncdb command
+    syncdb_parser = subparsers.add_parser('syncdb', help='Create the Sqlite3 database and load tables')
+    syncdb_parser.add_argument('database', type=str, nargs='?', default=None, help='Path to create a sqlite3 database')
+    syncdb_parser.set_defaults(func=syncdb)
 
     # Handle input from the command line
     args = parser.parse_args()            # Parse the arguments
