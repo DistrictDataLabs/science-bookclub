@@ -25,34 +25,6 @@ import yaml
 ##########################################################################
 
 class Settings(object):
-    """
-    A class that stores static properties as default settings vars and
-    loads settings via a search path, looking for a YAML file.
-
-    Subclasses should provide defaults for the various configurations as
-    directly set class level properties. Note, however, that ANY directive
-    set in a configuration file (whether or not it has a default) will be
-    added to the configuration.
-
-    Example:
-
-        class MySettings(Settings):
-
-            mysetting = True
-            logpath   = "/var/log/myapp.log"
-            appname   = "MyApp"
-
-    The configuration is then loaded via the classmethod `load`:
-
-        settings = MySettings.load()
-
-    Access to properties is done two ways:
-
-        settings['mysetting']
-        settings.get('mysetting', True)
-
-    Note: None settings are not allowed!
-    """
 
     CONF_PATHS = []                                 # Search path for configuration files
 
@@ -77,32 +49,8 @@ class Settings(object):
         to configure the object from JSON or YAML.
         """
         if not conf: return                         # Don't do anything with empty conf
-        if isinstance(conf, Settings):              # Convert another Settings obj to a dict
-            conf = dict(conf.options())
-
-        # Check values for nested settings
-        keys = conf.keys()                          # Only evaluate passed in keys
-        for key in keys:
-            opt = self.get(key, None)               # Check the current property in settings
-            if isinstance(opt, Settings):           # Configure nested settings directly
-                opt.configure(conf.pop(key))        # Ensure to remove the setting
         self.__dict__.update(conf)                  # Update internal dict with new data
 
-    def options(self):
-        """
-        Returns an iterable of sorted options in order to loop through all
-        the configuration directives specified in the class.
-        """
-        # Get all the properties of this class
-        keys = self.__class__.__dict__.copy()
-        keys.update(self.__dict__)
-        keys = keys.keys()
-        keys.sort()
-
-        for opt in keys:
-            val = self.get(opt)
-            if val is not None:
-                yield opt, val
 
     def get(self, key, default=None):
         """
@@ -132,14 +80,10 @@ class Settings(object):
         Pretty print the configuration
         """
         s = ""
-        for opt, val in self.options():
-            r = repr(val)
-            r = " ".join(r.split())
-            wlen = 76-max(len(opt),10)
-            if len(r) > wlen:
-                r = r[:wlen-3]+"..."
-            s += "%-10s = %s\n" % (opt, r)
-        return s[:-1]
+        for param in self.__dict__.items():
+            if param[0].startswith('_'): continue
+            s += "%s: %s\n" % param
+        return s
 
 ##########################################################################
 ## Octavo Settings
@@ -155,13 +99,13 @@ class OctavoSettings(Settings):
         os.path.abspath('octavo.yaml'),            # Local directory configuration
     ]
 
-
-    debug                = False
-    htdocs               = os.path.abspath("fixtures/htdocs/")
-    database             = os.path.abspath("fixtures/octavo.db")
-    model_pickle         = os.path.abspath("fixtures/reccod.pickle")
-    goodreads_access_key = os.environ.get("GOODREADS_ACCESS_KEY", None)
-    goodreads_secret_key = os.environ.get("GOODREADS_SECRET_KEY", None)
+    def __init__(self):
+        self.debug                = False
+        self.htdocs               = os.path.abspath("fixtures/htdocs/")
+        self.database             = os.path.abspath("fixtures/octavo.db")
+        self.model_pickle         = os.path.abspath("fixtures/reccod.pickle")
+        self.goodreads_access_key = os.environ.get("GOODREADS_ACCESS_KEY", None)
+        self.goodreads_secret_key = os.environ.get("GOODREADS_SECRET_KEY", None)
 
 ##########################################################################
 ## On Import, Load Settings
