@@ -22,6 +22,8 @@ An administrative script for our bookclub
 import os
 import sys
 import csv
+import time
+import random
 import argparse
 
 from octavo.ingest.goodreads import Goodreads
@@ -55,8 +57,13 @@ def ingest(args):
     api = Goodreads(apikey=args.apikey, htdocs=args.htdocs)
     count = 0
     for userid in args.userid:
-        fname = "%s.xml" % str(userid)
-        paths = api.reviews(userid, fname, batch=args.batch)
+        try:
+            fname = "%s.xml" % str(userid)
+            paths = api.reviews(userid, fname, batch=args.batch)
+        except:
+            print "Error fetching reviews for user %s" % str(userid)
+            continue
+
         fmtst = "  fetched %s"
 
         if isinstance(paths, basestring): paths = [paths]
@@ -64,7 +71,9 @@ def ingest(args):
             count += 1
             print fmtst % path
 
-    return "%i reviews downloaded to %s\n" % (count, api.htdocs)
+        time.sleep(random.randint(2,15))
+
+    return "%i xml files downloaded to %s\n" % (count, api.htdocs)
 
 def wrangle(args):
     """
@@ -87,10 +96,10 @@ def build(args):
     Builds the model from the current database
     """
     print "Warning this is going to take hours..."
-    print "Will write the model to '%s' once trained" % args.outpath
+    print "Will write the model to '%s' once trained" % args.outpath[0]
     recommender = Recommender()
     recommender.build_model()
-    recommender.dump(args.outpath)
+    recommender.dump(args.outpath[0])
     print "Training took %0.3f seconds" % recommender.build_time
 
 def report(args):
