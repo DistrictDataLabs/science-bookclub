@@ -64,3 +64,4 @@ fixtures/htdocs
 conf/octavo.yaml
 
 fixtures/*.pickle
+docs/*.html
