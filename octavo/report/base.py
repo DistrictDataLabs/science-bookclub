@@ -50,7 +50,7 @@ class Report(object):
         """
         context  = self.get_context_data(**kwargs)
         template = self.get_template()
-        template.stream(context).dump(path)
+        template.stream(context).dump(path, encoding='utf-8')
 
     def get_template(self):
         """

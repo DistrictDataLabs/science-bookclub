@@ -17,11 +17,24 @@ Print out a per user recommendation report
 ## Imports
 ##########################################################################
 
+import os
+
 from base import Report
 from octavo.wrangle import lazy_popular_books as popular_books
 from octavo.wrangle.models import *
 from octavo.recommend import Recommender
 from octavo.config import settings
+
+##########################################################################
+## Helper function
+##########################################################################
+
+def relpath(path):
+    """
+    Returns the path relative to the current working directory.
+    """
+    prefix = os.path.commonprefix([path, os.getcwd()])
+    return os.path.relpath(path, prefix)
 
 ##########################################################################
 ## User Report
@@ -62,6 +75,7 @@ class UserReport(Report):
             'user': self.user,
             'popular': popular_books(), # Don't do this one in the demo
             'picks': self.recommender.guess_picks(self.user.id),
+            'model': relpath(settings.get('model_pickle', 'fixtures/reccod.pickle')),
         }
 
         context.update(self.system_status())            # Update general status

@@ -20,12 +20,12 @@
 
   <div class="row">
     <div class="col-md-12">
-      <p class="text-center"><big><strong>Current Model: <span class="text-mono">fixtures/reccod.pickle</span></strong></big></p>
+      <p class="text-center"><big><strong>Current Model: <span class="text-mono">{{ model }}</span></strong></big></p>
     </div>
 
     <div class="col-md-4">
       <p class="text-center"><big><strong>
-        <i class="fa fa-book"></i> {{ status.books }} Books
+        <i class="fa fa-book"></i> {{ "{:,d}".format(status.books) }} Books
       </strong></big></p>
     </div>
     <div class="col-md-4">
@@ -35,23 +35,23 @@
     </div>
     <div class="col-md-4">
       <p class="text-center"><big><strong>
-        <i class="fa fa-star-half-o"></i> {{ status.reviews }} Reviews
+        <i class="fa fa-star-half-o"></i> {{ "{:,d}".format(status.reviews) }} Reviews
       </strong></big></p>
     </div>
 
     <div class="col-md-4">
       <p class="text-center"><big><strong>
-        <i class="fa fa-clock-o"></i> {{ "%0.3f" | format(status.build_time) }} Seconds Build Time
+        <i class="fa fa-clock-o"></i> {{ "{:,.3f}".format(status.build_time) }} Seconds Build Time
       </strong></big></p>
     </div>
     <div class="col-md-4">
       <p class="text-center"><big><strong>
-        <i class="fa fa-table"></i> {{ "%0.3f" | format(status.sparsity) }}% Sparse
+        <i class="fa fa-table"></i> {{ "{:,.3f}".format(status.sparsity) }}% Sparse
       </strong></big></p>
     </div>
     <div class="col-md-4">
       <p class="text-center"><big><strong>
-        <i class="fa fa-square"></i> {{ status.matrix_size }} Matrix Size
+        <i class="fa fa-square"></i> {{ "{:,d}".format(status.matrix_size) }} Matrix Size
       </strong></big>
     </div>
 
