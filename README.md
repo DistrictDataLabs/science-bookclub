@@ -85,7 +85,7 @@ This may take a few minutes, but it will load all the books, authors, and review
 If you've been using a `reviewers.csv` file to bulk load, then you may want to get those names into the database, there isn't an `ocatavo-admin.py` command for this (yet), but you can load them with a helper function built into the library as follows:
 
     (octavo)~$ python
-    >>> from ocatavo.wrangle import wrangle_users
+    >>> from octavo.wrangle import wrangle_users
     >>> wrangle_users('fixtures/reviewers.csv')
 
 This will assure that the names you put in the CSV will now be in the database.
