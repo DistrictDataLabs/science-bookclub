@@ -22,6 +22,8 @@ An administrative script for our bookclub
 import os
 import sys
 import csv
+import time
+import random
 import argparse
 
 from octavo.ingest.goodreads import Goodreads
@@ -51,8 +53,13 @@ def ingest(args):
     api = Goodreads(apikey=args.apikey, htdocs=args.htdocs)
     count = 0
     for userid in args.userid:
-        fname = "%s.xml" % str(userid)
-        paths = api.reviews(userid, fname, batch=args.batch)
+        try:
+            fname = "%s.xml" % str(userid)
+            paths = api.reviews(userid, fname, batch=args.batch)
+        except:
+            print "Error fetching reviews for user %s" % str(userid)
+            continue
+
         fmtst = "  fetched %s"
 
         if isinstance(paths, basestring): paths = [paths]
@@ -60,7 +67,9 @@ def ingest(args):
             count += 1
             print fmtst % path
 
-    return "%i reviews downloaded to %s\n" % (count, api.htdocs)
+        time.sleep(random.randint(2,15))
+
+    return "%i xml files downloaded to %s\n" % (count, api.htdocs)
 
 ##########################################################################
 ## Main Method

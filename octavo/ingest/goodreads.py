@@ -91,7 +91,10 @@ class Goodreads(object):
         if hasattr(requests, action):
             action = getattr(requests, action)
             if callable(action):
-                return action(endpoint, **kwargs)
+                response = action(endpoint, **kwargs)
+                if response.status_code == 403:
+                    raise Exception("This action is not allowed by Goodreads.")
+                return response
         raise AttributeError('No HTTP method "%s"' % action)
 
     def fetch(self, method, params, filename, action='get', **kwargs):
