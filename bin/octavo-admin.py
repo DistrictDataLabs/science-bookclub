@@ -105,6 +105,22 @@ def syncdb(args):
     createdb(args.database)
     print "Database created."
 
+def wrangle(args):
+    """
+    Load ingested data into the database
+    """
+    for review in args.reviews:
+        if os.path.exists(review):
+            loaddb(review)
+    print "Loaded reviews from %i files" % len(args.reviews)
+
+def syncdb(args):
+    """
+    Creates the database at the config location or specified location.
+    """
+    createdb(args.database)
+    print "Database created."
+
 ##########################################################################
 ## Main Method
 ##########################################################################
