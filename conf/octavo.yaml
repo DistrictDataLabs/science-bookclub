@@ -1,5 +1,0 @@
-debug: True
-goodreads_access_key: qqkX8sMrWqlyBbkJzzGQ0A
-goodreads_secret_key: e4Bhd4EvFR2t6GIw6WwobiFPPMZZDdhkgAH3c71MdBc
-database: /Users/benjamin/Repos/ddl/science-bookclub/fixtures/octavo.db
-model_pickle: /Users/benjamin/Repos/ddl/science-bookclub/fixtures/reccod.pickle

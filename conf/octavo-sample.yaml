@@ -19,5 +19,5 @@ goodreads_secret_key: supersecretkey
 ## Specify database settings
 database: /path/to/octavo.db
 
-## Specify the path to the model pickle
+## Specify the location of the model pickle file
 model_pickle: /path/to/model.pickle

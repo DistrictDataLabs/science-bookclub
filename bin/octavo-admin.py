@@ -29,7 +29,7 @@ import argparse
 from octavo.ingest.goodreads import Goodreads
 from octavo.wrangle import wrangle_reviews as loaddb
 from octavo.wrangle.models import syncdb as createdb
-from octavo.recommend.matrix import Recommender
+from octavo.recommend import Recommender
 from octavo.report.user import UserReport
 
 ##########################################################################
@@ -91,55 +91,23 @@ def syncdb(args):
     createdb(args.database)
     print "Database created."
 
-def wrangle(args):
-    """
-    Load ingested data into the database
-    """
-    for review in args.reviews:
-        if os.path.exists(review):
-            loaddb(review)
-    print "Loaded reviews from %i files" % len(args.reviews)
-
-def syncdb(args):
-    """
-    Creates the database at the config location or specified location.
-    """
-    createdb(args.database)
-    print "Database created."
-
-def wrangle(args):
-    """
-    Load ingested data into the database
-    """
-    for review in args.reviews:
-        if os.path.exists(review):
-            loaddb(review)
-    print "Loaded reviews from %i files" % len(args.reviews)
-
-def syncdb(args):
-    """
-    Creates the database at the config location or specified location.
-    """
-    createdb(args.database)
-    print "Database created."
-
 def build(args):
     """
     Builds the model from the current database
     """
     print "Warning this is going to take hours..."
-    print "Will write the model to '%s' once trained" % args.outpath
+    print "Will write the model to '%s' once trained" % args.outpath[0]
     recommender = Recommender()
     recommender.build_model()
-    recommender.dump(args.outpath)
+    recommender.dump(args.outpath[0])
     print "Training took %0.3f seconds" % recommender.build_time
 
 def report(args):
     """
     Prints out a report for the particular user
     """
-    report  = UserReport(args.user)
-    outpath = args.outpath or '%s.html' % args.user
+    report  = UserReport(args.user[0])
+    outpath = args.outpath or '%s.html' % args.user[0]
     report.render(outpath)
 
 ##########################################################################
