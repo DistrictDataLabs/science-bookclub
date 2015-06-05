@@ -67,3 +67,5 @@ fixtures/*.pickle
 docs/*.html
 
 venv
+archive
+archive.zip

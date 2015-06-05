@@ -25,10 +25,11 @@ import csv
 import time
 import random
 import argparse
+
 # adding octavo to the path
+# this is a patch for development, but shouldn't be used in production
 BASE_DIR= os.path.dirname(os.path.dirname(__file__))
 sys.path.append(BASE_DIR)
-
 
 from octavo.ingest.goodreads import Goodreads
 from octavo.wrangle import wrangle_reviews as loaddb

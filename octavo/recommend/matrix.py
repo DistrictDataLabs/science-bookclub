@@ -56,6 +56,7 @@ class Recommender(object):
         self.users = users
         self.model = None
         self.build_time = None
+        self.build_date = None
 
     ##////////////////////////////////////////////////////////////////////
     ## Properties for easy access
@@ -140,7 +141,7 @@ class Recommender(object):
         Dump this instance into a pickle for loading in the future.
         """
         with open(pickle_path, 'wb') as pkl:
-            pickle.dump(self, pkl)
+            pickle.dump(self, pkl, pickle.HIGHEST_PROTOCOL)
 
     def sparsity(self):
         """
