@@ -65,3 +65,5 @@ conf/octavo.yaml
 
 fixtures/*.pickle
 docs/*.html
+
+venv
