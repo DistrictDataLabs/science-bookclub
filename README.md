@@ -60,7 +60,7 @@ Create and sync your database:
 
     (octavo)~$ bin/octavo-admin.py syncdb
 
-This will create the database at the location you specified in your
+This will create the database at the location you specified in your configuration file (conf/ocatvo.yaml).
 
 To run the ingestor:
 
@@ -96,7 +96,7 @@ The next part is the model building. This is going to take a long time so book a
 
     (ocatvo)~$ bin/octavo-admin.py build fixtures/reccod-$(date "+%m%d%Y").pickle
 
-This will get things going, just ignore your terminal for a while. It may be best to run this overnight. Also note that the `$(date "%m%d%Y")` may be different on your system, this is the command on OS X 10.9 - there is a slightly different format for Linux. However, it is a good idea to label the various models with some means to identify them in the future, rebuilding them is occassionally not an option!
+This will get things going, just ignore your terminal for a while. It may be best to run this overnight. Also note that the `$(date "%m%d%Y")` may be different on your system, this is the command on OS X 10.9 - there is a slightly different format for Linux. However, it is a good idea to label the various models with some means to identify them in the future, rebuilding them is occasionally not an option!
 
 ### Reporting ###
 
