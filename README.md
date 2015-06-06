@@ -43,6 +43,10 @@ If you're in the Syllabus branch (which is the only branch you should see this t
 
     Make sure you put in absolute paths to the directories you want to keep the database and the htdocs. Typically I just keep them in the fixtures directory. You also need to add your Goodreads API key and API-Secret.
 
+    Also make sure that you create all directories required in your configuration file. For example, to ensure that the default htdocs folder exists, enter the mkdir command as follows:
+
+        $ mkdir -p fixtures/htdocs
+
 ### Ingestion ###
 
 To run the ingestion process, see the `reviewers.csv` file that contains a list of Goodreads users and their userids. You can (and should) add your own as well as your friends names and IDs, the caveat here is that their reviews must be public (we're not doing any authentication).
